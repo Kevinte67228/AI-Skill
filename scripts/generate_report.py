@@ -18,11 +18,11 @@ import json
 import re
 import requests
 
-ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
+GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
 GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "Kevinte67228/AI-Skill")
 
-API_URL = "https://api.anthropic.com/v1/messages"
-MODEL = "claude-sonnet-5"
+MODEL = "gemini-2.5-flash"
+API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
 
 
 def build_prompt(raw_data: dict) -> str:
@@ -64,37 +64,40 @@ def build_prompt(raw_data: dict) -> str:
 """
 
 
-def call_claude(prompt: str) -> dict:
+def call_gemini(prompt: str) -> dict:
     resp = requests.post(
-        API_URL,
-        headers={
-            "x-api-key": ANTHROPIC_API_KEY,
-            "anthropic-version": "2023-06-01",
-            "content-type": "application/json",
-        },
+        f"{API_URL}?key={GEMINI_API_KEY}",
+        headers={"content-type": "application/json"},
         json={
-            "model": MODEL,
-            "max_tokens": 16000,
-            "messages": [{"role": "user", "content": prompt}],
+            "contents": [{"parts": [{"text": prompt}]}],
+            "generationConfig": {
+                "response_mime_type": "application/json",
+                "maxOutputTokens": 16000,
+            },
         },
         timeout=300,
     )
     if not resp.ok:
-        print("=== Claude API 呼叫失敗 ===")
+        print("=== Gemini API 呼叫失敗 ===")
         print("status_code:", resp.status_code)
         print("response body:", resp.text[:3000])
         resp.raise_for_status()
 
     data = resp.json()
 
-    if data.get("stop_reason") == "max_tokens":
-        print("警告: 回應被 max_tokens 截斷，內容可能不完整，請考慮減少項目數量或再提高 max_tokens")
+    candidates = data.get("candidates", [])
+    if not candidates:
+        print("=== Gemini 沒有回傳任何 candidate ===")
+        print(json.dumps(data, ensure_ascii=False)[:3000])
+        raise RuntimeError("Gemini API 未回傳內容，可能被安全機制擋下")
 
-    text = "".join(
-        block.get("text", "") for block in data.get("content", []) if block.get("type") == "text"
-    )
+    finish_reason = candidates[0].get("finishReason")
+    if finish_reason == "MAX_TOKENS":
+        print("警告: 回應被 maxOutputTokens 截斷，內容可能不完整，請考慮提高 maxOutputTokens")
 
-    # 保险起见，去掉可能出现的 ```json 包裹
+    parts = candidates[0].get("content", {}).get("parts", [])
+    text = "".join(p.get("text", "") for p in parts)
+
     cleaned = re.sub(r"^```json\s*|```\s*$", "", text.strip())
 
     try:
@@ -106,7 +109,6 @@ def call_claude(prompt: str) -> dict:
         print(cleaned[:2000])
         print("原始回應後 2000 字:")
         print(cleaned[-2000:])
-        # 嘗試從第一個 { 到最後一個 } 之間擷取，救回被前後贅字包住的情況
         start = cleaned.find("{")
         end = cleaned.rfind("}")
         if start != -1 and end != -1 and end > start:
@@ -144,7 +146,7 @@ def main():
         raw_data = json.load(f)
 
     prompt = build_prompt(raw_data)
-    report = call_claude(prompt)
+    report = call_gemini(prompt)
 
     with open("report.json", "w", encoding="utf-8") as f:
         json.dump(report, f, ensure_ascii=False, indent=2)
