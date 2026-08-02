@@ -1,0 +1,207 @@
+{
+  "date": "2026-08-02",
+  "top_star": [
+    {
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "html_url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": 534347,
+      "language": "Markdown",
+      "created_at": "2018-05-09T12:03:18Z",
+      "updated_at": "2026-08-02T10:10:39Z"
+    },
+    {
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "html_url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "stars": 454033,
+      "language": "Python",
+      "created_at": "2016-03-20T23:49:42Z",
+      "updated_at": "2026-08-02T10:11:53Z"
+    },
+    {
+      "name": "freeCodeCamp",
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": 453340,
+      "language": "TypeScript",
+      "created_at": "2014-12-24T17:49:19Z",
+      "updated_at": "2026-08-02T10:03:03Z"
+    },
+    {
+      "name": "free-programming-books",
+      "full_name": "EbookFoundation/free-programming-books",
+      "html_url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books",
+      "stars": 393535,
+      "language": "Python",
+      "created_at": "2013-10-11T06:50:37Z",
+      "updated_at": "2026-08-02T10:13:50Z"
+    },
+    {
+      "name": "openclaw",
+      "full_name": "openclaw/openclaw",
+      "html_url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 384883,
+      "language": "TypeScript",
+      "created_at": "2025-11-24T10:16:47Z",
+      "updated_at": "2026-08-02T10:14:28Z"
+    },
+    {
+      "name": "developer-roadmap",
+      "full_name": "nilbuild/developer-roadmap",
+      "html_url": "https://github.com/nilbuild/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "stars": 363368,
+      "language": "TypeScript",
+      "created_at": "2017-03-15T13:45:52Z",
+      "updated_at": "2026-08-02T10:08:52Z"
+    },
+    {
+      "name": "awesome-python",
+      "full_name": "vinta/awesome-python",
+      "html_url": "https://github.com/vinta/awesome-python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "stars": 311667,
+      "language": "Python",
+      "created_at": "2014-06-27T21:00:06Z",
+      "updated_at": "2026-08-02T10:11:18Z"
+    },
+    {
+      "name": "awesome-selfhosted",
+      "full_name": "awesome-selfhosted/awesome-selfhosted",
+      "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "stars": 310086,
+      "language": "Unknown",
+      "created_at": "2015-06-01T02:33:17Z",
+      "updated_at": "2026-08-02T10:12:13Z"
+    },
+    {
+      "name": "project-based-learning",
+      "full_name": "practical-tutorials/project-based-learning",
+      "html_url": "https://github.com/practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "stars": 276168,
+      "language": "Python",
+      "created_at": "2017-04-12T05:07:46Z",
+      "updated_at": "2026-08-02T10:12:43Z"
+    },
+    {
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 264929,
+      "language": "Shell",
+      "created_at": "2025-10-09T19:45:18Z",
+      "updated_at": "2026-08-02T10:14:39Z"
+    }
+  ],
+  "fast_rising": [
+    {
+      "name": "Kimi-K3",
+      "full_name": "MoonshotAI/Kimi-K3",
+      "html_url": "https://github.com/MoonshotAI/Kimi-K3",
+      "description": "Open Frontier Intelligence",
+      "stars": 7854,
+      "language": "Unknown",
+      "created_at": "2026-07-27T08:01:37Z",
+      "updated_at": "2026-08-02T10:03:08Z"
+    },
+    {
+      "name": "qm",
+      "full_name": "yc-software/qm",
+      "html_url": "https://github.com/yc-software/qm",
+      "description": "Multiplayer agent harness for work",
+      "stars": 5692,
+      "language": "TypeScript",
+      "created_at": "2026-07-29T20:03:08Z",
+      "updated_at": "2026-08-02T10:12:17Z"
+    },
+    {
+      "name": "decimen-optical-transfer",
+      "full_name": "bashalarmistalt/decimen-optical-transfer",
+      "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "description": "",
+      "stars": 3238,
+      "language": "TypeScript",
+      "created_at": "2026-07-30T18:17:54Z",
+      "updated_at": "2026-08-02T10:13:08Z"
+    },
+    {
+      "name": "qwen-audio-agent",
+      "full_name": "QwenAudio/qwen-audio-agent",
+      "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "stars": 1648,
+      "language": "JavaScript",
+      "created_at": "2026-07-27T05:04:26Z",
+      "updated_at": "2026-08-02T10:13:49Z"
+    },
+    {
+      "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "html_url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+      "stars": 1309,
+      "language": "Unknown",
+      "created_at": "2026-07-30T05:39:38Z",
+      "updated_at": "2026-08-02T10:12:32Z"
+    },
+    {
+      "name": "crm",
+      "full_name": "trycompai/crm",
+      "html_url": "https://github.com/trycompai/crm",
+      "description": "",
+      "stars": 1153,
+      "language": "TypeScript",
+      "created_at": "2026-07-31T21:38:51Z",
+      "updated_at": "2026-08-02T10:14:30Z"
+    },
+    {
+      "name": "persona",
+      "full_name": "xikhar/persona",
+      "html_url": "https://github.com/xikhar/persona",
+      "description": "Bringing real-time voice to life.",
+      "stars": 774,
+      "language": "JavaScript",
+      "created_at": "2026-07-28T11:40:19Z",
+      "updated_at": "2026-08-02T07:58:43Z"
+    },
+    {
+      "name": "waste",
+      "full_name": "sqliteai/waste",
+      "html_url": "https://github.com/sqliteai/waste",
+      "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
+      "stars": 756,
+      "language": "C",
+      "created_at": "2026-07-28T20:56:00Z",
+      "updated_at": "2026-08-02T10:10:38Z"
+    },
+    {
+      "name": "talivia",
+      "full_name": "talivia-group/talivia",
+      "html_url": "https://github.com/talivia-group/talivia",
+      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "stars": 606,
+      "language": "TypeScript",
+      "created_at": "2026-07-29T07:56:49Z",
+      "updated_at": "2026-08-02T09:50:58Z"
+    },
+    {
+      "name": "deltafin",
+      "full_name": "gavamedia/deltafin",
+      "html_url": "https://github.com/gavamedia/deltafin",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "stars": 602,
+      "language": "Python",
+      "created_at": "2026-07-28T01:01:23Z",
+      "updated_at": "2026-08-02T09:43:48Z"
+    }
+  ]
+}
