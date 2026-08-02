@@ -22,7 +22,7 @@ ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "Kevinte67228/AI-Skill")
 
 API_URL = "https://api.anthropic.com/v1/messages"
-MODEL = "claude-sonnet-4-6"
+MODEL = "claude-sonnet-5"
 
 
 def build_prompt(raw_data: dict) -> str:
