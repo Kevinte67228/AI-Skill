@@ -29,9 +29,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/fetch_repos.py
 
-      - name: 呼叫 Claude 產生報告
+      - name: 呼叫 Gemini 產生報告
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python scripts/generate_report.py
 
