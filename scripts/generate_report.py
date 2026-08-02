@@ -74,19 +74,47 @@ def call_claude(prompt: str) -> dict:
         },
         json={
             "model": MODEL,
-            "max_tokens": 8000,
+            "max_tokens": 16000,
             "messages": [{"role": "user", "content": prompt}],
         },
-        timeout=180,
+        timeout=300,
     )
-    resp.raise_for_status()
+    if not resp.ok:
+        print("=== Claude API 呼叫失敗 ===")
+        print("status_code:", resp.status_code)
+        print("response body:", resp.text[:3000])
+        resp.raise_for_status()
+
     data = resp.json()
+
+    if data.get("stop_reason") == "max_tokens":
+        print("警告: 回應被 max_tokens 截斷，內容可能不完整，請考慮減少項目數量或再提高 max_tokens")
+
     text = "".join(
         block.get("text", "") for block in data.get("content", []) if block.get("type") == "text"
     )
+
     # 保险起见，去掉可能出现的 ```json 包裹
     cleaned = re.sub(r"^```json\s*|```\s*$", "", text.strip())
-    return json.loads(cleaned)
+
+    try:
+        return json.loads(cleaned)
+    except json.JSONDecodeError as e:
+        print("=== JSON 解析失敗，印出原始回應方便除錯 ===")
+        print("錯誤:", e)
+        print("原始回應前 2000 字:")
+        print(cleaned[:2000])
+        print("原始回應後 2000 字:")
+        print(cleaned[-2000:])
+        # 嘗試從第一個 { 到最後一個 } 之間擷取，救回被前後贅字包住的情況
+        start = cleaned.find("{")
+        end = cleaned.rfind("}")
+        if start != -1 and end != -1 and end > start:
+            try:
+                return json.loads(cleaned[start:end + 1])
+            except json.JSONDecodeError:
+                pass
+        raise
 
 
 def write_readmes(report: dict):
