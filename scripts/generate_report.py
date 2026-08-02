@@ -72,7 +72,7 @@ def call_gemini(prompt: str) -> dict:
             "contents": [{"parts": [{"text": prompt}]}],
             "generationConfig": {
                 "response_mime_type": "application/json",
-                "maxOutputTokens": 16000,
+                "maxOutputTokens": 65536,
             },
         },
         timeout=300,
