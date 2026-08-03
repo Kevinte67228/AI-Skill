@@ -28,7 +28,7 @@ def main():
     date = report["date"]
 
     msg = MIMEMultipart("alternative")
-    msg["Subject"] = f"每日 GitHub 開源技能日報 - {date}"
+    msg["Subject"] = f"每週 GitHub 開源技能日報 - {date}"
     msg["From"] = EMAIL_USER
     msg["To"] = EMAIL_TO
     msg.attach(MIMEText(html_body, "html", "utf-8"))
