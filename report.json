@@ -1,77 +1,40 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "categories": [
     {
-      "category_name": "ai-agents",
+      "category_name": "programming-education",
       "items": [
         {
-          "name": "qm",
-          "type": "Fast-Rising",
-          "original_url": "https://github.com/yc-software/qm",
-          "local_path": "ai-agents/qm/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/ai-agents/qm",
-          "summary": "一個為工作設計的多玩家代理協作框架。它旨在優化團隊協作和任務管理，為複雜的專案提供了新穎的解決方案。",
-          "full_name": "yc-software/qm"
+          "name": "build-your-own-x",
+          "type": "Top Star",
+          "original_url": "https://github.com/codecrafters-io/build-your-own-x",
+          "local_path": "programming-education/build-your-own-x/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/build-your-own-x",
+          "summary": "此專案透過引導使用者從頭重建常見的技術（如Git、Docker），幫助他們深入理解程式設計的核心概念。它適合希望透過實作來精進技能的開發者，是提升程式設計實力的寶貴資源。其獨特的學習方法讓抽象的技術變得具體易懂。"
         },
         {
-          "name": "persona",
-          "type": "Fast-Rising",
-          "original_url": "https://github.com/xikhar/persona",
-          "local_path": "ai-agents/persona/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/ai-agents/persona",
-          "summary": "旨在將即時語音技術應用於生活，可能與創建逼真的語音互動介面有關。該項目在語音 AI 領域具有潛力，可應用於多種智能助理和人機交互場景。",
-          "full_name": "xikhar/persona"
+          "name": "freeCodeCamp",
+          "type": "Top Star",
+          "original_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "local_path": "programming-education/freeCodeCamp/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/freeCodeCamp",
+          "summary": "freeCodeCamp 提供免費的開源程式碼庫和課程，涵蓋數學、程式設計和電腦科學。它非常適合自學者或希望免費獲得高品質IT教育的人士，其龐大的社群和實用課程使其成為學習程式設計的熱門選擇。"
         },
         {
-          "name": "qwen-audio-agent",
-          "type": "Fast-Rising",
-          "original_url": "https://github.com/QwenAudio/qwen-audio-agent",
-          "local_path": "ai-agents/qwen-audio-agent/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/ai-agents/qwen-audio-agent",
-          "summary": "專為 AI 代理設計的即時語音運行環境。它使得 AI 代理能夠進行即時語音交流，是語音互動 AI 應用領域的重要突破。",
-          "full_name": "QwenAudio/qwen-audio-agent"
-        }
-      ]
-    },
-    {
-      "category_name": "ai-assistants",
-      "items": [
-        {
-          "name": "openclaw",
+          "name": "free-programming-books",
           "type": "Top Star",
-          "original_url": "https://github.com/openclaw/openclaw",
-          "local_path": "ai-assistants/openclaw/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/ai-assistants/openclaw",
-          "summary": "一款跨平台、開源的個人 AI 助理。它提供了高度靈活的 AI 解決方案，讓用戶能在不同作業系統上擁有專屬的智慧助手，值得關注其潛在的個人化 AI 應用。",
-          "full_name": "openclaw/openclaw"
-        }
-      ]
-    },
-    {
-      "category_name": "ai-frameworks",
-      "items": [
+          "original_url": "https://github.com/EbookFoundation/free-programming-books",
+          "local_path": "programming-education/free-programming-books/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/free-programming-books",
+          "summary": "這個專案彙集了大量免費的程式設計書籍資源，涵蓋多種程式語言和技術領域。對於任何預算有限但渴望學習新技能的程式設計師或學生而言，這是一個不可多得的寶藏。它能幫助使用者輕鬆找到高品質的學習資料，無需額外花費。"
+        },
         {
-          "name": "superpowers",
+          "name": "project-based-learning",
           "type": "Top Star",
-          "original_url": "https://github.com/obra/superpowers",
-          "local_path": "ai-frameworks/superpowers/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/ai-frameworks/superpowers",
-          "summary": "一個有效且實用的代理技能框架及軟體開發方法論。它引入了新的開發範式，旨在提高開發效率與軟體品質，值得開發者深入研究。",
-          "full_name": "obra/superpowers"
-        }
-      ]
-    },
-    {
-      "category_name": "ai-models",
-      "items": [
-        {
-          "name": "Kimi-K3",
-          "type": "Fast-Rising",
-          "original_url": "https://github.com/MoonshotAI/Kimi-K3",
-          "local_path": "ai-models/Kimi-K3/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/ai-models/Kimi-K3",
-          "summary": "一個新興的開源前沿智慧專案。它代表了 AI 領域的最新探索，值得密切關注其在人工智慧發展中的潛力。",
-          "full_name": "MoonshotAI/Kimi-K3"
+          "original_url": "https://github.com/practical-tutorials/project-based-learning",
+          "local_path": "programming-education/project-based-learning/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/project-based-learning",
+          "summary": "該專案精選了一系列以專案為基礎的教學指南，讓學習者透過實作來掌握知識和技能。它非常適合那些偏好動手實踐、透過完成實際專案來學習的開發者，幫助他們將理論知識轉化為實際應用能力。"
         }
       ]
     },
@@ -84,142 +47,70 @@
           "original_url": "https://github.com/public-apis/public-apis",
           "local_path": "api-resources/public-apis/README.md",
           "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/api-resources/public-apis",
-          "summary": "彙整了大量免費的公共 API 資源。無論是開發者尋找特定功能的 API 還是進行資料整合，這個列表都是寶貴的起點，極大地提升了開發效率。",
-          "full_name": "public-apis/public-apis"
+          "summary": "這個集合整理了各式各樣免費可用的API，涵蓋數據、娛樂、開發工具等眾多類別。對於尋找特定功能或數據源的開發者來說，它是一個極其方便的參考列表。它能加速應用程式開發，提供豐富的整合可能性。"
         }
       ]
     },
     {
-      "category_name": "crm",
+      "category_name": "ai-agents",
       "items": [
+        {
+          "name": "openclaw",
+          "type": "Top Star",
+          "original_url": "https://github.com/openclaw/openclaw",
+          "local_path": "ai-agents/openclaw/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/ai-agents/openclaw",
+          "summary": "OpenClaw 是一個個人AI助理專案，旨在提供跨平台、跨作業系統的通用AI解決方案。它適合追求高度自訂化與個人化AI體驗的使用者和開發者，其「龍蝦之道」的理念預示著獨特的AI互動模式。此專案在AI助理領域展現了新穎的探索方向。"
+        },
+        {
+          "name": "qm",
+          "type": "Fast-Rising",
+          "original_url": "https://github.com/yc-software/qm",
+          "local_path": "ai-agents/qm/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/ai-agents/qm",
+          "summary": "QM 是一個多玩家代理協調框架，旨在實現工作流程的自動化和協作。它非常適合團隊協作環境中，需要將複雜任務分解並分派給多個智能代理的場景。這個專案展現了agentic工作流程的未來潛力，值得關注。"
+        },
         {
           "name": "crm",
           "type": "Fast-Rising",
           "original_url": "https://github.com/trycompai/crm",
-          "local_path": "crm/crm/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/crm/crm",
-          "summary": "儘管描述為空，但其命名暗示了客戶關係管理系統的功能。此專案可能提供創新的 CRM 解決方案，值得企業和開發者關注其發展。",
-          "full_name": "trycompai/crm"
+          "local_path": "ai-agents/crm/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/ai-agents/crm",
+          "summary": "這是一個開源的、以代理（agentic-first）為核心理念的客戶關係管理系統。它適合需要更智慧、自動化客戶互動管理方案的企業，透過AI代理提升CRM的效率和個性化。此專案代表了AI在企業應用領域的最新趨勢。"
         }
       ]
     },
     {
-      "category_name": "data-engineering",
-      "items": [
-        {
-          "name": "decimen-optical-transfer",
-          "type": "Fast-Rising",
-          "original_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-          "local_path": "data-engineering/decimen-optical-transfer/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/data-engineering/decimen-optical-transfer",
-          "summary": "該項目名稱暗示了光學傳輸或資料處理的潛在應用。儘管缺乏詳細描述，其快速增長表明了社區對此技術的關注，可能涉及高效能數據交換。",
-          "full_name": "bashalarmistalt/decimen-optical-transfer"
-        }
-      ]
-    },
-    {
-      "category_name": "developer-education",
+      "category_name": "career-development",
       "items": [
         {
           "name": "developer-roadmap",
           "type": "Top Star",
           "original_url": "https://github.com/nilbuild/developer-roadmap",
-          "local_path": "developer-education/developer-roadmap/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/developer-education/developer-roadmap",
-          "summary": "提供互動式的開發者職涯路線圖、指南及教育內容。這對於希望規劃職涯路徑、學習新技術的開發者來說，是一個極具價值的導航工具。",
-          "full_name": "nilbuild/developer-roadmap"
-        }
-      ]
-    },
-    {
-      "category_name": "devops-education",
-      "items": [
+          "local_path": "career-development/developer-roadmap/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/career-development/developer-roadmap",
+          "summary": "Developer Roadmap 提供互動式的技術路線圖、指南及其他教育內容，旨在幫助開發者在職業生涯中成長。無論是前端、後端還是DevOps，這個專案都能為開發者提供清晰的學習路徑。它是規劃和加速技術職涯發展的理想工具。"
+        },
         {
           "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
           "type": "Fast-Rising",
           "original_url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-          "local_path": "devops-education/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/devops-education/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-          "summary": "一份針對「前沿部署工程師」(FDE) 的從零入門指南。它基於《增長黑客》框架，旨在幫助開發者掌握部署與營運技能，對於希望拓展職涯廣度的工程師極具參考價值。",
-          "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+          "local_path": "career-development/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/career-development/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+          "summary": "此專案為前沿部署工程師（FDE）提供了從零開始的入門指南，基於范冰的《增長黑客》原書框架。它適合希望轉型或深入了解FDE職位的技術人員和學生，提供了系統性的學習路徑與實踐指導。該指南能幫助讀者快速掌握FDE的核心理念與實務技能。"
         }
       ]
     },
     {
-      "category_name": "llm-infrastructure",
-      "items": [
-        {
-          "name": "deltafin",
-          "type": "Fast-Rising",
-          "original_url": "https://github.com/gavamedia/deltafin",
-          "local_path": "llm-infrastructure/deltafin/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/llm-infrastructure/deltafin",
-          "summary": "允許在單一設備上運行完整的 Kimi K3 模型，並提供與 OpenAI 相容的本地 API 服務。這使得開發者能更便捷地部署和使用大型語言模型，促進本地 AI 應用開發。",
-          "full_name": "gavamedia/deltafin"
-        },
-        {
-          "name": "waste",
-          "type": "Fast-Rising",
-          "original_url": "https://github.com/sqliteai/waste",
-          "local_path": "llm-infrastructure/waste/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/llm-infrastructure/waste",
-          "summary": "針對 Kimi K3 大型模型，提供在有限記憶體下透過 NVMe 串流運行的高效推理引擎。這項技術對於部署大型 AI 模型於資源受限環境至關重要，大幅降低了硬體要求。",
-          "full_name": "sqliteai/waste"
-        }
-      ]
-    },
-    {
-      "category_name": "programming-education",
-      "items": [
-        {
-          "name": "build-your-own-x",
-          "type": "Top Star",
-          "original_url": "https://github.com/codecrafters-io/build-your-own-x",
-          "local_path": "programming-education/build-your-own-x/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/build-your-own-x",
-          "summary": "透過從零開始重新實作流行技術來精通程式設計。這是一個非常適合動手學習的資源，幫助開發者深入理解底層原理並提升實戰技能。",
-          "full_name": "codecrafters-io/build-your-own-x"
-        },
-        {
-          "name": "freeCodeCamp",
-          "type": "Top Star",
-          "original_url": "https://github.com/freeCodeCamp/freeCodeCamp",
-          "local_path": "programming-education/freeCodeCamp/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/freeCodeCamp",
-          "summary": "freeCodeCamp.org 的開源程式碼庫和課程，提供免費的數學、程式設計和電腦科學學習資源。它為全球渴望學習程式設計的人們提供了一個全面且無障礙的學習平台。",
-          "full_name": "freeCodeCamp/freeCodeCamp"
-        },
-        {
-          "name": "free-programming-books",
-          "type": "Top Star",
-          "original_url": "https://github.com/EbookFoundation/free-programming-books",
-          "local_path": "programming-education/free-programming-books/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/free-programming-books",
-          "summary": "彙集了大量免費可用的程式設計書籍。對於預算有限的學習者來說，這是一個不可多得的知識寶庫，有助於他們獲取廣泛的技術知識。",
-          "full_name": "EbookFoundation/free-programming-books"
-        },
-        {
-          "name": "project-based-learning",
-          "type": "Top Star",
-          "original_url": "https://github.com/practical-tutorials/project-based-learning",
-          "local_path": "programming-education/project-based-learning/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/project-based-learning",
-          "summary": "精心策劃的專案式教學指南列表。透過實際專案操作，學習者能有效鞏固理論知識並培養實戰能力，是提升技能的實用方式。",
-          "full_name": "practical-tutorials/project-based-learning"
-        }
-      ]
-    },
-    {
-      "category_name": "python-ecosystem",
+      "category_name": "programming-resources",
       "items": [
         {
           "name": "awesome-python",
           "type": "Top Star",
           "original_url": "https://github.com/vinta/awesome-python",
-          "local_path": "python-ecosystem/awesome-python/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/python-ecosystem/awesome-python",
-          "summary": "一份精選的 Python 框架、函式庫、工具和資源列表。它為 Python 開發者提供了豐富的參考資料，能快速找到所需的開發工具，提升開發效率。",
-          "full_name": "vinta/awesome-python"
+          "local_path": "programming-resources/awesome-python/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/programming-resources/awesome-python",
+          "summary": "Awesome Python 是一個精選的Python框架、函式庫、工具和資源列表。它為Python開發者提供了豐富的參考資料，無論是尋找特定功能的庫還是探索新技術，都能在此找到靈感。其廣泛的內容使其成為Python社群的重要資源。"
         }
       ]
     },
@@ -232,25 +123,114 @@
           "original_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
           "local_path": "self-hosting/awesome-selfhosted/README.md",
           "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/self-hosting/awesome-selfhosted",
-          "summary": "列出了大量可在自有伺服器上託管的免費網路服務和網路應用程式。對於追求數據自主權和客製化部署的用戶來說，這是一個極其有用的資源。",
-          "full_name": "awesome-selfhosted/awesome-selfhosted"
+          "summary": "這個專案列出了許多可在自己伺服器上託管的免費軟體網路服務和網頁應用程式。它適合希望掌控個人數據、提升隱私保護，或追求更高自訂彈性的使用者。對於尋求開源替代方案並願意自行架設服務的人來說，這是一個極具價值的清單。"
         }
       ]
     },
     {
-      "category_name": "web-analytics",
+      "category_name": "ai-frameworks",
+      "items": [
+        {
+          "name": "superpowers",
+          "type": "Top Star",
+          "original_url": "https://github.com/obra/superpowers",
+          "local_path": "ai-frameworks/superpowers/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/ai-frameworks/superpowers",
+          "summary": "Superpowers 是一個代理技能框架和軟體開發方法論，旨在提供有效的工作流程。它適合開發者和團隊，用於構建和管理基於AI代理的複雜系統。這個框架的出現，預示著更高效、模組化的AI應用開發未來。"
+        }
+      ]
+    },
+    {
+      "category_name": "data-transfer",
+      "items": [
+        {
+          "name": "decimen-optical-transfer",
+          "type": "Fast-Rising",
+          "original_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+          "local_path": "data-transfer/decimen-optical-transfer/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/data-transfer/decimen-optical-transfer",
+          "summary": "儘管此專案的描述為空，其名稱 'decimen-optical-transfer' 暗示了它可能涉及光學數據傳輸或相關技術。它可能適合從事高速或特定數據傳輸解決方案的研發人員。建議密切關注其後續更新，以了解其實際應用價值。"
+        }
+      ]
+    },
+    {
+      "category_name": "gaming-cheats",
+      "items": [
+        {
+          "name": "WilonityLoader",
+          "type": "Fast-Rising",
+          "original_url": "https://github.com/WilonityDev/WilonityLoader",
+          "local_path": "gaming-cheats/WilonityLoader/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/gaming-cheats/WilonityLoader",
+          "summary": "WilonityLoader 是一個作弊函式庫，包含欺騙器、驅動程式繞過、以及針對多款熱門遊戲（如RUST, CS2, Valorant）的未偵測注入器。它提供各種遊戲輔助功能，如ESP、aimbot等，旨在繞過反作弊系統。雖然其用途具爭議性，但從技術角度看，它展現了複雜的繞過和注入技術，對了解遊戲安全攻防有參考價值。"
+        }
+      ]
+    },
+    {
+      "category_name": "ml-inference",
+      "items": [
+        {
+          "name": "waste",
+          "type": "Fast-Rising",
+          "original_url": "https://github.com/sqliteai/waste",
+          "local_path": "ml-inference/waste/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/ml-inference/waste",
+          "summary": "Waste 是一個C語言推理引擎，設計用於處理超大型模型（如Kimi K3的2.78萬億參數），即使可用RAM不足也能透過從NVMe串流激活權重來運行。它適合需要在資源受限環境下部署大型AI模型的開發者。此專案在高效能AI推理領域提供了突破性的解決方案。"
+        }
+      ]
+    },
+    {
+      "category_name": "ai-automation",
+      "items": [
+        {
+          "name": "skill-recorder",
+          "type": "Fast-Rising",
+          "original_url": "https://github.com/microsoft/skill-recorder",
+          "local_path": "ai-automation/skill-recorder/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/ai-automation/skill-recorder",
+          "summary": "Skill Recorder 是一個桌面應用程式，能夠錄製螢幕上的工作會話，並利用GitHub Copilot CLI將其重構為意圖和有序步驟，進而為Microsoft Scout、Copilot Cowork或Copilot Studio構建可重用的技能或自動化。它適合希望將日常重複性任務自動化、提高工作效率的專業人士。該工具展示了AI在提升個人生產力方面的巨大潛力。"
+        }
+      ]
+    },
+    {
+      "category_name": "ai-voice-tech",
+      "items": [
+        {
+          "name": "persona",
+          "type": "Fast-Rising",
+          "original_url": "https://github.com/xikhar/persona",
+          "local_path": "ai-voice-tech/persona/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/ai-voice-tech/persona",
+          "summary": "Persona 旨在將即時語音技術帶入生活，提供更自然、逼真的語音互動體驗。它適合開發語音應用程式、虛擬助手或任何需要高品質即時語音生成與處理的場景。此專案在語音AI領域的創新，使其成為提升人機互動體驗的關鍵技術。"
+        }
+      ]
+    },
+    {
+      "category_name": "ai-architecture",
+      "items": [
+        {
+          "name": "sol-advisor",
+          "type": "Fast-Rising",
+          "original_url": "https://github.com/DannyMac180/sol-advisor",
+          "local_path": "ai-architecture/sol-advisor/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/ai-architecture/sol-advisor",
+          "summary": "Sol Advisor 是一個基於Codex的架構師協調工具，結合了Luna和Terra的實作通道，並強制執行新鮮的Sol審查。它適合大型軟體專案中需要複雜架構設計與驗證的團隊，透過AI輔助確保設計品質和一致性。這個工具在AI驅動的軟體架構領域展示了前沿應用。"
+        }
+      ]
+    },
+    {
+      "category_name": "business-analytics",
       "items": [
         {
           "name": "talivia",
           "type": "Fast-Rising",
           "original_url": "https://github.com/talivia-group/talivia",
-          "local_path": "web-analytics/talivia/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/web-analytics/talivia",
-          "summary": "一個開源、自託管的營收導向分析工具，專為創業者設計。它提供網路分析、會話重放、營收歸因等功能，是數據驅動決策的強大替代方案。",
-          "full_name": "talivia-group/talivia"
+          "local_path": "business-analytics/talivia/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/business-analytics/talivia",
+          "summary": "Talivia 是一個開源、可自行託管的以營收為主的創始人分析工具，提供網站分析、會話重播、營收歸因和客戶營收整合。它適合創業公司創始人或任何需要全面、深入了解其業務營收和用戶行為的團隊。作為datafast的開源替代方案，它提供了數據驅動決策的強大基礎。"
         }
       ]
     }
   ],
-  "email_html_body": "<html lang=\"zh-Hant\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>GitHub 開源科技報告 (2026-08-02)</title>\n</head>\n<body style=\"font-family: Arial, sans-serif; margin: 0; padding: 20px; background-color: #f4f4f4; color: #333;\">\n    <div style=\"max-width: 800px; margin: 20px auto; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); padding: 30px;\">\n        <h1 style=\"color: #0056b3; text-align: center; margin-bottom: 30px;\">GitHub 開源科技報告</h1>\n        <p style=\"font-size: 14px; color: #666; text-align: center; margin-bottom: 40px;\">日期: 2026-08-02</p>\n\n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Ai Agents</h2>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">qm <span style=\"font-size: 12px; color: #888; background-color: #e0f7fa; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 一個為工作設計的多玩家代理協作框架。它旨在優化團隊協作和任務管理，為複雜的專案提供了新穎的解決方案。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> TypeScript | <strong>Star:</strong> 5,692</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/yc-software/qm\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">yc-software/qm</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/ai-agents/qm\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">ai-agents/qm/README.md</a></p>\n            </div>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">persona <span style=\"font-size: 12px; color: #888; background-color: #e0f7fa; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 旨在將即時語音技術應用於生活，可能與創建逼真的語音互動介面有關。該項目在語音 AI 領域具有潛力，可應用於多種智能助理和人機交互場景。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> JavaScript | <strong>Star:</strong> 774</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/xikhar/persona\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">xikhar/persona</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/ai-agents/persona\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">ai-agents/persona/README.md</a></p>\n            </div>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">qwen-audio-agent <span style=\"font-size: 12px; color: #888; background-color: #e0f7fa; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 專為 AI 代理設計的即時語音運行環境。它使得 AI 代理能夠進行即時語音交流，是語音互動 AI 應用領域的重要突破。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> JavaScript | <strong>Star:</strong> 1,648</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/QwenAudio/qwen-audio-agent\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">QwenAudio/qwen-audio-agent</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/ai-agents/qwen-audio-agent\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">ai-agents/qwen-audio-agent/README.md</a></p>\n            </div>\n        </div>\n\n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Ai Assistants</h2>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">openclaw <span style=\"font-size: 12px; color: #888; background-color: #e3f2fd; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 一款跨平台、開源的個人 AI 助理。它提供了高度靈活的 AI 解決方案，讓用戶能在不同作業系統上擁有專屬的智慧助手，值得關注其潛在的個人化 AI 應用。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> TypeScript | <strong>Star:</strong> 384,883</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/openclaw/openclaw\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">openclaw/openclaw</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/ai-assistants/openclaw\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">ai-assistants/openclaw/README.md</a></p>\n            </div>\n        </div>\n\n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Ai Frameworks</h2>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">superpowers <span style=\"font-size: 12px; color: #888; background-color: #e3f2fd; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 一個有效且實用的代理技能框架及軟體開發方法論。它引入了新的開發範式，旨在提高開發效率與軟體品質，值得開發者深入研究。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> Shell | <strong>Star:</strong> 264,929</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/obra/superpowers\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">obra/superpowers</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/ai-frameworks/superpowers\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">ai-frameworks/superpowers/README.md</a></p>\n            </div>\n        </div>\n\n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Ai Models</h2>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">Kimi-K3 <span style=\"font-size: 12px; color: #888; background-color: #e0f7fa; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 一個新興的開源前沿智慧專案。它代表了 AI 領域的最新探索，值得密切關注其在人工智慧發展中的潛力。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> 未指定 | <strong>Star:</strong> 7,854</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/MoonshotAI/Kimi-K3\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">MoonshotAI/Kimi-K3</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/ai-models/Kimi-K3\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">ai-models/Kimi-K3/README.md</a></p>\n            </div>\n        </div>\n\n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Api Resources</h2>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">public-apis <span style=\"font-size: 12px; color: #888; background-color: #e3f2fd; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 彙整了大量免費的公共 API 資源。無論是開發者尋找特定功能的 API 還是進行資料整合，這個列表都是寶貴的起點，極大地提升了開發效率。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> Python | <strong>Star:</strong> 454,033</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/public-apis/public-apis\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">public-apis/public-apis</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/api-resources/public-apis\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">api-resources/public-apis/README.md</a></p>\n            </div>\n        </div>\n\n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Crm</h2>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">crm <span style=\"font-size: 12px; color: #888; background-color: #e0f7fa; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 儘管描述為空，但其命名暗示了客戶關係管理系統的功能。此專案可能提供創新的 CRM 解決方案，值得企業和開發者關注其發展。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> TypeScript | <strong>Star:</strong> 1,153</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/trycompai/crm\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">trycompai/crm</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/crm/crm/README.md\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">crm/crm/README.md</a></p>\n            </div>\n        </div>\n\n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Data Engineering</h2>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">decimen-optical-transfer <span style=\"font-size: 12px; color: #888; background-color: #e0f7fa; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 該項目名稱暗示了光學傳輸或資料處理的潛在應用。儘管缺乏詳細描述，其快速增長表明了社區對此技術的關注，可能涉及高效能數據交換。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> TypeScript | <strong>Star:</strong> 3,238</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/bashalarmistalt/decimen-optical-transfer\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">bashalarmistalt/decimen-optical-transfer</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/data-engineering/decimen-optical-transfer\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">data-engineering/decimen-optical-transfer/README.md</a></p>\n            </div>\n        </div>\n\n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Developer Education</h2>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">developer-roadmap <span style=\"font-size: 12px; color: #888; background-color: #e3f2fd; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 提供互動式的開發者職涯路線圖、指南及教育內容。這對於希望規劃職涯路徑、學習新技術的開發者來說，是一個極具價值的導航工具。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> TypeScript | <strong>Star:</strong> 363,368</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/nilbuild/developer-roadmap\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">nilbuild/developer-roadmap</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/developer-education/developer-roadmap\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">developer-education/developer-roadmap/README.md</a></p>\n            </div>\n        </div>\n\n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Devops Education</h2>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">FDE-the-Guidance-Book-of-Forward-Deployed-Engineer <span style=\"font-size: 12px; color: #888; background-color: #e0f7fa; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 一份針對「前沿部署工程師」(FDE) 的從零入門指南。它基於《增長黑客》框架，旨在幫助開發者掌握部署與營運技能，對於希望拓展職涯廣度的工程師極具參考價值。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> 未指定 | <strong>Star:</strong> 1,309</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/devops-education/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">devops-education/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/README.md</a></p>\n            </div>\n        </div>\n\n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Llm Infrastructure</h2>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">deltafin <span style=\"font-size: 12px; color: #888; background-color: #e0f7fa; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 允許在單一設備上運行完整的 Kimi K3 模型，並提供與 OpenAI 相容的本地 API 服務。這使得開發者能更便捷地部署和使用大型語言模型，促進本地 AI 應用開發。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> Python | <strong>Star:</strong> 602</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/gavamedia/deltafin\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">gavamedia/deltafin</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/llm-infrastructure/deltafin\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">llm-infrastructure/deltafin/README.md</a></p>\n            </div>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">waste <span style=\"font-size: 12px; color: #888; background-color: #e0f7fa; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 針對 Kimi K3 大型模型，提供在有限記憶體下透過 NVMe 串流運行的高效推理引擎。這項技術對於部署大型 AI 模型於資源受限環境至關重要，大幅降低了硬體要求。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> C | <strong>Star:</strong> 756</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/sqliteai/waste\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">sqliteai/waste</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/llm-infrastructure/waste\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">llm-infrastructure/waste/README.md</a></p>\n            </div>\n        </div>\n\n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Programming Education</h2>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">build-your-own-x <span style=\"font-size: 12px; color: #888; background-color: #e3f2fd; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 透過從零開始重新實作流行技術來精通程式設計。這是一個非常適合動手學習的資源，幫助開發者深入理解底層原理並提升實戰技能。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> Markdown | <strong>Star:</strong> 534,347</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/codecrafters-io/build-your-own-x\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">codecrafters-io/build-your-own-x</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/build-your-own-x\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">programming-education/build-your-own-x/README.md</a></p>\n            </div>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">freeCodeCamp <span style=\"font-size: 12px; color: #888; background-color: #e3f2fd; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> freeCodeCamp.org 的開源程式碼庫和課程，提供免費的數學、程式設計和電腦科學學習資源。它為全球渴望學習程式設計的人們提供了一個全面且無障礙的學習平台。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> TypeScript | <strong>Star:</strong> 453,340</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/freeCodeCamp/freeCodeCamp\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">freeCodeCamp/freeCodeCamp</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/freeCodeCamp\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">programming-education/freeCodeCamp/README.md</a></p>\n            </div>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">free-programming-books <span style=\"font-size: 12px; color: #888; background-color: #e3f2fd; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 彙集了大量免費可用的程式設計書籍。對於預算有限的學習者來說，這是一個不可多得的知識寶庫，有助於他們獲取廣泛的技術知識。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> Python | <strong>Star:</strong> 393,535</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/EbookFoundation/free-programming-books\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">EbookFoundation/free-programming-books</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/free-programming-books\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">programming-education/free-programming-books/README.md</a></p>\n            </div>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">project-based-learning <span style=\"font-size: 12px; color: #888; background-color: #e3f2fd; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 精心策劃的專案式教學指南列表。透過實際專案操作，學習者能有效鞏固理論知識並培養實戰能力，是提升技能的實用方式。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> Python | <strong>Star:</strong> 276,168</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/practical-tutorials/project-based-learning\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">practical-tutorials/project-based-learning</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/project-based-learning\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">programming-education/project-based-learning/README.md</a></p>\n            </div>\n        </div>\n\n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Python Ecosystem</h2>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">awesome-python <span style=\"font-size: 12px; color: #888; background-color: #e3f2fd; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 一份精選的 Python 框架、函式庫、工具和資源列表。它為 Python 開發者提供了豐富的參考資料，能快速找到所需的開發工具，提升開發效率。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> Python | <strong>Star:</strong> 311,667</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/vinta/awesome-python\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">vinta/awesome-python</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/python-ecosystem/awesome-python\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">python-ecosystem/awesome-python/README.md</a></p>\n            </div>\n        </div>\n\n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Self Hosting</h2>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">awesome-selfhosted <span style=\"font-size: 12px; color: #888; background-color: #e3f2fd; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 列出了大量可在自有伺服器上託管的免費網路服務和網路應用程式。對於追求數據自主權和客製化部署的用戶來說，這是一個極其有用的資源。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> 未指定 | <strong>Star:</strong> 310,086</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/awesome-selfhosted/awesome-selfhosted\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">awesome-selfhosted/awesome-selfhosted</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/self-hosting/awesome-selfhosted\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">self-hosting/awesome-selfhosted/README.md</a></p>\n            </div>\n        </div>\n\n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Web Analytics</h2>\n\n            <div style=\"background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"margin-top: 0; margin-bottom: 10px; color: #007bff; font-size: 18px;\">talivia <span style=\"font-size: 12px; color: #888; background-color: #e0f7fa; padding: 3px 8px; border-radius: 3px; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"margin-bottom: 5px; font-size: 14px; line-height: 1.5;\"><strong>摘要:</strong> 一個開源、自託管的營收導向分析工具，專為創業者設計。它提供網路分析、會話重放、營收歸因等功能，是數據驅動決策的強大替代方案。</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px; color: #555;\"><strong>語言:</strong> TypeScript | <strong>Star:</strong> 606</p>\n                <p style=\"margin-bottom: 5px; font-size: 13px;\"><strong>原始連結:</strong> <a href=\"https://github.com/talivia-group/talivia\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">talivia-group/talivia</a></p>\n                <p style=\"margin-top: 0; font-size: 13px;\"><strong>本地倉庫路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/web-analytics/talivia\" style=\"color: #007bff; text-decoration: none;\" target=\"_blank\">web-analytics/talivia/README.md</a></p>\n            </div>\n        </div>\n\n        <p style=\"text-align: center; font-size: 12px; color: #999; margin-top: 40px;\">此報告由開源科技分析師自動生成。</p>\n    </div>\n</body>\n</html>\n"
+  "email_html_body": "<!DOCTYPE html>\n<html lang=\"zh-TW\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>GitHub 開源專案報告 (2026-08-03)</title>\n</head>\n<body style=\"font-family: Arial, sans-serif; line-height: 1.6; color: #333; margin: 0; padding: 20px; background-color: #f4f4f4;\">\n\n    <div style=\"max-width: 800px; margin: auto; background: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);\">\n        <h1 style=\"color: #0056b3; text-align: center; margin-bottom: 30px;\">GitHub 開源專案報告 - 2026-08-03</h1>\n\n        <p style=\"font-size: 1.1em; margin-bottom: 25px; text-align: center; color: #555;\">本報告匯總了今天抓取的GitHub Top 10 Star 倉庫和 Top 10 快速上升倉庫，並提供詳細分析。</p>\n\n        \n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">AI Agents</h2>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/openclaw/openclaw\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">openclaw</a> <span style=\"background-color: #28a745; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：此專案透過引導使用者從頭重建常見的技術（如Git、Docker），幫助他們深入理解程式設計的核心概念。它適合希望透過實作來精進技能的開發者，是提升程式設計實力的寶貴資源。其獨特的學習方法讓抽象的技術變得具體易懂。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/ai-agents/openclaw\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">ai-agents/openclaw/README.md</a></p>\n            </div>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/yc-software/qm\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">qm</a> <span style=\"background-color: #ffc107; color: #333; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：QM 是一個多玩家代理協調框架，旨在實現工作流程的自動化和協作。它非常適合團隊協作環境中，需要將複雜任務分解並分派給多個智能代理的場景。這個專案展現了agentic工作流程的未來潛力，值得關注。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/ai-agents/qm\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">ai-agents/qm/README.md</a></p>\n            </div>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/trycompai/crm\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">crm</a> <span style=\"background-color: #ffc107; color: #333; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：這是一個開源的、以代理（agentic-first）為核心理念的客戶關係管理系統。它適合需要更智慧、自動化客戶互動管理方案的企業，透過AI代理提升CRM的效率和個性化。此專案代表了AI在企業應用領域的最新趨勢。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/ai-agents/crm\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">ai-agents/crm/README.md</a></p>\n            </div>\n        </div>\n        \n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">AI Architecture</h2>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/DannyMac180/sol-advisor\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">sol-advisor</a> <span style=\"background-color: #ffc107; color: #333; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：Sol Advisor 是一個基於Codex的架構師協調工具，結合了Luna和Terra的實作通道，並強制執行新鮮的Sol審查。它適合大型軟體專案中需要複雜架構設計與驗證的團隊，透過AI輔助確保設計品質和一致性。這個工具在AI驅動的軟體架構領域展示了前沿應用。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/ai-architecture/sol-advisor\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">ai-architecture/sol-advisor/README.md</a></p>\n            </div>\n        </div>\n        \n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">AI Automation</h2>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/microsoft/skill-recorder\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">skill-recorder</a> <span style=\"background-color: #ffc107; color: #333; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：Skill Recorder 是一個桌面應用程式，能夠錄製螢幕上的工作會話，並利用GitHub Copilot CLI將其重構為意圖和有序步驟，進而為Microsoft Scout、Copilot Cowork或Copilot Studio構建可重用的技能或自動化。它適合希望將日常重複性任務自動化、提高工作效率的專業人士。該工具展示了AI在提升個人生產力方面的巨大潛力。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/ai-automation/skill-recorder\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">ai-automation/skill-recorder/README.md</a></p>\n            </div>\n        </div>\n        \n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">AI Frameworks</h2>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/obra/superpowers\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">superpowers</a> <span style=\"background-color: #28a745; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：Superpowers 是一個代理技能框架和軟體開發方法論，旨在提供有效的工作流程。它適合開發者和團隊，用於構建和管理基於AI代理的複雜系統。這個框架的出現，預示著更高效、模組化的AI應用開發未來。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/ai-frameworks/superpowers\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">ai-frameworks/superpowers/README.md</a></p>\n            </div>\n        </div>\n        \n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">AI Voice Tech</h2>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/xikhar/persona\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">persona</a> <span style=\"background-color: #ffc107; color: #333; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：Persona 旨在將即時語音技術帶入生活，提供更自然、逼真的語音互動體驗。它適合開發語音應用程式、虛擬助手或任何需要高品質即時語音生成與處理的場景。此專案在語音AI領域的創新，使其成為提升人機互動體驗的關鍵技術。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/ai-voice-tech/persona\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">ai-voice-tech/persona/README.md</a></p>\n            </div>\n        </div>\n        \n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">API Resources</h2>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/public-apis/public-apis\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">public-apis</a> <span style=\"background-color: #28a745; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：這個集合整理了各式各樣免費可用的API，涵蓋數據、娛樂、開發工具等眾多類別。對於尋找特定功能或數據源的開發者來說，它是一個極其方便的參考列表。它能加速應用程式開發，提供豐富的整合可能性。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/api-resources/public-apis\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">api-resources/public-apis/README.md</a></p>\n            </div>\n        </div>\n        \n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Business Analytics</h2>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/talivia-group/talivia\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">talivia</a> <span style=\"background-color: #ffc107; color: #333; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：Talivia 是一個開源、可自行託管的以營收為主的創始人分析工具，提供網站分析、會話重播、營收歸因和客戶營收整合。它適合創業公司創始人或任何需要全面、深入了解其業務營收和用戶行為的團隊。作為datafast的開源替代方案，它提供了數據驅動決策的強大基礎。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/business-analytics/talivia\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">business-analytics/talivia/README.md</a></p>\n            </div>\n        </div>\n        \n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Career Development</h2>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/nilbuild/developer-roadmap\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">developer-roadmap</a> <span style=\"background-color: #28a745; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：Developer Roadmap 提供互動式的技術路線圖、指南及其他教育內容，旨在幫助開發者在職業生涯中成長。無論是前端、後端還是DevOps，這個專案都能為開發者提供清晰的學習路徑。它是規劃和加速技術職涯發展的理想工具。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/career-development/developer-roadmap\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">career-development/developer-roadmap/README.md</a></p>\n            </div>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">FDE-the-Guidance-Book-of-Forward-Deployed-Engineer</a> <span style=\"background-color: #ffc107; color: #333; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：此專案為前沿部署工程師（FDE）提供了從零開始的入門指南，基於范冰的《增長黑客》原書框架。它適合希望轉型或深入了解FDE職位的技術人員和學生，提供了系統性的學習路徑與實踐指導。該指南能幫助讀者快速掌握FDE的核心理念與實務技能。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/career-development/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">career-development/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/README.md</a></p>\n            </div>\n        </div>\n        \n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Data Transfer</h2>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/bashalarmistalt/decimen-optical-transfer\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">decimen-optical-transfer</a> <span style=\"background-color: #ffc107; color: #333; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：儘管此專案的描述為空，其名稱 'decimen-optical-transfer' 暗示了它可能涉及光學數據傳輸或相關技術。它可能適合從事高速或特定數據傳輸解決方案的研發人員。建議密切關注其後續更新，以了解其實際應用價值。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/data-transfer/decimen-optical-transfer\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">data-transfer/decimen-optical-transfer/README.md</a></p>\n            </div>\n        </div>\n        \n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Gaming Cheats</h2>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/WilonityDev/WilonityLoader\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">WilonityLoader</a> <span style=\"background-color: #ffc107; color: #333; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：WilonityLoader 是一個作弊函式庫，包含欺騙器、驅動程式繞過、以及針對多款熱門遊戲（如RUST, CS2, Valorant）的未偵測注入器。它提供各種遊戲輔助功能，如ESP、aimbot等，旨在繞過反作弊系統。雖然其用途具爭議性，但從技術角度看，它展現了複雜的繞過和注入技術，對了解遊戲安全攻防有參考價值。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/gaming-cheats/WilonityLoader\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">gaming-cheats/WilonityLoader/README.md</a></p>\n            </div>\n        </div>\n        \n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">ML Inference</h2>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/sqliteai/waste\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">waste</a> <span style=\"background-color: #ffc107; color: #333; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Fast-Rising</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：Waste 是一個C語言推理引擎，設計用於處理超大型模型（如Kimi K3的2.78萬億參數），即使可用RAM不足也能透過從NVMe串流激活權重來運行。它適合需要在資源受限環境下部署大型AI模型的開發者。此專案在高效能AI推理領域提供了突破性的解決方案。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/ml-inference/waste\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">ml-inference/waste/README.md</a></p>\n            </div>\n        </div>\n        \n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Programming Education</h2>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/codecrafters-io/build-your-own-x\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">build-your-own-x</a> <span style=\"background-color: #28a745; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：此專案透過引導使用者從頭重建常見的技術（如Git、Docker），幫助他們深入理解程式設計的核心概念。它適合希望透過實作來精進技能的開發者，是提升程式設計實力的寶貴資源。其獨特的學習方法讓抽象的技術變得具體易懂。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/build-your-own-x\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">programming-education/build-your-own-x/README.md</a></p>\n            </div>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/freeCodeCamp/freeCodeCamp\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">freeCodeCamp</a> <span style=\"background-color: #28a745; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：freeCodeCamp 提供免費的開源程式碼庫和課程，涵蓋數學、程式設計和電腦科學。它非常適合自學者或希望免費獲得高品質IT教育的人士，其龐大的社群和實用課程使其成為學習程式設計的熱門選擇。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/freeCodeCamp\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">programming-education/freeCodeCamp/README.md</a></p>\n            </div>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/EbookFoundation/free-programming-books\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">free-programming-books</a> <span style=\"background-color: #28a745; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：這個專案彙集了大量免費的程式設計書籍資源，涵蓋多種程式語言和技術領域。對於任何預算有限但渴望學習新技能的程式設計師或學生而言，這是一個不可多得的寶藏。它能幫助使用者輕鬆找到高品質的學習資料，無需額外花費。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/free-programming-books\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">programming-education/free-programming-books/README.md</a></p>\n            </div>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/practical-tutorials/project-based-learning\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">project-based-learning</a> <span style=\"background-color: #28a745; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：該專案精選了一系列以專案為基礎的教學指南，讓學習者透過實作來掌握知識和技能。它非常適合那些偏好動手實踐、透過完成實際專案來學習的開發者，幫助他們將理論知識轉化為實際應用能力。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/programming-education/project-based-learning\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">programming-education/project-based-learning/README.md</a></p>\n            </div>\n        </div>\n        \n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Programming Resources</h2>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/vinta/awesome-python\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">awesome-python</a> <span style=\"background-color: #28a745; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：Awesome Python 是一個精選的Python框架、函式庫、工具和資源列表。它為Python開發者提供了豐富的參考資料，無論是尋找特定功能的庫還是探索新技術，都能在此找到靈感。其廣泛的內容使其成為Python社群的重要資源。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/programming-resources/awesome-python\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">programming-resources/awesome-python/README.md</a></p>\n            </div>\n        </div>\n        \n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;\">Self-Hosting</h2>\n            <div style=\"background-color: #f9f9f9; border: 1px solid #e7e7e7; border-radius: 5px; padding: 15px; margin-bottom: 15px;\">\n                <h3 style=\"color: #333; margin-top: 0; margin-bottom: 5px;\"><a href=\"https://github.com/awesome-selfhosted/awesome-selfhosted\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">awesome-selfhosted</a> <span style=\"background-color: #28a745; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; margin-left: 10px;\">Top Star</span></h3>\n                <p style=\"font-size: 0.9em; color: #666; margin-top: 5px; margin-bottom: 10px;\">摘要：這個專案列出了許多可在自己伺服器上託管的免費軟體網路服務和網頁應用程式。它適合希望掌控個人數據、提升隱私保護，或追求更高自訂彈性的使用者。對於尋求開源替代方案並願意自行架設服務的人來說，這是一個極具價值的清單。</p>\n                <p style=\"font-size: 0.85em; margin-bottom: 5px;\"><strong>本地路徑:</strong> <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/self-hosting/awesome-selfhosted\" target=\"_blank\" style=\"color: #007bff; text-decoration: none;\">self-hosting/awesome-selfhosted/README.md</a></p>\n            </div>\n        </div>\n\n        <div style=\"text-align: center; margin-top: 40px; color: #777; font-size: 0.9em;\">\n            <p>&copy; 2026 開源科技分析團隊. All rights reserved.</p>\n        </div>\n    </div>\n\n</body>\n</html>"
 }
