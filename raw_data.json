@@ -6,100 +6,100 @@
       "full_name": "codecrafters-io/build-your-own-x",
       "html_url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": 534991,
+      "stars": 535050,
       "language": "Markdown",
       "created_at": "2018-05-09T12:03:18Z",
-      "updated_at": "2026-08-03T02:46:30Z"
+      "updated_at": "2026-08-03T03:35:02Z"
     },
     {
       "name": "public-apis",
       "full_name": "public-apis/public-apis",
       "html_url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
-      "stars": 454137,
+      "stars": 454140,
       "language": "Python",
       "created_at": "2016-03-20T23:49:42Z",
-      "updated_at": "2026-08-03T02:42:07Z"
+      "updated_at": "2026-08-03T03:22:16Z"
     },
     {
       "name": "freeCodeCamp",
       "full_name": "freeCodeCamp/freeCodeCamp",
       "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "stars": 453366,
+      "stars": 453373,
       "language": "TypeScript",
       "created_at": "2014-12-24T17:49:19Z",
-      "updated_at": "2026-08-03T02:26:41Z"
+      "updated_at": "2026-08-03T03:29:28Z"
     },
     {
       "name": "free-programming-books",
       "full_name": "EbookFoundation/free-programming-books",
       "html_url": "https://github.com/EbookFoundation/free-programming-books",
       "description": ":books: Freely available programming books",
-      "stars": 393577,
+      "stars": 393580,
       "language": "Python",
       "created_at": "2013-10-11T06:50:37Z",
-      "updated_at": "2026-08-03T02:42:17Z"
+      "updated_at": "2026-08-03T03:26:41Z"
     },
     {
       "name": "openclaw",
       "full_name": "openclaw/openclaw",
       "html_url": "https://github.com/openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 384967,
+      "stars": 384970,
       "language": "TypeScript",
       "created_at": "2025-11-24T10:16:47Z",
-      "updated_at": "2026-08-03T02:45:57Z"
+      "updated_at": "2026-08-03T03:34:22Z"
     },
     {
       "name": "developer-roadmap",
       "full_name": "nilbuild/developer-roadmap",
       "html_url": "https://github.com/nilbuild/developer-roadmap",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-      "stars": 363418,
+      "stars": 363424,
       "language": "TypeScript",
       "created_at": "2017-03-15T13:45:52Z",
-      "updated_at": "2026-08-03T02:33:23Z"
+      "updated_at": "2026-08-03T03:29:57Z"
     },
     {
       "name": "awesome-python",
       "full_name": "vinta/awesome-python",
       "html_url": "https://github.com/vinta/awesome-python",
       "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
-      "stars": 311809,
+      "stars": 311812,
       "language": "Python",
       "created_at": "2014-06-27T21:00:06Z",
-      "updated_at": "2026-08-03T02:44:19Z"
+      "updated_at": "2026-08-03T03:32:30Z"
     },
     {
       "name": "awesome-selfhosted",
       "full_name": "awesome-selfhosted/awesome-selfhosted",
       "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-      "stars": 310264,
+      "stars": 310275,
       "language": "Unknown",
       "created_at": "2015-06-01T02:33:17Z",
-      "updated_at": "2026-08-03T02:29:49Z"
+      "updated_at": "2026-08-03T03:23:38Z"
     },
     {
       "name": "project-based-learning",
       "full_name": "practical-tutorials/project-based-learning",
       "html_url": "https://github.com/practical-tutorials/project-based-learning",
       "description": "Curated list of project-based tutorials",
-      "stars": 276249,
+      "stars": 276254,
       "language": "Python",
       "created_at": "2017-04-12T05:07:46Z",
-      "updated_at": "2026-08-03T02:40:44Z"
+      "updated_at": "2026-08-03T03:31:41Z"
     },
     {
       "name": "superpowers",
       "full_name": "obra/superpowers",
       "html_url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 265194,
+      "stars": 265214,
       "language": "Shell",
       "created_at": "2025-10-09T19:45:18Z",
-      "updated_at": "2026-08-03T02:44:20Z"
+      "updated_at": "2026-08-03T03:33:10Z"
     }
   ],
   "fast_rising": [
@@ -108,40 +108,40 @@
       "full_name": "yc-software/qm",
       "html_url": "https://github.com/yc-software/qm",
       "description": "Multiplayer agent harness for work",
-      "stars": 7432,
+      "stars": 7514,
       "language": "TypeScript",
       "created_at": "2026-07-29T20:03:08Z",
-      "updated_at": "2026-08-03T02:46:26Z"
+      "updated_at": "2026-08-03T03:34:35Z"
     },
     {
       "name": "decimen-optical-transfer",
       "full_name": "bashalarmistalt/decimen-optical-transfer",
       "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
       "description": "",
-      "stars": 3721,
+      "stars": 3740,
       "language": "TypeScript",
       "created_at": "2026-07-30T18:17:54Z",
-      "updated_at": "2026-08-03T02:45:36Z"
+      "updated_at": "2026-08-03T03:34:51Z"
     },
     {
       "name": "crm",
       "full_name": "trycompai/crm",
       "html_url": "https://github.com/trycompai/crm",
       "description": "An open-source, agentic-first CRM.",
-      "stars": 1877,
+      "stars": 1902,
       "language": "TypeScript",
       "created_at": "2026-07-31T21:38:51Z",
-      "updated_at": "2026-08-03T02:43:00Z"
+      "updated_at": "2026-08-03T03:34:21Z"
     },
     {
       "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
       "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
       "html_url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
       "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
-      "stars": 1626,
+      "stars": 1661,
       "language": "Unknown",
       "created_at": "2026-07-30T05:39:38Z",
-      "updated_at": "2026-08-03T02:46:08Z"
+      "updated_at": "2026-08-03T03:34:37Z"
     },
     {
       "name": "WilonityLoader",
@@ -158,20 +158,20 @@
       "full_name": "sqliteai/waste",
       "html_url": "https://github.com/sqliteai/waste",
       "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
-      "stars": 1111,
+      "stars": 1137,
       "language": "C",
       "created_at": "2026-07-28T20:56:00Z",
-      "updated_at": "2026-08-03T02:45:33Z"
+      "updated_at": "2026-08-03T03:34:49Z"
     },
     {
       "name": "skill-recorder",
       "full_name": "microsoft/skill-recorder",
       "html_url": "https://github.com/microsoft/skill-recorder",
       "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-      "stars": 853,
+      "stars": 879,
       "language": "TypeScript",
       "created_at": "2026-07-29T18:16:14Z",
-      "updated_at": "2026-08-03T02:45:31Z"
+      "updated_at": "2026-08-03T03:32:34Z"
     },
     {
       "name": "persona",
@@ -188,20 +188,20 @@
       "full_name": "DannyMac180/sol-advisor",
       "html_url": "https://github.com/DannyMac180/sol-advisor",
       "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
-      "stars": 701,
+      "stars": 709,
       "language": "Shell",
       "created_at": "2026-08-01T13:56:43Z",
-      "updated_at": "2026-08-03T02:42:49Z"
+      "updated_at": "2026-08-03T03:23:20Z"
     },
     {
       "name": "talivia",
       "full_name": "talivia-group/talivia",
       "html_url": "https://github.com/talivia-group/talivia",
       "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
-      "stars": 652,
+      "stars": 653,
       "language": "TypeScript",
       "created_at": "2026-07-29T07:56:49Z",
-      "updated_at": "2026-08-03T01:42:53Z"
+      "updated_at": "2026-08-03T03:10:00Z"
     }
   ]
 }
