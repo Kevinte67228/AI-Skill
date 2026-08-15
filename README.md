@@ -1,20 +1,24 @@
 # AI-Skill 每週開源技能報告
 
-這個倉庫會**每週一**自動：
-1. 抓取 GitHub 上 Top 10 Star 仓库 与 Top 10 快速上升仓库
-2. **排除掉上一週已經報告過的仓库**，避免連續兩週重複同一批項目
-3. 呼叫 Gemini API 產生繁體中文摘要与分类
-4. 把每个项目写入 `{分类}/{项目名}/README.md`
-5. 產生 HTML 報告並寄送 Email
+📋 **[點此查看快速索引清單 INDEX.md](INDEX.md)** —— 所有已收錄專案依分類列出，含版本號與快速連結
+
+這個倉庫會**每週日**自動：
+1. 台北時間 **06:00**：抓取 GitHub 上 Top 10 Star 仓库 与 Top 10 快速上升仓库，呼叫 Gemini API 產生繁體中文摘要与分类，寫回仓库
+2. 台北時間 **08:00**：讀取剛產生好的報告，寄送 Email（獨立排程，不受產生報告耗時影響）
 
 ## 排程時間
-每週一 台北時間 08:00（對應 UTC 週一 00:00，cron: `0 0 * * 1`）
-仓库 `Actions` 分頁可以隨時手動觸發測試（`workflow_dispatch`）。
+- 產生報告：每週日 台北時間 06:00（UTC 週六 22:00，cron: `0 22 * * 6`）
+- 寄送 Email：每週日 台北時間 08:00（UTC 週日 00:00，cron: `0 0 * * 0`）
+- 仓库 `Actions` 分頁可以隨時手動觸發測試（`workflow_dispatch`）
 
-## 去重機制
-`previous_repos.json`（仓库根目錄）記錄上一週選出的 20 個仓库 full_name。
-每次執行前會先讀取這份清單，抓取時自動跳過已經在清單裡的仓库，
-執行完後會用「這一週」的清單覆蓋掉它，供下一週比對使用。
+## 去重與版本更新機制
+`previous_repos.json`（仓库根目錄）是一份**累積式登記簿**，記錄歷來所有收錄過的仓库，
+每筆記錄比對的是 GitHub 的 `pushed_at`（實際程式碼推送時間）：
+- **全新項目** → 正常收錄
+- **真的重複**（沒有新的 commit）→ 排除，不出現在報告
+- **版本更新**（上次收錄後又有新推送）→ **不排除**，正常收錄，並在 README／Email 上標註 🆕 版本更新
+  - 儲存路徑固定，只會覆蓋成最新內容，不會累積多個版本
+  - 若這次分類跟上次不同，會自動清掉舊分類下的舊檔案
 
 ## 分類結構
 所有項目統一歸入以下四大分類（由 Gemini 判斷，固定不可自創其他分類）：
@@ -25,14 +29,15 @@
 
 ## 資料夾結構
 ```
-{分類}/{repo_name}/README.md       -> 每個項目的分類與摘要
+INDEX.md                           -> 所有已收錄專案的快速索引清單（含版本號、連結）
+{分類}/{repo_name}/README.md       -> 每個項目的分類、摘要、版本號、作者最後更新日期
 寫程式/skills/{skill_name}/        -> 可重複使用的 Claude Skill 包（非週報自動產生，手動收錄）
 reports/{date}.html                -> 每週產出的 HTML 報告存檔
-previous_repos.json                -> 去重用，記錄上一週選出的仓库清單
+previous_repos.json                -> 去重與版本更新用的累積式登記簿
 raw_data.json                      -> 當週抓取到的原始 GitHub 資料
 report.json                        -> 當週完整結構化報告資料
 scripts/                           -> 執行腳本（fetch_repos.py / generate_report.py / send_email.py）
-.github/workflows/                 -> 自動化排程設定
+.github/workflows/                 -> 自動化排程設定（daily-report.yml=產生報告, weekly-send-email.yml=寄信）
 ```
 
 ## 需要设定的 GitHub Secrets
