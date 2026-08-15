@@ -50,8 +50,13 @@
       "local_path": "AI Skill/h3.c/README.md"
     },
     "openclaw/openclaw": {
-      "pushed_at": "2026-08-15T13:48:03Z",
-      "local_path": "AI Agent/openclaw/README.md"
+      "pushed_at": "2026-08-15T14:15:36Z",
+      "local_path": "AI Agent/openclaw/README.md",
+      "name": "openclaw",
+      "category": "AI Agent",
+      "original_url": "https://github.com/openclaw/openclaw",
+      "version_tag": "v2026.7.1-2",
+      "author_updated": "2026-08-04"
     },
     "obra/superpowers": {
       "pushed_at": "2026-08-13T00:36:31Z",
@@ -80,6 +85,177 @@
     "SMNETSTUDIO/WeChat-AI": {
       "pushed_at": "2026-08-13T08:30:29Z",
       "local_path": "AI Agent/WeChat-AI/README.md"
+    },
+    "n8n-io/n8n": {
+      "pushed_at": "2026-08-15T06:08:13Z",
+      "local_path": "辦公室應用/n8n/README.md",
+      "name": "n8n",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/n8n-io/n8n",
+      "version_tag": "n8n@2.34.6",
+      "author_updated": "2026-08-14"
+    },
+    "sohaibdevv/youtube-music": {
+      "pushed_at": "2026-08-11T19:26:37Z",
+      "local_path": "辦公室應用/youtube-music/README.md",
+      "name": "youtube-music",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/sohaibdevv/youtube-music",
+      "version_tag": "v1.0.0",
+      "author_updated": "2026-08-11"
+    },
+    "Hisn00w/ASu-skills": {
+      "pushed_at": "2026-08-14T13:36:59Z",
+      "local_path": "辦公室應用/ASu-skills/README.md",
+      "name": "ASu-skills",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/Hisn00w/ASu-skills",
+      "version_tag": null,
+      "author_updated": "2026-08-14"
+    },
+    "torvalds/linux": {
+      "pushed_at": "2026-08-15T04:58:55Z",
+      "local_path": "寫程式/linux/README.md",
+      "name": "linux",
+      "category": "寫程式",
+      "original_url": "https://github.com/torvalds/linux",
+      "version_tag": "v7.2-rc7",
+      "author_updated": "2026-08-15"
+    },
+    "TheAlgorithms/Python": {
+      "pushed_at": "2026-08-03T18:44:56Z",
+      "local_path": "寫程式/Python/README.md",
+      "name": "Python",
+      "category": "寫程式",
+      "original_url": "https://github.com/TheAlgorithms/Python",
+      "version_tag": null,
+      "author_updated": "2026-08-03"
+    },
+    "tensorflow/tensorflow": {
+      "pushed_at": "2026-08-15T13:21:09Z",
+      "local_path": "寫程式/tensorflow/README.md",
+      "name": "tensorflow",
+      "category": "寫程式",
+      "original_url": "https://github.com/tensorflow/tensorflow",
+      "version_tag": "v2.21.0",
+      "author_updated": "2026-03-06"
+    },
+    "trekhleb/javascript-algorithms": {
+      "pushed_at": "2026-07-26T02:43:08Z",
+      "local_path": "寫程式/javascript-algorithms/README.md",
+      "name": "javascript-algorithms",
+      "category": "寫程式",
+      "original_url": "https://github.com/trekhleb/javascript-algorithms",
+      "version_tag": null,
+      "author_updated": "2026-07-26"
+    },
+    "ccch1mneyyy/dsh-TUI": {
+      "pushed_at": "2026-08-15T14:18:16Z",
+      "local_path": "寫程式/dsh-TUI/README.md",
+      "name": "dsh-TUI",
+      "category": "寫程式",
+      "original_url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "version_tag": "v0.6.1",
+      "author_updated": "2026-08-15"
+    },
+    "dmmulroy/anti-slop": {
+      "pushed_at": "2026-08-14T14:23:59Z",
+      "local_path": "寫程式/anti-slop/README.md",
+      "name": "anti-slop",
+      "category": "寫程式",
+      "original_url": "https://github.com/dmmulroy/anti-slop",
+      "version_tag": null,
+      "author_updated": "2026-08-14"
+    },
+    "Small-tailqwq/dsh-deep-whale": {
+      "pushed_at": "2026-08-15T09:02:38Z",
+      "local_path": "寫程式/dsh-deep-whale/README.md",
+      "name": "dsh-deep-whale",
+      "category": "寫程式",
+      "original_url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "version_tag": null,
+      "author_updated": "2026-08-15"
+    },
+    "mattpocock/skills": {
+      "pushed_at": "2026-08-13T09:06:37Z",
+      "local_path": "AI Skill/skills/README.md",
+      "name": "skills",
+      "category": "AI Skill",
+      "original_url": "https://github.com/mattpocock/skills",
+      "version_tag": "v1.2.3",
+      "author_updated": "2026-08-06"
+    },
+    "yjh051108/dsh-routing-suite": {
+      "pushed_at": "2026-08-15T13:21:46Z",
+      "local_path": "AI Skill/dsh-routing-suite/README.md",
+      "name": "dsh-routing-suite",
+      "category": "AI Skill",
+      "original_url": "https://github.com/yjh051108/dsh-routing-suite",
+      "version_tag": null,
+      "author_updated": "2026-08-15"
+    },
+    "gvzdv/claudish-to-english": {
+      "pushed_at": "2026-08-13T21:21:41Z",
+      "local_path": "AI Skill/claudish-to-english/README.md",
+      "name": "claudish-to-english",
+      "category": "AI Skill",
+      "original_url": "https://github.com/gvzdv/claudish-to-english",
+      "version_tag": "assets",
+      "author_updated": "2026-08-11"
+    },
+    "Leutenegger/book-to-skill": {
+      "pushed_at": "2026-08-14T11:41:40Z",
+      "local_path": "AI Skill/book-to-skill/README.md",
+      "name": "book-to-skill",
+      "category": "AI Skill",
+      "original_url": "https://github.com/Leutenegger/book-to-skill",
+      "version_tag": null,
+      "author_updated": "2026-08-14"
+    },
+    "affaan-m/ECC": {
+      "pushed_at": "2026-08-15T06:21:55Z",
+      "local_path": "AI Agent/ECC/README.md",
+      "name": "ECC",
+      "category": "AI Agent",
+      "original_url": "https://github.com/affaan-m/ECC",
+      "version_tag": "v2.1.0",
+      "author_updated": "2026-07-27"
+    },
+    "NousResearch/hermes-agent": {
+      "pushed_at": "2026-08-15T11:39:11Z",
+      "local_path": "AI Agent/hermes-agent/README.md",
+      "name": "hermes-agent",
+      "category": "AI Agent",
+      "original_url": "https://github.com/NousResearch/hermes-agent",
+      "version_tag": "v2026.8.13",
+      "author_updated": "2026-08-13"
+    },
+    "anomalyco/opencode": {
+      "pushed_at": "2026-08-15T12:57:05Z",
+      "local_path": "AI Agent/opencode/README.md",
+      "name": "opencode",
+      "category": "AI Agent",
+      "original_url": "https://github.com/anomalyco/opencode",
+      "version_tag": "v1.18.18",
+      "author_updated": "2026-08-13"
+    },
+    "SaladDay/pi-from-scratch": {
+      "pushed_at": "2026-08-12T07:10:35Z",
+      "local_path": "AI Agent/pi-from-scratch/README.md",
+      "name": "pi-from-scratch",
+      "category": "AI Agent",
+      "original_url": "https://github.com/SaladDay/pi-from-scratch",
+      "version_tag": null,
+      "author_updated": "2026-08-12"
+    },
+    "milind-soni/OpenMausBot": {
+      "pushed_at": "2026-08-14T12:34:54Z",
+      "local_path": "AI Agent/OpenMausBot/README.md",
+      "name": "OpenMausBot",
+      "category": "AI Agent",
+      "original_url": "https://github.com/milind-soni/OpenMausBot",
+      "version_tag": null,
+      "author_updated": "2026-08-14"
     }
   }
 }
