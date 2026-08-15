@@ -139,6 +139,7 @@ def build_full_report(raw_data: dict, ai_result: dict) -> dict:
 
         full_item = {
             "name": item["name"],
+            "full_name": full_name,
             "type": item_type,
             "original_url": item["html_url"],
             "stars": item["stars"],
@@ -146,6 +147,9 @@ def build_full_report(raw_data: dict, ai_result: dict) -> dict:
             "local_path": local_path,
             "repo_dir_url": repo_dir_url,
             "summary": summary,
+            "pushed_at": item.get("pushed_at"),
+            "is_update": item.get("is_update", False),
+            "previous_local_path": item.get("previous_local_path"),
         }
         categories_map.setdefault(category_name, []).append(full_item)
 
@@ -157,6 +161,50 @@ def build_full_report(raw_data: dict, ai_result: dict) -> dict:
     return {"date": raw_data["date"], "categories": categories}
 
 
+def cleanup_stale_files(report: dict):
+    """版本更新的項目，如果這次被分到跟上次不同的分類，
+    要先刪掉舊分類底下的舊 README.md，確保同一個仓库只留一份最新的。"""
+    for category in report["categories"]:
+        for item in category["items"]:
+            if not item["is_update"]:
+                continue
+            old_path = item["previous_local_path"]
+            if not old_path or old_path == item["local_path"]:
+                continue
+            if os.path.exists(old_path):
+                os.remove(old_path)
+                print(f"已清除舊分類檔案: {old_path}（版本更新，新分類為 {item['local_path']}）")
+                parent = os.path.dirname(old_path)
+                try:
+                    if parent and not os.listdir(parent):
+                        os.rmdir(parent)
+                except OSError:
+                    pass
+
+
+def update_registry(report: dict):
+    """把這次報告收錄的仓库寫回歷史登記簿（累積式更新，
+    不會清掉其他沒出現在這次報告的舊記錄，確保之後幾週都還能正確比對）。"""
+    registry_file = "previous_repos.json"
+    registry = {}
+    if os.path.exists(registry_file):
+        with open(registry_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        registry = data.get("repos", {})
+
+    for category in report["categories"]:
+        for item in category["items"]:
+            registry[item["full_name"]] = {
+                "pushed_at": item["pushed_at"],
+                "local_path": item["local_path"],
+            }
+
+    with open(registry_file, "w", encoding="utf-8") as f:
+        json.dump({"date": report["date"], "repos": registry}, f, ensure_ascii=False, indent=2)
+
+    print(f"登記簿已更新，目前共累積 {len(registry)} 個仓库記錄")
+
+
 def write_readmes(report: dict):
     for category in report["categories"]:
         for item in category["items"]:
@@ -164,6 +212,8 @@ def write_readmes(report: dict):
             os.makedirs(os.path.dirname(path), exist_ok=True)
             with open(path, "w", encoding="utf-8") as f:
                 f.write(f"# {item['name']}\n\n")
+                if item["is_update"]:
+                    f.write("> 🆕 **版本更新**：偵測到自上次收錄後有新的程式碼推送\n\n")
                 f.write(f"**類型**: {item['type']}\n\n")
                 f.write(f"**語言**: {item['language']} | **Star**: {item['stars']:,}\n\n")
                 f.write(f"**原始連結**: {item['original_url']}\n\n")
@@ -187,11 +237,15 @@ def render_email_html(report: dict) -> str:
         """)
         for item in category["items"]:
             color = badge_color.get(item["type"], "#6b7280")
+            update_badge = ""
+            if item["is_update"]:
+                update_badge = '<span style="background:#f97316; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:6px;">🆕 版本更新</span>'
             parts.append(f"""
       <div style="background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;">
         <p style="margin:0 0 6px 0;">
           <strong style="color:#007bff; font-size:1.1em;">{html.escape(item['name'])}</strong>
           <span style="background:{color}; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;">{item['type']}</span>
+          {update_badge}
         </p>
         <p style="margin:0 0 8px 0; color:#666; font-size:0.9em;">語言: {html.escape(item['language'])} | Star: {item['stars']:,}</p>
         <p style="margin:0 0 10px 0; font-size:0.95em; line-height:1.6;">{html.escape(item['summary'])}</p>
@@ -224,6 +278,9 @@ def main():
     ai_result = call_gemini(prompt)
 
     report = build_full_report(raw_data, ai_result)
+
+    cleanup_stale_files(report)
+
     html_path, html_body = write_html_report(report)
     report["email_html_body"] = html_body
 
@@ -231,6 +288,7 @@ def main():
         json.dump(report, f, ensure_ascii=False, indent=2)
 
     write_readmes(report)
+    update_registry(report)
 
     print(f"報告產生完成: report.json, 各分類 README.md, {html_path}")
 
