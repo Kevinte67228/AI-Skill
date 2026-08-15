@@ -1,8 +1,10 @@
 # awesome-dsh-plugin
 
+> 🆕 **版本更新**：偵測到自上次收錄後有新的程式碼推送
+
 **類型**: Fast-Rising
 
-**語言**: Python | **Star**: 2,494
+**語言**: Python | **Star**: 2,507
 
 **原始連結**: https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
 
@@ -10,4 +12,4 @@
 
 ## 摘要
 
-Awesome DeepSeek Harness Plugin 是一個精選列表，收集了 DeepSeek Harness (DSH) 平台的優質插件。它為 DSH 使用者提供了一個發現和利用各種擴展功能的中心，極大地豐富了 DSH 生態系統的功能性和應用場景。
+這是 DeepSeek Harness (DSH) 插件的精選列表，收集了多樣化的功能擴充。對於 DeepSeek Harness 的使用者而言，這個清單是尋找並整合新功能、提升 AI 助手能力的寶貴資源。

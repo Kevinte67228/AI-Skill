@@ -1,25 +1,85 @@
 {
   "date": "2026-08-15",
-  "full_names": [
-    "react/react",
-    "torvalds/linux",
-    "affaan-m/ECC",
-    "NousResearch/hermes-agent",
-    "TheAlgorithms/Python",
-    "mattpocock/skills",
-    "n8n-io/n8n",
-    "anomalyco/opencode",
-    "tensorflow/tensorflow",
-    "trekhleb/javascript-algorithms",
-    "deepseek-ai/deepseek-harness",
-    "guillaumemeyer/watermarks-remover",
-    "anywhere-labs/deepseek-harness-desktop",
-    "awesome-dsh-plugin/awesome-dsh-plugin",
-    "zhu1090093659/dsh-web-ui",
-    "antirez/h3.c",
-    "xiaobright/dsh-anchored-standard",
-    "SMNETSTUDIO/WeChat-AI",
-    "xoreaxeaxeax/skitter-creek-bath-salts",
-    "cordiverse/paper"
-  ]
+  "repos": {
+    "nilbuild/developer-roadmap": {
+      "pushed_at": "2026-08-14T17:26:59Z",
+      "local_path": "辦公室應用/developer-roadmap/README.md"
+    },
+    "public-apis/public-apis": {
+      "pushed_at": "2026-08-13T21:07:34Z",
+      "local_path": "寫程式/public-apis/README.md"
+    },
+    "freeCodeCamp/freeCodeCamp": {
+      "pushed_at": "2026-08-15T13:39:32Z",
+      "local_path": "寫程式/freeCodeCamp/README.md"
+    },
+    "EbookFoundation/free-programming-books": {
+      "pushed_at": "2026-08-11T12:11:06Z",
+      "local_path": "寫程式/free-programming-books/README.md"
+    },
+    "vinta/awesome-python": {
+      "pushed_at": "2026-08-05T06:11:04Z",
+      "local_path": "寫程式/awesome-python/README.md"
+    },
+    "awesome-selfhosted/awesome-selfhosted": {
+      "pushed_at": "2026-08-12T18:50:03Z",
+      "local_path": "寫程式/awesome-selfhosted/README.md"
+    },
+    "practical-tutorials/project-based-learning": {
+      "pushed_at": "2026-08-10T07:04:22Z",
+      "local_path": "寫程式/project-based-learning/README.md"
+    },
+    "react/react": {
+      "pushed_at": "2026-08-14T17:33:13Z",
+      "local_path": "寫程式/react/README.md"
+    },
+    "xoreaxeaxeax/skitter-creek-bath-salts": {
+      "pushed_at": "2026-08-13T16:59:41Z",
+      "local_path": "寫程式/skitter-creek-bath-salts/README.md"
+    },
+    "cordiverse/paper": {
+      "pushed_at": "2026-08-13T12:54:03Z",
+      "local_path": "寫程式/paper/README.md"
+    },
+    "guillaumemeyer/watermarks-remover": {
+      "pushed_at": "2026-08-14T23:49:30Z",
+      "local_path": "AI Skill/watermarks-remover/README.md"
+    },
+    "antirez/h3.c": {
+      "pushed_at": "2026-08-11T13:53:32Z",
+      "local_path": "AI Skill/h3.c/README.md"
+    },
+    "openclaw/openclaw": {
+      "pushed_at": "2026-08-15T13:48:03Z",
+      "local_path": "AI Agent/openclaw/README.md"
+    },
+    "obra/superpowers": {
+      "pushed_at": "2026-08-13T00:36:31Z",
+      "local_path": "AI Agent/superpowers/README.md"
+    },
+    "deepseek-ai/deepseek-harness": {
+      "pushed_at": "2026-08-13T13:00:21Z",
+      "local_path": "AI Agent/deepseek-harness/README.md"
+    },
+    "anywhere-labs/deepseek-harness-desktop": {
+      "pushed_at": "2026-08-15T12:41:15Z",
+      "local_path": "AI Agent/deepseek-harness-desktop/README.md"
+    },
+    "awesome-dsh-plugin/awesome-dsh-plugin": {
+      "pushed_at": "2026-08-15T10:32:44Z",
+      "local_path": "AI Agent/awesome-dsh-plugin/README.md"
+    },
+    "zhu1090093659/dsh-web-ui": {
+      "pushed_at": "2026-08-15T11:50:04Z",
+      "local_path": "AI Agent/dsh-web-ui/README.md"
+    },
+    "xiaobright/dsh-anchored-standard": {
+      "pushed_at": "2026-08-15T11:42:35Z",
+      "local_path": "AI Agent/dsh-anchored-standard/README.md"
+    },
+    "SMNETSTUDIO/WeChat-AI": {
+      "pushed_at": "2026-08-13T08:30:29Z",
+      "local_path": "AI Agent/WeChat-AI/README.md"
+    }
+  }
 }

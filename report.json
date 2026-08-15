@@ -5,14 +5,18 @@
       "category_name": "辦公室應用",
       "items": [
         {
-          "name": "n8n",
+          "name": "developer-roadmap",
+          "full_name": "nilbuild/developer-roadmap",
           "type": "Top Star",
-          "original_url": "https://github.com/n8n-io/n8n",
-          "stars": 200702,
+          "original_url": "https://github.com/nilbuild/developer-roadmap",
+          "stars": 364457,
           "language": "TypeScript",
-          "local_path": "辦公室應用/n8n/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/辦公室應用/n8n",
-          "summary": "n8n 是一個公平程式碼的開源工作流程自動化平台，內建 AI 能力並提供超過 400 種整合。它允許使用者透過視覺化建構和自定義程式碼來自動化重複性任務，對於提升企業和個人生產力而言是個強大的工具。"
+          "local_path": "辦公室應用/developer-roadmap/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/辦公室應用/developer-roadmap",
+          "summary": "提供了互動式的開發者職涯路線圖、指南及其他教育內容，旨在協助開發者規劃並成長其職業生涯。對於希望明確學習路徑和提升專業技能的開發者而言，這是一個寶貴的職涯規劃資源。",
+          "pushed_at": "2026-08-14T17:26:59Z",
+          "is_update": false,
+          "previous_local_path": null
         }
       ]
     },
@@ -20,64 +24,130 @@
       "category_name": "寫程式",
       "items": [
         {
+          "name": "public-apis",
+          "full_name": "public-apis/public-apis",
+          "type": "Top Star",
+          "original_url": "https://github.com/public-apis/public-apis",
+          "stars": 459446,
+          "language": "Python",
+          "local_path": "寫程式/public-apis/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/public-apis",
+          "summary": "提供了一個免費 APIs 的綜合列表，讓開發者能快速找到並整合各種服務。對於需要探索不同 API 資源的程式設計師來說，這是一個寶貴的學習與開發工具。",
+          "pushed_at": "2026-08-13T21:07:34Z",
+          "is_update": false,
+          "previous_local_path": null
+        },
+        {
+          "name": "freeCodeCamp",
+          "full_name": "freeCodeCamp/freeCodeCamp",
+          "type": "Top Star",
+          "original_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "stars": 454043,
+          "language": "TypeScript",
+          "local_path": "寫程式/freeCodeCamp/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/freeCodeCamp",
+          "summary": "freeCodeCamp 是一個提供免費程式設計、數學和電腦科學課程的開源平台。它透過實作專案和互動式課程，幫助初學者和經驗豐富的開發者提升技能。",
+          "pushed_at": "2026-08-15T13:39:32Z",
+          "is_update": false,
+          "previous_local_path": null
+        },
+        {
+          "name": "free-programming-books",
+          "full_name": "EbookFoundation/free-programming-books",
+          "type": "Top Star",
+          "original_url": "https://github.com/EbookFoundation/free-programming-books",
+          "stars": 394439,
+          "language": "Python",
+          "local_path": "寫程式/free-programming-books/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/free-programming-books",
+          "summary": "匯集了大量免費的程式設計書籍，涵蓋各種程式語言與技術。對於想免費學習或深入研究特定程式領域的開發者來說，這是一個極佳的資源庫。",
+          "pushed_at": "2026-08-11T12:11:06Z",
+          "is_update": false,
+          "previous_local_path": null
+        },
+        {
+          "name": "awesome-python",
+          "full_name": "vinta/awesome-python",
+          "type": "Top Star",
+          "original_url": "https://github.com/vinta/awesome-python",
+          "stars": 314085,
+          "language": "Python",
+          "local_path": "寫程式/awesome-python/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/awesome-python",
+          "summary": "彙整了一系列精選的 Python 框架、函式庫、工具和資源。對於 Python 開發者而言，這是一個快速尋找實用工具和學習資源的絕佳起點。",
+          "pushed_at": "2026-08-05T06:11:04Z",
+          "is_update": false,
+          "previous_local_path": null
+        },
+        {
+          "name": "awesome-selfhosted",
+          "full_name": "awesome-selfhosted/awesome-selfhosted",
+          "type": "Top Star",
+          "original_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+          "stars": 312812,
+          "language": "Unknown",
+          "local_path": "寫程式/awesome-selfhosted/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/awesome-selfhosted",
+          "summary": "收集了一系列可以自行架設（self-hosted）的免費軟體網路服務和網路應用程式。它為追求資料自主權、隱私或希望建立客製化服務的技術愛好者和小型團隊提供了豐富的選擇。",
+          "pushed_at": "2026-08-12T18:50:03Z",
+          "is_update": false,
+          "previous_local_path": null
+        },
+        {
+          "name": "project-based-learning",
+          "full_name": "practical-tutorials/project-based-learning",
+          "type": "Top Star",
+          "original_url": "https://github.com/practical-tutorials/project-based-learning",
+          "stars": 279285,
+          "language": "Python",
+          "local_path": "寫程式/project-based-learning/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/project-based-learning",
+          "summary": "整理了精選的專案導向教學清單，鼓勵學習者透過實際動手做來掌握技能。這對於希望將理論知識應用於實踐、快速提升開發能力的學生和開發者來說，是一個非常有效的學習方式。",
+          "pushed_at": "2026-08-10T07:04:22Z",
+          "is_update": false,
+          "previous_local_path": null
+        },
+        {
           "name": "react",
+          "full_name": "react/react",
           "type": "Top Star",
           "original_url": "https://github.com/react/react",
           "stars": 247248,
           "language": "JavaScript",
           "local_path": "寫程式/react/README.md",
           "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/react",
-          "summary": "React 是一個用於建構網頁和原生使用者介面的 JavaScript 函式庫，以其基於組件的開發模式和高效的虛擬 DOM 而聞名。它簡化了複雜 UI 的開發，是現代前端開發的基石，廣泛應用於各種規模的應用程式。"
-        },
-        {
-          "name": "linux",
-          "type": "Top Star",
-          "original_url": "https://github.com/torvalds/linux",
-          "stars": 242904,
-          "language": "C",
-          "local_path": "寫程式/linux/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/linux",
-          "summary": "Linux 核心是開源作業系統 Linux 的核心組件，由 Linus Torvalds 創立。它負責管理系統硬體資源，是全球伺服器、嵌入式系統和桌面電腦廣泛使用的基礎軟體，其穩定性和靈活性備受推崇。"
-        },
-        {
-          "name": "Python",
-          "type": "Top Star",
-          "original_url": "https://github.com/TheAlgorithms/Python",
-          "stars": 223744,
-          "language": "Python",
-          "local_path": "寫程式/Python/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/Python",
-          "summary": "TheAlgorithms/Python 是一個龐大的開源專案，收錄了各種常用演算法的 Python 實作。它為程式設計師和學習者提供了一個全面的資源庫，是理解和實踐演算法的絕佳工具。"
-        },
-        {
-          "name": "javascript-algorithms",
-          "type": "Top Star",
-          "original_url": "https://github.com/trekhleb/javascript-algorithms",
-          "stars": 196461,
-          "language": "JavaScript",
-          "local_path": "寫程式/javascript-algorithms/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/javascript-algorithms",
-          "summary": "JavaScript Algorithms 是一個涵蓋各種演算法和資料結構的開源專案，並附有詳細解釋和參考資料。它為 JavaScript 開發者提供了一個學習和實踐電腦科學基礎知識的寶貴資源，有助於提升程式設計能力。"
+          "summary": "React 是一個用於建構網頁和原生使用者介面的函式庫，以其聲明式編程和元件化架構廣受開發者歡迎。它簡化了複雜 UI 的開發過程，是現代前端開發不可或缺的工具。",
+          "pushed_at": "2026-08-14T17:33:13Z",
+          "is_update": true,
+          "previous_local_path": null
         },
         {
           "name": "skitter-creek-bath-salts",
+          "full_name": "xoreaxeaxeax/skitter-creek-bath-salts",
           "type": "Fast-Rising",
           "original_url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
           "stars": 1640,
           "language": "C",
           "local_path": "寫程式/skitter-creek-bath-salts/README.md",
           "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/skitter-creek-bath-salts",
-          "summary": "skitter-creek-bath-salts 是一個探索透過 DRAM 擾動來解鎖 CPU 潛在功能的專案。它深入研究低層硬體漏洞和效能優化，對於電腦系統安全研究和極限效能探索領域具有高度的技術價值。"
+          "summary": "透過記憶體擾亂技術（DRAM scrambling），skitter-creek-bath-salts 旨在探索解鎖 CPU 潛在能力的方法。這是一個低層級系統程式設計和資安研究專案，值得關注其在硬體層面探索的可能性。",
+          "pushed_at": "2026-08-13T16:59:41Z",
+          "is_update": true,
+          "previous_local_path": null
         },
         {
           "name": "paper",
+          "full_name": "cordiverse/paper",
           "type": "Fast-Rising",
           "original_url": "https://github.com/cordiverse/paper",
           "stars": 1517,
           "language": "Unknown",
           "local_path": "寫程式/paper/README.md",
           "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/paper",
-          "summary": "Paper 提出了一種用於時空可組合性的程式設計範式，旨在解決複雜系統中的時間與空間交互問題。它探索了新的軟體架構思想，對於推動程式設計理論和實踐的發展具有重要的學術和工程意義。"
+          "summary": "Paper 專注於提出一種用於時空可組合性（Spatiotemporal Composability）的程式設計典範。它旨在解決複雜系統中的時間與空間關係問題，為開發者提供了新的思維框架和工具來建構更具彈性的應用。",
+          "pushed_at": "2026-08-13T12:54:03Z",
+          "is_update": true,
+          "previous_local_path": null
         }
       ]
     },
@@ -85,34 +155,32 @@
       "category_name": "AI Skill",
       "items": [
         {
-          "name": "tensorflow",
-          "type": "Top Star",
-          "original_url": "https://github.com/tensorflow/tensorflow",
-          "stars": 197032,
-          "language": "C++",
-          "local_path": "AI Skill/tensorflow/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/AI Skill/tensorflow",
-          "summary": "TensorFlow 是一個由 Google 開發的開源機器學習框架，旨在讓所有人都能輕鬆地建構和部署機器學習模型。它支援從研究到生產的各種應用，是深度學習領域最廣泛使用的工具之一。"
-        },
-        {
           "name": "watermarks-remover",
+          "full_name": "guillaumemeyer/watermarks-remover",
           "type": "Fast-Rising",
           "original_url": "https://github.com/guillaumemeyer/watermarks-remover",
-          "stars": 9254,
+          "stars": 9264,
           "language": "Python",
           "local_path": "AI Skill/watermarks-remover/README.md",
           "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/AI Skill/watermarks-remover",
-          "summary": "watermarks-remover 是一個用於移除多供應商 AI 來源標記的工具，支援多種文件格式如圖片、PDF 和 Office 文件。它透過文字清理和元數據移除等技術，幫助使用者處理 AI 生成內容的溯源信息，對於保護隱私或內容再利用具有實用價值。"
+          "summary": "watermarks-remover 是一個用於移除多種 AI 來源標記的工具，能夠處理各種文件和圖片格式的浮水印與中繼資料。它提供內容淨化功能，對於處理 AI 生成內容的隱私和版權問題具有實用價值。",
+          "pushed_at": "2026-08-14T23:49:30Z",
+          "is_update": true,
+          "previous_local_path": null
         },
         {
           "name": "h3.c",
+          "full_name": "antirez/h3.c",
           "type": "Fast-Rising",
           "original_url": "https://github.com/antirez/h3.c",
           "stars": 1881,
           "language": "C",
           "local_path": "AI Skill/h3.c/README.md",
           "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/AI Skill/h3.c",
-          "summary": "h3.c 是一個針對 Mac 電腦設計的 MiniMax H3 推理引擎。它提供高效的推理能力，適用於需要快速進行決策和策略分析的應用，對於基於 H3 演算法的智慧應用開發具有重要意義。"
+          "summary": "h3.c 是一個專為 Mac 電腦設計的 MiniMax H3 推理引擎。它提供高效能的 AI 推理能力，對於在 macOS 環境下開發或執行機器學習應用的開發者來說，是一個重要的底層工具。",
+          "pushed_at": "2026-08-11T13:53:32Z",
+          "is_update": true,
+          "previous_local_path": null
         }
       ]
     },
@@ -120,107 +188,119 @@
       "category_name": "AI Agent",
       "items": [
         {
-          "name": "ECC",
+          "name": "openclaw",
+          "full_name": "openclaw/openclaw",
           "type": "Top Star",
-          "original_url": "https://github.com/affaan-m/ECC",
-          "stars": 240233,
-          "language": "JavaScript",
-          "local_path": "AI Agent/ECC/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/ECC",
-          "summary": "ECC 是一個專為優化 AI 代理效能而設計的系統，特別針對 Claude Code、Codex 等程式碼生成代理。它透過強化代理的技能、記憶和安全性來提升其開發效率，對於需要高性能 AI 編碼助理的場景具有重要意義。"
-        },
-        {
-          "name": "hermes-agent",
-          "type": "Top Star",
-          "original_url": "https://github.com/NousResearch/hermes-agent",
-          "stars": 230896,
-          "language": "Python",
-          "local_path": "AI Agent/hermes-agent/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/hermes-agent",
-          "summary": "Hermes Agent 是一個以使用者成長為設計理念的 AI 代理工具，旨在提供個性化的互動和學習體驗。它能夠逐步適應使用者需求並提升自身能力，為個人化 AI 應用提供了新的可能性。"
-        },
-        {
-          "name": "skills",
-          "type": "Top Star",
-          "original_url": "https://github.com/mattpocock/skills",
-          "stars": 218077,
-          "language": "Shell",
-          "local_path": "AI Agent/skills/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/skills",
-          "summary": "mattpocock/skills 提供了針對工程師的實用技能，其內容直接來源於其 `.agents` 目錄。這可能是一套用於增強開發效率或自動化日常任務的腳本與工具集合，對於追求高效率的開發者來說非常有價值。"
-        },
-        {
-          "name": "opencode",
-          "type": "Top Star",
-          "original_url": "https://github.com/anomalyco/opencode",
-          "stars": 197664,
+          "original_url": "https://github.com/openclaw/openclaw",
+          "stars": 386358,
           "language": "TypeScript",
-          "local_path": "AI Agent/opencode/README.md",
-          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/opencode",
-          "summary": "Opencode 是一個開源的編碼 AI 代理，旨在協助開發者自動完成編程任務。它提供了一個可擴展的平台，讓 AI 能更有效地參與到軟體開發流程中，對於提升編碼效率和品質有潛在的巨大影響。"
+          "local_path": "AI Agent/openclaw/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/openclaw",
+          "summary": "OpenClaw 是一個跨平台、跨作業系統的個人 AI 助手，旨在提供用戶個人化的智慧協助。它以「龍蝦方式」運作，強調其獨特且廣泛的應用能力，值得關注其自主性與便捷性。",
+          "pushed_at": "2026-08-15T13:48:03Z",
+          "is_update": false,
+          "previous_local_path": null
+        },
+        {
+          "name": "superpowers",
+          "full_name": "obra/superpowers",
+          "type": "Top Star",
+          "original_url": "https://github.com/obra/superpowers",
+          "stars": 272363,
+          "language": "Shell",
+          "local_path": "AI Agent/superpowers/README.md",
+          "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/superpowers",
+          "summary": "Superpowers 是一個強調「代理能力」（agentic skills）的框架和軟體開發方法論。它旨在為開發具備自主性和多步驟決策能力的 AI 代理提供結構與指引，是 AI Agent 領域值得關注的創新方向。",
+          "pushed_at": "2026-08-13T00:36:31Z",
+          "is_update": false,
+          "previous_local_path": null
         },
         {
           "name": "deepseek-harness",
+          "full_name": "deepseek-ai/deepseek-harness",
           "type": "Fast-Rising",
           "original_url": "https://github.com/deepseek-ai/deepseek-harness",
-          "stars": 109258,
+          "stars": 109409,
           "language": "TypeScript",
           "local_path": "AI Agent/deepseek-harness/README.md",
           "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/deepseek-harness",
-          "summary": "DeepSeek Harness 是一個以「一切皆插件」為核心理念的平台，旨在提供高度可擴展的 AI 應用框架。它透過插件系統實現功能的靈活擴展，為開發者建構自定義 AI 解決方案提供了強大的基礎。"
+          "summary": "DeepSeek Harness 是一個以「萬物皆插件」為核心理念的框架。它提供了一個高度模組化的環境，讓使用者能夠透過豐富的插件擴展 AI 能力與工作流程，是構建客製化 AI 解決方案的強大平台。",
+          "pushed_at": "2026-08-13T13:00:21Z",
+          "is_update": true,
+          "previous_local_path": null
         },
         {
           "name": "deepseek-harness-desktop",
+          "full_name": "anywhere-labs/deepseek-harness-desktop",
           "type": "Fast-Rising",
           "original_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-          "stars": 4636,
+          "stars": 4659,
           "language": "TypeScript",
           "local_path": "AI Agent/deepseek-harness-desktop/README.md",
           "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/deepseek-harness-desktop",
-          "summary": "DeepSeek Harness Desktop 專為 DeepSeek Harness 生態系統打造，提供現代化的桌面端使用者體驗。它讓使用者能夠更便捷地管理和操作 DSH 平台上的各項功能，對於 DSH 生態的普及和使用體驗提升至關重要。"
+          "summary": "這是為 DeepSeek Harness (DSH) 生態系統量身打造的現代化桌面端應用程式。它旨在提供更流暢、直觀的使用者體驗，讓用戶能更便捷地管理和操作 DeepSeek Harness 的各項功能。",
+          "pushed_at": "2026-08-15T12:41:15Z",
+          "is_update": true,
+          "previous_local_path": null
         },
         {
           "name": "awesome-dsh-plugin",
+          "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
           "type": "Fast-Rising",
           "original_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-          "stars": 2494,
+          "stars": 2507,
           "language": "Python",
           "local_path": "AI Agent/awesome-dsh-plugin/README.md",
           "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/awesome-dsh-plugin",
-          "summary": "Awesome DeepSeek Harness Plugin 是一個精選列表，收集了 DeepSeek Harness (DSH) 平台的優質插件。它為 DSH 使用者提供了一個發現和利用各種擴展功能的中心，極大地豐富了 DSH 生態系統的功能性和應用場景。"
+          "summary": "這是 DeepSeek Harness (DSH) 插件的精選列表，收集了多樣化的功能擴充。對於 DeepSeek Harness 的使用者而言，這個清單是尋找並整合新功能、提升 AI 助手能力的寶貴資源。",
+          "pushed_at": "2026-08-15T10:32:44Z",
+          "is_update": true,
+          "previous_local_path": null
         },
         {
           "name": "dsh-web-ui",
+          "full_name": "zhu1090093659/dsh-web-ui",
           "type": "Fast-Rising",
           "original_url": "https://github.com/zhu1090093659/dsh-web-ui",
-          "stars": 2470,
+          "stars": 2481,
           "language": "TypeScript",
           "local_path": "AI Agent/dsh-web-ui/README.md",
           "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/dsh-web-ui",
-          "summary": "DSH Web UI 是一個為 DeepSeek Harness (DSH) 平台設計的網頁介面插件和皮膚集合。它提供任務板、Git 圖形、遠端行動 UI 等多種功能，旨在豐富 DSH 的使用體驗，並使其更具個人化和實用性。"
+          "summary": "這個專案為 DeepSeek Harness (DSH) Web UI 提供了豐富的插件和主題，涵蓋任務板、Git 圖形、遠端行動介面等。它旨在提升使用者介面的功能性和客製化程度，讓 DeepSeek Harness 的體驗更加個人化。",
+          "pushed_at": "2026-08-15T11:50:04Z",
+          "is_update": true,
+          "previous_local_path": null
         },
         {
           "name": "dsh-anchored-standard",
+          "full_name": "xiaobright/dsh-anchored-standard",
           "type": "Fast-Rising",
           "original_url": "https://github.com/xiaobright/dsh-anchored-standard",
-          "stars": 1819,
+          "stars": 1828,
           "language": "JavaScript",
           "local_path": "AI Agent/dsh-anchored-standard/README.md",
           "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/dsh-anchored-standard",
-          "summary": "DSH Anchored Standard 是一個為 DeepSeek Harness 平台設計的兩階段預設配置。它提供一個最小化的啟動流程，然後逐步引入完整的標準工具集，為使用者在 DSH 上的開發和部署提供了一個標準化的起始點。"
+          "summary": "dsh-anchored-standard 是一個為 DeepSeek Harness 設計的雙階段預設配置。它提供一個最小化對齊的啟動階段，隨後載入完整標準工具，有助於簡化 DeepSeek Harness 的部署與客製化流程。",
+          "pushed_at": "2026-08-15T11:42:35Z",
+          "is_update": true,
+          "previous_local_path": null
         },
         {
           "name": "WeChat-AI",
+          "full_name": "SMNETSTUDIO/WeChat-AI",
           "type": "Fast-Rising",
           "original_url": "https://github.com/SMNETSTUDIO/WeChat-AI",
           "stars": 1730,
           "language": "TypeScript",
           "local_path": "AI Agent/WeChat-AI/README.md",
           "repo_dir_url": "https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/WeChat-AI",
-          "summary": "WeChat-AI 是一個基於 TypeScript 開發的專案，旨在將 AI 能力整合到微信平台。儘管描述為空，其命名暗示了一個能處理訊息、自動回應或提供智慧服務的微信 AI 代理，對於擴展微信應用場景具有潛力。"
+          "summary": "WeChat-AI 是一個將 AI 能力整合到微信平台上的專案。它可能提供智慧對話、自動回覆或資訊查詢等功能，旨在提升微信使用者的互動體驗。",
+          "pushed_at": "2026-08-13T08:30:29Z",
+          "is_update": true,
+          "previous_local_path": null
         }
       ]
     }
   ],
-  "email_html_body": "\n    <div style=\"font-family: -apple-system, 'PingFang TC', 'Microsoft JhengHei', sans-serif; max-width: 680px; margin: 0 auto; color: #1f2937;\">\n      <h1 style=\"color: #007bff; text-align:center; font-size: 24px;\">GitHub 開源科技報告</h1>\n      <p style=\"text-align:center; color:#666; margin-bottom: 30px;\">日期: 2026-08-15</p>\n    \n      <h2 style=\"border-bottom: 2px solid #e5e7eb; padding-bottom: 8px; margin-top: 32px;\">辦公室應用</h2>\n        \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">n8n</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: TypeScript | Star: 200,702</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">n8n 是一個公平程式碼的開源工作流程自動化平台，內建 AI 能力並提供超過 400 種整合。它允許使用者透過視覺化建構和自定義程式碼來自動化重複性任務，對於提升企業和個人生產力而言是個強大的工具。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/n8n-io/n8n\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/辦公室應用/n8n\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <h2 style=\"border-bottom: 2px solid #e5e7eb; padding-bottom: 8px; margin-top: 32px;\">寫程式</h2>\n        \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">react</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: JavaScript | Star: 247,248</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">React 是一個用於建構網頁和原生使用者介面的 JavaScript 函式庫，以其基於組件的開發模式和高效的虛擬 DOM 而聞名。它簡化了複雜 UI 的開發，是現代前端開發的基石，廣泛應用於各種規模的應用程式。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/react/react\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/react\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">linux</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: C | Star: 242,904</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">Linux 核心是開源作業系統 Linux 的核心組件，由 Linus Torvalds 創立。它負責管理系統硬體資源，是全球伺服器、嵌入式系統和桌面電腦廣泛使用的基礎軟體，其穩定性和靈活性備受推崇。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/torvalds/linux\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/linux\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">Python</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: Python | Star: 223,744</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">TheAlgorithms/Python 是一個龐大的開源專案，收錄了各種常用演算法的 Python 實作。它為程式設計師和學習者提供了一個全面的資源庫，是理解和實踐演算法的絕佳工具。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/TheAlgorithms/Python\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/Python\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">javascript-algorithms</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: JavaScript | Star: 196,461</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">JavaScript Algorithms 是一個涵蓋各種演算法和資料結構的開源專案，並附有詳細解釋和參考資料。它為 JavaScript 開發者提供了一個學習和實踐電腦科學基礎知識的寶貴資源，有助於提升程式設計能力。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/trekhleb/javascript-algorithms\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/javascript-algorithms\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">skitter-creek-bath-salts</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: C | Star: 1,640</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">skitter-creek-bath-salts 是一個探索透過 DRAM 擾動來解鎖 CPU 潛在功能的專案。它深入研究低層硬體漏洞和效能優化，對於電腦系統安全研究和極限效能探索領域具有高度的技術價值。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/xoreaxeaxeax/skitter-creek-bath-salts\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/skitter-creek-bath-salts\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">paper</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: Unknown | Star: 1,517</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">Paper 提出了一種用於時空可組合性的程式設計範式，旨在解決複雜系統中的時間與空間交互問題。它探索了新的軟體架構思想，對於推動程式設計理論和實踐的發展具有重要的學術和工程意義。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/cordiverse/paper\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/paper\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <h2 style=\"border-bottom: 2px solid #e5e7eb; padding-bottom: 8px; margin-top: 32px;\">AI Skill</h2>\n        \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">tensorflow</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: C++ | Star: 197,032</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">TensorFlow 是一個由 Google 開發的開源機器學習框架，旨在讓所有人都能輕鬆地建構和部署機器學習模型。它支援從研究到生產的各種應用，是深度學習領域最廣泛使用的工具之一。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/tensorflow/tensorflow\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Skill/tensorflow\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">watermarks-remover</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: Python | Star: 9,254</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">watermarks-remover 是一個用於移除多供應商 AI 來源標記的工具，支援多種文件格式如圖片、PDF 和 Office 文件。它透過文字清理和元數據移除等技術，幫助使用者處理 AI 生成內容的溯源信息，對於保護隱私或內容再利用具有實用價值。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/guillaumemeyer/watermarks-remover\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Skill/watermarks-remover\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">h3.c</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: C | Star: 1,881</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">h3.c 是一個針對 Mac 電腦設計的 MiniMax H3 推理引擎。它提供高效的推理能力，適用於需要快速進行決策和策略分析的應用，對於基於 H3 演算法的智慧應用開發具有重要意義。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/antirez/h3.c\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Skill/h3.c\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <h2 style=\"border-bottom: 2px solid #e5e7eb; padding-bottom: 8px; margin-top: 32px;\">AI Agent</h2>\n        \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">ECC</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: JavaScript | Star: 240,233</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">ECC 是一個專為優化 AI 代理效能而設計的系統，特別針對 Claude Code、Codex 等程式碼生成代理。它透過強化代理的技能、記憶和安全性來提升其開發效率，對於需要高性能 AI 編碼助理的場景具有重要意義。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/affaan-m/ECC\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/ECC\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">hermes-agent</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: Python | Star: 230,896</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">Hermes Agent 是一個以使用者成長為設計理念的 AI 代理工具，旨在提供個性化的互動和學習體驗。它能夠逐步適應使用者需求並提升自身能力，為個人化 AI 應用提供了新的可能性。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/NousResearch/hermes-agent\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/hermes-agent\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">skills</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: Shell | Star: 218,077</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">mattpocock/skills 提供了針對工程師的實用技能，其內容直接來源於其 `.agents` 目錄。這可能是一套用於增強開發效率或自動化日常任務的腳本與工具集合，對於追求高效率的開發者來說非常有價值。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/mattpocock/skills\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/skills\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">opencode</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: TypeScript | Star: 197,664</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">Opencode 是一個開源的編碼 AI 代理，旨在協助開發者自動完成編程任務。它提供了一個可擴展的平台，讓 AI 能更有效地參與到軟體開發流程中，對於提升編碼效率和品質有潛在的巨大影響。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/anomalyco/opencode\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/opencode\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">deepseek-harness</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: TypeScript | Star: 109,258</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">DeepSeek Harness 是一個以「一切皆插件」為核心理念的平台，旨在提供高度可擴展的 AI 應用框架。它透過插件系統實現功能的靈活擴展，為開發者建構自定義 AI 解決方案提供了強大的基礎。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/deepseek-ai/deepseek-harness\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/deepseek-harness\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">deepseek-harness-desktop</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: TypeScript | Star: 4,636</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">DeepSeek Harness Desktop 專為 DeepSeek Harness 生態系統打造，提供現代化的桌面端使用者體驗。它讓使用者能夠更便捷地管理和操作 DSH 平台上的各項功能，對於 DSH 生態的普及和使用體驗提升至關重要。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/anywhere-labs/deepseek-harness-desktop\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/deepseek-harness-desktop\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">awesome-dsh-plugin</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: Python | Star: 2,494</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">Awesome DeepSeek Harness Plugin 是一個精選列表，收集了 DeepSeek Harness (DSH) 平台的優質插件。它為 DSH 使用者提供了一個發現和利用各種擴展功能的中心，極大地豐富了 DSH 生態系統的功能性和應用場景。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/awesome-dsh-plugin/awesome-dsh-plugin\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/awesome-dsh-plugin\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">dsh-web-ui</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: TypeScript | Star: 2,470</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">DSH Web UI 是一個為 DeepSeek Harness (DSH) 平台設計的網頁介面插件和皮膚集合。它提供任務板、Git 圖形、遠端行動 UI 等多種功能，旨在豐富 DSH 的使用體驗，並使其更具個人化和實用性。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/zhu1090093659/dsh-web-ui\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/dsh-web-ui\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">dsh-anchored-standard</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: JavaScript | Star: 1,819</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">DSH Anchored Standard 是一個為 DeepSeek Harness 平台設計的兩階段預設配置。它提供一個最小化的啟動流程，然後逐步引入完整的標準工具集，為使用者在 DSH 上的開發和部署提供了一個標準化的起始點。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/xiaobright/dsh-anchored-standard\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/dsh-anchored-standard\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">WeChat-AI</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: TypeScript | Star: 1,730</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">WeChat-AI 是一個基於 TypeScript 開發的專案，旨在將 AI 能力整合到微信平台。儘管描述為空，其命名暗示了一個能處理訊息、自動回應或提供智慧服務的微信 AI 代理，對於擴展微信應用場景具有潛力。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/SMNETSTUDIO/WeChat-AI\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/WeChat-AI\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            </div>"
+  "email_html_body": "\n    <div style=\"font-family: -apple-system, 'PingFang TC', 'Microsoft JhengHei', sans-serif; max-width: 680px; margin: 0 auto; color: #1f2937;\">\n      <h1 style=\"color: #007bff; text-align:center; font-size: 24px;\">GitHub 開源科技報告</h1>\n      <p style=\"text-align:center; color:#666; margin-bottom: 30px;\">日期: 2026-08-15</p>\n    \n      <h2 style=\"border-bottom: 2px solid #e5e7eb; padding-bottom: 8px; margin-top: 32px;\">辦公室應用</h2>\n        \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">developer-roadmap</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n          \n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: TypeScript | Star: 364,457</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">提供了互動式的開發者職涯路線圖、指南及其他教育內容，旨在協助開發者規劃並成長其職業生涯。對於希望明確學習路徑和提升專業技能的開發者而言，這是一個寶貴的職涯規劃資源。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/nilbuild/developer-roadmap\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/辦公室應用/developer-roadmap\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <h2 style=\"border-bottom: 2px solid #e5e7eb; padding-bottom: 8px; margin-top: 32px;\">寫程式</h2>\n        \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">public-apis</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n          \n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: Python | Star: 459,446</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">提供了一個免費 APIs 的綜合列表，讓開發者能快速找到並整合各種服務。對於需要探索不同 API 資源的程式設計師來說，這是一個寶貴的學習與開發工具。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/public-apis/public-apis\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/public-apis\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">freeCodeCamp</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n          \n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: TypeScript | Star: 454,043</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">freeCodeCamp 是一個提供免費程式設計、數學和電腦科學課程的開源平台。它透過實作專案和互動式課程，幫助初學者和經驗豐富的開發者提升技能。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/freeCodeCamp/freeCodeCamp\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/freeCodeCamp\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">free-programming-books</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n          \n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: Python | Star: 394,439</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">匯集了大量免費的程式設計書籍，涵蓋各種程式語言與技術。對於想免費學習或深入研究特定程式領域的開發者來說，這是一個極佳的資源庫。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/EbookFoundation/free-programming-books\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/free-programming-books\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">awesome-python</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n          \n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: Python | Star: 314,085</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">彙整了一系列精選的 Python 框架、函式庫、工具和資源。對於 Python 開發者而言，這是一個快速尋找實用工具和學習資源的絕佳起點。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/vinta/awesome-python\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/awesome-python\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">awesome-selfhosted</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n          \n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: Unknown | Star: 312,812</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">收集了一系列可以自行架設（self-hosted）的免費軟體網路服務和網路應用程式。它為追求資料自主權、隱私或希望建立客製化服務的技術愛好者和小型團隊提供了豐富的選擇。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/awesome-selfhosted/awesome-selfhosted\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/awesome-selfhosted\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">project-based-learning</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n          \n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: Python | Star: 279,285</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">整理了精選的專案導向教學清單，鼓勵學習者透過實際動手做來掌握技能。這對於希望將理論知識應用於實踐、快速提升開發能力的學生和開發者來說，是一個非常有效的學習方式。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/practical-tutorials/project-based-learning\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/project-based-learning\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">react</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n          <span style=\"background:#f97316; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:6px;\">🆕 版本更新</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: JavaScript | Star: 247,248</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">React 是一個用於建構網頁和原生使用者介面的函式庫，以其聲明式編程和元件化架構廣受開發者歡迎。它簡化了複雜 UI 的開發過程，是現代前端開發不可或缺的工具。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/react/react\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/react\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">skitter-creek-bath-salts</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n          <span style=\"background:#f97316; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:6px;\">🆕 版本更新</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: C | Star: 1,640</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">透過記憶體擾亂技術（DRAM scrambling），skitter-creek-bath-salts 旨在探索解鎖 CPU 潛在能力的方法。這是一個低層級系統程式設計和資安研究專案，值得關注其在硬體層面探索的可能性。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/xoreaxeaxeax/skitter-creek-bath-salts\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/skitter-creek-bath-salts\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">paper</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n          <span style=\"background:#f97316; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:6px;\">🆕 版本更新</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: Unknown | Star: 1,517</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">Paper 專注於提出一種用於時空可組合性（Spatiotemporal Composability）的程式設計典範。它旨在解決複雜系統中的時間與空間關係問題，為開發者提供了新的思維框架和工具來建構更具彈性的應用。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/cordiverse/paper\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/寫程式/paper\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <h2 style=\"border-bottom: 2px solid #e5e7eb; padding-bottom: 8px; margin-top: 32px;\">AI Skill</h2>\n        \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">watermarks-remover</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n          <span style=\"background:#f97316; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:6px;\">🆕 版本更新</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: Python | Star: 9,264</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">watermarks-remover 是一個用於移除多種 AI 來源標記的工具，能夠處理各種文件和圖片格式的浮水印與中繼資料。它提供內容淨化功能，對於處理 AI 生成內容的隱私和版權問題具有實用價值。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/guillaumemeyer/watermarks-remover\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Skill/watermarks-remover\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">h3.c</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n          <span style=\"background:#f97316; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:6px;\">🆕 版本更新</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: C | Star: 1,881</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">h3.c 是一個專為 Mac 電腦設計的 MiniMax H3 推理引擎。它提供高效能的 AI 推理能力，對於在 macOS 環境下開發或執行機器學習應用的開發者來說，是一個重要的底層工具。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/antirez/h3.c\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Skill/h3.c\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <h2 style=\"border-bottom: 2px solid #e5e7eb; padding-bottom: 8px; margin-top: 32px;\">AI Agent</h2>\n        \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">openclaw</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n          \n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: TypeScript | Star: 386,358</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">OpenClaw 是一個跨平台、跨作業系統的個人 AI 助手，旨在提供用戶個人化的智慧協助。它以「龍蝦方式」運作，強調其獨特且廣泛的應用能力，值得關注其自主性與便捷性。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/openclaw/openclaw\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/openclaw\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">superpowers</strong>\n          <span style=\"background:#22c55e; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Top Star</span>\n          \n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: Shell | Star: 272,363</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">Superpowers 是一個強調「代理能力」（agentic skills）的框架和軟體開發方法論。它旨在為開發具備自主性和多步驟決策能力的 AI 代理提供結構與指引，是 AI Agent 領域值得關注的創新方向。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/obra/superpowers\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/superpowers\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">deepseek-harness</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n          <span style=\"background:#f97316; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:6px;\">🆕 版本更新</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: TypeScript | Star: 109,409</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">DeepSeek Harness 是一個以「萬物皆插件」為核心理念的框架。它提供了一個高度模組化的環境，讓使用者能夠透過豐富的插件擴展 AI 能力與工作流程，是構建客製化 AI 解決方案的強大平台。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/deepseek-ai/deepseek-harness\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/deepseek-harness\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">deepseek-harness-desktop</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n          <span style=\"background:#f97316; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:6px;\">🆕 版本更新</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: TypeScript | Star: 4,659</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">這是為 DeepSeek Harness (DSH) 生態系統量身打造的現代化桌面端應用程式。它旨在提供更流暢、直觀的使用者體驗，讓用戶能更便捷地管理和操作 DeepSeek Harness 的各項功能。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/anywhere-labs/deepseek-harness-desktop\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/deepseek-harness-desktop\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">awesome-dsh-plugin</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n          <span style=\"background:#f97316; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:6px;\">🆕 版本更新</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: Python | Star: 2,507</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">這是 DeepSeek Harness (DSH) 插件的精選列表，收集了多樣化的功能擴充。對於 DeepSeek Harness 的使用者而言，這個清單是尋找並整合新功能、提升 AI 助手能力的寶貴資源。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/awesome-dsh-plugin/awesome-dsh-plugin\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/awesome-dsh-plugin\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">dsh-web-ui</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n          <span style=\"background:#f97316; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:6px;\">🆕 版本更新</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: TypeScript | Star: 2,481</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">這個專案為 DeepSeek Harness (DSH) Web UI 提供了豐富的插件和主題，涵蓋任務板、Git 圖形、遠端行動介面等。它旨在提升使用者介面的功能性和客製化程度，讓 DeepSeek Harness 的體驗更加個人化。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/zhu1090093659/dsh-web-ui\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/dsh-web-ui\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">dsh-anchored-standard</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n          <span style=\"background:#f97316; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:6px;\">🆕 版本更新</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: JavaScript | Star: 1,828</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">dsh-anchored-standard 是一個為 DeepSeek Harness 設計的雙階段預設配置。它提供一個最小化對齊的啟動階段，隨後載入完整標準工具，有助於簡化 DeepSeek Harness 的部署與客製化流程。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/xiaobright/dsh-anchored-standard\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/dsh-anchored-standard\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            \n      <div style=\"background:#f9fafb; border-radius:8px; padding:16px; margin-bottom:14px; border:1px solid #e5e7eb;\">\n        <p style=\"margin:0 0 6px 0;\">\n          <strong style=\"color:#007bff; font-size:1.1em;\">WeChat-AI</strong>\n          <span style=\"background:#3b82f6; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:8px;\">Fast-Rising</span>\n          <span style=\"background:#f97316; color:#fff; font-size:0.75em; padding:2px 8px; border-radius:10px; margin-left:6px;\">🆕 版本更新</span>\n        </p>\n        <p style=\"margin:0 0 8px 0; color:#666; font-size:0.9em;\">語言: TypeScript | Star: 1,730</p>\n        <p style=\"margin:0 0 10px 0; font-size:0.95em; line-height:1.6;\">WeChat-AI 是一個將 AI 能力整合到微信平台上的專案。它可能提供智慧對話、自動回覆或資訊查詢等功能，旨在提升微信使用者的互動體驗。</p>\n        <p style=\"margin:0; font-size:0.9em;\">\n          <a href=\"https://github.com/SMNETSTUDIO/WeChat-AI\" style=\"color:#007bff; text-decoration:none;\">原始連結</a>\n          &nbsp;|&nbsp;\n          <a href=\"https://github.com/Kevinte67228/AI-Skill/tree/main/AI Agent/WeChat-AI\" style=\"color:#007bff; text-decoration:none;\">本地倉庫路徑</a>\n        </p>\n      </div>\n            </div>"
 }
