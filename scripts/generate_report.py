@@ -137,6 +137,8 @@ def build_full_report(raw_data: dict, ai_result: dict) -> dict:
         local_path = f"{category_name}/{item['name']}/README.md"
         repo_dir_url = f"https://github.com/{GITHUB_REPOSITORY}/tree/main/{category_name}/{item['name']}"
 
+        version_info = item.get("version") or {}
+
         full_item = {
             "name": item["name"],
             "full_name": full_name,
@@ -150,6 +152,8 @@ def build_full_report(raw_data: dict, ai_result: dict) -> dict:
             "pushed_at": item.get("pushed_at"),
             "is_update": item.get("is_update", False),
             "previous_local_path": item.get("previous_local_path"),
+            "version_tag": version_info.get("tag"),
+            "version_published_at": version_info.get("published_at"),
         }
         categories_map.setdefault(category_name, []).append(full_item)
 
@@ -197,6 +201,11 @@ def update_registry(report: dict):
             registry[item["full_name"]] = {
                 "pushed_at": item["pushed_at"],
                 "local_path": item["local_path"],
+                "name": item["name"],
+                "category": category["category_name"],
+                "original_url": item["original_url"],
+                "version_tag": item.get("version_tag"),
+                "author_updated": format_date(item.get("version_published_at")) or format_date(item.get("pushed_at")),
             }
 
     with open(registry_file, "w", encoding="utf-8") as f:
@@ -205,17 +214,66 @@ def update_registry(report: dict):
     print(f"登記簿已更新，目前共累積 {len(registry)} 個仓库記錄")
 
 
+def format_date(iso_str):
+    """把 ISO 8601 時間字串轉成 YYYY-MM-DD，格式不對就原樣回傳。"""
+    if not iso_str:
+        return None
+    try:
+        return iso_str[:10]
+    except Exception:
+        return iso_str
+
+
+def generate_index(report: dict):
+    """從登記簿（累積了歷來所有收錄過的仓库）產生一份 INDEX.md，
+    放在倉庫根目錄，依分類分組列出所有項目的快速連結，方便直接點進去。"""
+    registry_file = "previous_repos.json"
+    with open(registry_file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    registry = data.get("repos", {})
+
+    by_category = {}
+    for full_name, info in registry.items():
+        category = info.get("category") or "未分類"
+        by_category.setdefault(category, []).append((info.get("name", full_name), info, full_name))
+
+    lines = ["# 📋 專案快速索引\n", f"共收錄 {len(registry)} 個專案，最後更新於 {report['date']}\n"]
+    ordered_categories = [c for c in CATEGORIES if c in by_category] + \
+                          [c for c in by_category if c not in CATEGORIES]
+
+    for category in ordered_categories:
+        items = sorted(by_category[category], key=lambda x: x[0].lower())
+        lines.append(f"\n## {category}（{len(items)}）\n")
+        lines.append("| 專案 | 版本 | 作者最後更新 | 快速連結 |")
+        lines.append("|---|---|---|---|")
+        for name, info, full_name in items:
+            local_path = info.get("local_path", "")
+            folder = os.path.dirname(local_path)
+            version_tag = info.get("version_tag") or "-"
+            author_updated = info.get("author_updated") or "-"
+            lines.append(f"| {name} | {version_tag} | {author_updated} | [{folder}]({folder}) |")
+
+    with open("INDEX.md", "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
+
+    print(f"INDEX.md 已更新，共 {len(registry)} 筆快速索引")
+
+
 def write_readmes(report: dict):
     for category in report["categories"]:
         for item in category["items"]:
             path = item["local_path"]
             os.makedirs(os.path.dirname(path), exist_ok=True)
+            author_updated = format_date(item.get("version_published_at")) or format_date(item.get("pushed_at"))
+            version_tag = item.get("version_tag") or "（作者未提供版本標籤）"
             with open(path, "w", encoding="utf-8") as f:
                 f.write(f"# {item['name']}\n\n")
                 if item["is_update"]:
                     f.write("> 🆕 **版本更新**：偵測到自上次收錄後有新的程式碼推送\n\n")
                 f.write(f"**類型**: {item['type']}\n\n")
                 f.write(f"**語言**: {item['language']} | **Star**: {item['stars']:,}\n\n")
+                f.write(f"**版本號**: {version_tag}\n\n")
+                f.write(f"**作者最後更新日期**: {author_updated}\n\n")
                 f.write(f"**原始連結**: {item['original_url']}\n\n")
                 f.write(f"**收錄日期**: {report['date']}\n\n")
                 f.write("## 摘要\n\n")
@@ -289,6 +347,7 @@ def main():
 
     write_readmes(report)
     update_registry(report)
+    generate_index(report)
 
     print(f"報告產生完成: report.json, 各分類 README.md, {html_path}")
 

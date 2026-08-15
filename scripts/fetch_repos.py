@@ -63,6 +63,39 @@ def simplify(item: dict) -> dict:
     }
 
 
+def get_latest_version(full_name: str) -> dict:
+    """查詢這個仓库的最新版本資訊：優先看 GitHub Release，沒有的話退而求其次看 Tag。
+    回傳 {"tag": 版本標籤或None, "published_at": 發布日期或None, "source": "release"/"tag"/None}"""
+    try:
+        resp = requests.get(
+            f"https://api.github.com/repos/{full_name}/releases/latest",
+            headers=HEADERS, timeout=15,
+        )
+        if resp.status_code == 200:
+            data = resp.json()
+            return {
+                "tag": data.get("tag_name"),
+                "published_at": data.get("published_at"),
+                "source": "release",
+            }
+    except requests.RequestException:
+        pass
+
+    try:
+        resp = requests.get(
+            f"https://api.github.com/repos/{full_name}/tags",
+            headers=HEADERS, params={"per_page": 1}, timeout=15,
+        )
+        if resp.status_code == 200:
+            tags = resp.json()
+            if tags:
+                return {"tag": tags[0].get("name"), "published_at": None, "source": "tag"}
+    except requests.RequestException:
+        pass
+
+    return {"tag": None, "published_at": None, "source": None}
+
+
 def load_registry() -> dict:
     """讀取歷史登記簿: {full_name: {"pushed_at":..., "local_path":...}}
     相容舊格式（只存 full_names 陣列），會轉換成新格式（pushed_at 給 None，代表未知）。"""
@@ -127,6 +160,11 @@ def main():
     update_count = sum(1 for item in top_star + fast_rising if item["is_update"])
     if update_count:
         print(f"其中有 {update_count} 個項目是「版本更新」（先前已收錄過，但偵測到新的程式碼推送）")
+
+    print("查詢版本號資訊（Release/Tag）...")
+    for item in top_star + fast_rising:
+        version_info = get_latest_version(item["full_name"])
+        item["version"] = version_info
 
     output = {
         "date": str(today),
