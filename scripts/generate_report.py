@@ -25,18 +25,30 @@ MODEL = "gemini-2.5-flash"
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
 
 
+CATEGORIES = ["辦公室應用", "寫程式", "AI Skill", "AI Agent"]
+CATEGORY_DEFINITIONS = """
+- 辦公室應用：非技術性的商業/生產力工具，例如 CRM、寫作或簡報生成工具、數據分析儀表板、職涯資源等
+- 寫程式：程式語言、框架、開發工具、DevOps、資安、程式教育資源等軟體工程相關項目
+- AI Skill：獨立的 AI 能力或工具（非自主代理），例如推理引擎、語音/影像 AI 工具、模型本身
+- AI Agent：具自主性、多步驟決策能力的 AI 代理框架與代理工具
+"""
+
+
 def build_prompt(raw_data: dict) -> str:
     all_items = raw_data["top_star"] + raw_data["fast_rising"]
     minimal = [
         {"full_name": item["full_name"], "description": item["description"], "language": item["language"]}
         for item in all_items
     ]
+    categories_list = "、".join(CATEGORIES)
     return f"""你是一位開源科技分析師。以下是 {len(minimal)} 個 GitHub 專案的基本資訊。
 
 {json.dumps(minimal, ensure_ascii=False, indent=2)}
 
 請針對每一個專案（用 full_name 對應）完成：
-1. category_name：自動分類到合適的技術類別，類別名稱一律使用小寫連字號英文（例如 ai-agents, web-development, devops, utilities, data-science, machine-learning）
+1. category_name：從以下「這四個固定分類」中選一個最貼切的，不可自創其他分類名稱：
+{CATEGORY_DEFINITIONS}
+   分類名稱必須完全是這四個字串之一：{categories_list}
 2. summary：一段繁體中文摘要，包含核心功能、使用場景、為什麼值得關注，控制在 2-3 句話
 
 請嚴格只回傳一個 JSON 物件，不要有 markdown code block 包裹，不要有前言。結構如下：
@@ -116,7 +128,10 @@ def build_full_report(raw_data: dict, ai_result: dict) -> dict:
     for item, item_type in all_items:
         full_name = item["full_name"]
         ai_info = ai_by_name.get(full_name, {})
-        category_name = ai_info.get("category_name", "uncategorized")
+        category_name = ai_info.get("category_name", "")
+        if category_name not in CATEGORIES:
+            print(f"警告: {full_name} 的分類「{category_name}」不在固定四類中，改為預設「寫程式」")
+            category_name = "寫程式"
         summary = ai_info.get("summary", "（本次未取得摘要）")
 
         local_path = f"{category_name}/{item['name']}/README.md"
@@ -135,8 +150,9 @@ def build_full_report(raw_data: dict, ai_result: dict) -> dict:
         categories_map.setdefault(category_name, []).append(full_item)
 
     categories = [
-        {"category_name": name, "items": items}
-        for name, items in sorted(categories_map.items())
+        {"category_name": name, "items": categories_map[name]}
+        for name in CATEGORIES
+        if name in categories_map
     ]
     return {"date": raw_data["date"], "categories": categories}
 
