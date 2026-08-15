@@ -1,207 +1,207 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-15",
   "top_star": [
     {
-      "name": "build-your-own-x",
-      "full_name": "codecrafters-io/build-your-own-x",
-      "html_url": "https://github.com/codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": 538137,
-      "language": "Markdown",
-      "created_at": "2018-05-09T12:03:18Z",
-      "updated_at": "2026-08-10T01:44:04Z"
+      "name": "react",
+      "full_name": "react/react",
+      "html_url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 247248,
+      "language": "JavaScript",
+      "created_at": "2013-05-24T16:15:54Z",
+      "updated_at": "2026-08-15T12:46:05Z"
     },
     {
-      "name": "public-apis",
-      "full_name": "public-apis/public-apis",
-      "html_url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "stars": 455228,
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "html_url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "stars": 242904,
+      "language": "C",
+      "created_at": "2011-09-04T22:48:12Z",
+      "updated_at": "2026-08-15T13:45:46Z"
+    },
+    {
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 240233,
+      "language": "JavaScript",
+      "created_at": "2026-01-18T00:51:51Z",
+      "updated_at": "2026-08-15T13:44:52Z"
+    },
+    {
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 230896,
       "language": "Python",
-      "created_at": "2016-03-20T23:49:42Z",
-      "updated_at": "2026-08-10T01:38:20Z"
+      "created_at": "2025-07-22T22:22:28Z",
+      "updated_at": "2026-08-15T13:37:10Z"
     },
     {
-      "name": "freeCodeCamp",
-      "full_name": "freeCodeCamp/freeCodeCamp",
-      "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "stars": 453708,
-      "language": "TypeScript",
-      "created_at": "2014-12-24T17:49:19Z",
-      "updated_at": "2026-08-10T01:39:23Z"
-    },
-    {
-      "name": "free-programming-books",
-      "full_name": "EbookFoundation/free-programming-books",
-      "html_url": "https://github.com/EbookFoundation/free-programming-books",
-      "description": ":books: Freely available programming books",
-      "stars": 394041,
+      "name": "Python",
+      "full_name": "TheAlgorithms/Python",
+      "html_url": "https://github.com/TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "stars": 223744,
       "language": "Python",
-      "created_at": "2013-10-11T06:50:37Z",
-      "updated_at": "2026-08-10T01:34:45Z"
+      "created_at": "2016-07-16T09:44:01Z",
+      "updated_at": "2026-08-15T13:36:18Z"
     },
     {
-      "name": "openclaw",
-      "full_name": "openclaw/openclaw",
-      "html_url": "https://github.com/openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 385708,
-      "language": "TypeScript",
-      "created_at": "2025-11-24T10:16:47Z",
-      "updated_at": "2026-08-10T01:37:50Z"
-    },
-    {
-      "name": "developer-roadmap",
-      "full_name": "nilbuild/developer-roadmap",
-      "html_url": "https://github.com/nilbuild/developer-roadmap",
-      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-      "stars": 364020,
-      "language": "TypeScript",
-      "created_at": "2017-03-15T13:45:52Z",
-      "updated_at": "2026-08-10T01:16:28Z"
-    },
-    {
-      "name": "awesome-python",
-      "full_name": "vinta/awesome-python",
-      "html_url": "https://github.com/vinta/awesome-python",
-      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
-      "stars": 313100,
-      "language": "Python",
-      "created_at": "2014-06-27T21:00:06Z",
-      "updated_at": "2026-08-10T01:26:02Z"
-    },
-    {
-      "name": "awesome-selfhosted",
-      "full_name": "awesome-selfhosted/awesome-selfhosted",
-      "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-      "stars": 311646,
-      "language": "Unknown",
-      "created_at": "2015-06-01T02:33:17Z",
-      "updated_at": "2026-08-10T01:43:42Z"
-    },
-    {
-      "name": "project-based-learning",
-      "full_name": "practical-tutorials/project-based-learning",
-      "html_url": "https://github.com/practical-tutorials/project-based-learning",
-      "description": "Curated list of project-based tutorials",
-      "stars": 277613,
-      "language": "Python",
-      "created_at": "2017-04-12T05:07:46Z",
-      "updated_at": "2026-08-10T01:41:47Z"
-    },
-    {
-      "name": "superpowers",
-      "full_name": "obra/superpowers",
-      "html_url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 269744,
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "html_url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 218077,
       "language": "Shell",
-      "created_at": "2025-10-09T19:45:18Z",
-      "updated_at": "2026-08-10T01:42:03Z"
+      "created_at": "2026-02-03T11:15:53Z",
+      "updated_at": "2026-08-15T13:45:44Z"
+    },
+    {
+      "name": "n8n",
+      "full_name": "n8n-io/n8n",
+      "html_url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "stars": 200702,
+      "language": "TypeScript",
+      "created_at": "2019-06-22T09:24:21Z",
+      "updated_at": "2026-08-15T13:35:11Z"
+    },
+    {
+      "name": "opencode",
+      "full_name": "anomalyco/opencode",
+      "html_url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 197664,
+      "language": "TypeScript",
+      "created_at": "2025-04-30T20:08:00Z",
+      "updated_at": "2026-08-15T13:33:22Z"
+    },
+    {
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "html_url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "stars": 197032,
+      "language": "C++",
+      "created_at": "2015-11-07T01:19:20Z",
+      "updated_at": "2026-08-15T12:51:09Z"
+    },
+    {
+      "name": "javascript-algorithms",
+      "full_name": "trekhleb/javascript-algorithms",
+      "html_url": "https://github.com/trekhleb/javascript-algorithms",
+      "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196461,
+      "language": "JavaScript",
+      "created_at": "2018-03-24T07:47:04Z",
+      "updated_at": "2026-08-15T12:38:41Z"
     }
   ],
   "fast_rising": [
     {
-      "name": "human-writing",
-      "full_name": "KKKKhazix/human-writing",
-      "html_url": "https://github.com/KKKKhazix/human-writing",
-      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "stars": 2104,
+      "name": "deepseek-harness",
+      "full_name": "deepseek-ai/deepseek-harness",
+      "html_url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 109258,
+      "language": "TypeScript",
+      "created_at": "2026-08-13T11:56:32Z",
+      "updated_at": "2026-08-15T13:45:42Z"
+    },
+    {
+      "name": "watermarks-remover",
+      "full_name": "guillaumemeyer/watermarks-remover",
+      "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "stars": 9254,
       "language": "Python",
-      "created_at": "2026-08-05T01:19:41Z",
-      "updated_at": "2026-08-10T01:42:16Z"
+      "created_at": "2026-08-11T16:32:38Z",
+      "updated_at": "2026-08-15T13:45:48Z"
     },
     {
-      "name": "photo-abstract-editorial",
-      "full_name": "ZzzLc0405/photo-abstract-editorial",
-      "html_url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
-      "description": "",
-      "stars": 1965,
-      "language": "Unknown",
-      "created_at": "2026-08-04T09:35:31Z",
-      "updated_at": "2026-08-10T01:44:34Z"
+      "name": "deepseek-harness-desktop",
+      "full_name": "anywhere-labs/deepseek-harness-desktop",
+      "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "stars": 4636,
+      "language": "TypeScript",
+      "created_at": "2026-08-13T16:30:50Z",
+      "updated_at": "2026-08-15T13:45:48Z"
     },
     {
-      "name": "open-kimi-ppt-skill",
-      "full_name": "Binaryify/open-kimi-ppt-skill",
-      "html_url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-      "stars": 1609,
-      "language": "Unknown",
-      "created_at": "2026-08-05T07:30:56Z",
-      "updated_at": "2026-08-10T01:24:50Z"
-    },
-    {
-      "name": "phone-harness",
-      "full_name": "ShawnPana/phone-harness",
-      "html_url": "https://github.com/ShawnPana/phone-harness",
-      "description": "let your agent control your phone",
-      "stars": 880,
+      "name": "awesome-dsh-plugin",
+      "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "stars": 2494,
       "language": "Python",
-      "created_at": "2026-08-07T22:28:53Z",
-      "updated_at": "2026-08-10T01:43:19Z"
+      "created_at": "2026-08-13T13:55:31Z",
+      "updated_at": "2026-08-15T13:44:51Z"
     },
     {
-      "name": "awesome-growth-hacking-skills",
-      "full_name": "mikiarlo3/awesome-growth-hacking-skills",
-      "html_url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
-      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
-      "stars": 796,
-      "language": "Shell",
-      "created_at": "2026-08-04T19:45:15Z",
-      "updated_at": "2026-08-10T01:20:55Z"
+      "name": "dsh-web-ui",
+      "full_name": "zhu1090093659/dsh-web-ui",
+      "html_url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "stars": 2470,
+      "language": "TypeScript",
+      "created_at": "2026-08-12T05:15:20Z",
+      "updated_at": "2026-08-15T13:44:36Z"
     },
     {
-      "name": "claude-red",
-      "full_name": "0xwilliamortiz/claude-red",
-      "html_url": "https://github.com/0xwilliamortiz/claude-red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "stars": 707,
-      "language": "JavaScript",
-      "created_at": "2026-08-05T16:54:36Z",
-      "updated_at": "2026-08-10T01:41:51Z"
-    },
-    {
-      "name": "asm-hall-of-shame",
-      "full_name": "xoreaxeaxeax/asm-hall-of-shame",
-      "html_url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "description": "Racing to the bottom of CPU performance",
-      "stars": 661,
+      "name": "h3.c",
+      "full_name": "antirez/h3.c",
+      "html_url": "https://github.com/antirez/h3.c",
+      "description": "MiniMax H3 inference engine for Mac computers",
+      "stars": 1881,
       "language": "C",
-      "created_at": "2026-08-06T00:08:06Z",
-      "updated_at": "2026-08-10T01:25:24Z"
+      "created_at": "2026-08-09T09:12:47Z",
+      "updated_at": "2026-08-15T13:38:18Z"
     },
     {
-      "name": "JoyAI-Video-Edit",
-      "full_name": "jd-opensource/JoyAI-Video-Edit",
-      "html_url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
-      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "stars": 612,
-      "language": "Python",
-      "created_at": "2026-08-04T08:22:24Z",
-      "updated_at": "2026-08-10T01:43:31Z"
+      "name": "dsh-anchored-standard",
+      "full_name": "xiaobright/dsh-anchored-standard",
+      "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "stars": 1819,
+      "language": "JavaScript",
+      "created_at": "2026-08-14T14:06:39Z",
+      "updated_at": "2026-08-15T13:45:08Z"
     },
     {
-      "name": "oil-motion",
-      "full_name": "oil-oil/oil-motion",
-      "html_url": "https://github.com/oil-oil/oil-motion",
-      "description": "Create smooth, responsive interactive web animations.",
-      "stars": 596,
-      "language": "Python",
-      "created_at": "2026-08-07T12:36:33Z",
-      "updated_at": "2026-08-10T01:43:31Z"
+      "name": "WeChat-AI",
+      "full_name": "SMNETSTUDIO/WeChat-AI",
+      "html_url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "description": "",
+      "stars": 1730,
+      "language": "TypeScript",
+      "created_at": "2026-08-10T09:06:43Z",
+      "updated_at": "2026-08-15T13:30:29Z"
     },
     {
-      "name": "kage",
-      "full_name": "MengTo/kage",
-      "html_url": "https://github.com/MengTo/kage",
-      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
-      "stars": 595,
-      "language": "HTML",
-      "created_at": "2026-08-08T07:05:07Z",
-      "updated_at": "2026-08-10T01:35:37Z"
+      "name": "skitter-creek-bath-salts",
+      "full_name": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "html_url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "stars": 1640,
+      "language": "C",
+      "created_at": "2026-08-13T13:50:42Z",
+      "updated_at": "2026-08-15T13:24:11Z"
+    },
+    {
+      "name": "paper",
+      "full_name": "cordiverse/paper",
+      "html_url": "https://github.com/cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "stars": 1517,
+      "language": "Unknown",
+      "created_at": "2026-08-13T09:53:33Z",
+      "updated_at": "2026-08-15T13:44:34Z"
     }
   ]
 }
