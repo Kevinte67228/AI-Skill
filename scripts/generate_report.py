@@ -226,7 +226,10 @@ def format_date(iso_str):
 
 def generate_index(report: dict):
     """從登記簿（累積了歷來所有收錄過的仓库）產生一份 INDEX.md，
-    放在倉庫根目錄，依分類分組列出所有項目的快速連結，方便直接點進去。"""
+    放在倉庫根目錄，依分類分組列出所有項目的快速連結，方便直接點進去。
+
+    分類/專案名一律優先從 local_path 反推（而不是依賴額外欄位），
+    因為 local_path 是每筆記錄一定會有的資訊，不會因為欄位改版而缺漏。"""
     registry_file = "previous_repos.json"
     with open(registry_file, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -234,8 +237,11 @@ def generate_index(report: dict):
 
     by_category = {}
     for full_name, info in registry.items():
-        category = info.get("category") or "未分類"
-        by_category.setdefault(category, []).append((info.get("name", full_name), info, full_name))
+        local_path = info.get("local_path") or ""
+        parts = local_path.split("/")
+        category = parts[0] if len(parts) >= 3 else (info.get("category") or "未分類")
+        name = parts[1] if len(parts) >= 3 else (info.get("name") or full_name)
+        by_category.setdefault(category, []).append((name, info, full_name, local_path))
 
     lines = ["# 📋 專案快速索引\n", f"共收錄 {len(registry)} 個專案，最後更新於 {report['date']}\n"]
     ordered_categories = [c for c in CATEGORIES if c in by_category] + \
@@ -246,12 +252,12 @@ def generate_index(report: dict):
         lines.append(f"\n## {category}（{len(items)}）\n")
         lines.append("| 專案 | 版本 | 作者最後更新 | 快速連結 |")
         lines.append("|---|---|---|---|")
-        for name, info, full_name in items:
-            local_path = info.get("local_path", "")
-            folder = os.path.dirname(local_path)
+        for name, info, full_name, local_path in items:
+            folder = os.path.dirname(local_path) if local_path else f"{category}/{name}"
+            folder_url = folder.replace(" ", "%20")  # Markdown連結路徑含空白需編碼，否則GitHub不會解析成超連結
             version_tag = info.get("version_tag") or "-"
             author_updated = info.get("author_updated") or "-"
-            lines.append(f"| {name} | {version_tag} | {author_updated} | [{folder}]({folder}) |")
+            lines.append(f"| {name} | {version_tag} | {author_updated} | [{folder}]({folder_url}) |")
 
     with open("INDEX.md", "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
