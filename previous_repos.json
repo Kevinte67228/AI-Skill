@@ -92,13 +92,13 @@
       "original_url": "https://github.com/cordiverse/paper"
     },
     "guillaumemeyer/watermarks-remover": {
-      "pushed_at": "2026-08-14T23:49:30Z",
+      "pushed_at": "2026-08-15T22:19:26Z",
       "local_path": "AI Skill/watermarks-remover/README.md",
-      "category": "AI Skill",
       "name": "watermarks-remover",
+      "category": "AI Skill",
+      "original_url": "https://github.com/guillaumemeyer/watermarks-remover",
       "version_tag": "v0.5.0",
-      "author_updated": "2026-08-14",
-      "original_url": "https://github.com/guillaumemeyer/watermarks-remover"
+      "author_updated": "2026-08-14"
     },
     "antirez/h3.c": {
       "pushed_at": "2026-08-11T13:53:32Z",
@@ -110,7 +110,7 @@
       "original_url": "https://github.com/antirez/h3.c"
     },
     "openclaw/openclaw": {
-      "pushed_at": "2026-08-15T14:15:36Z",
+      "pushed_at": "2026-08-15T22:12:43Z",
       "local_path": "AI Agent/openclaw/README.md",
       "name": "openclaw",
       "category": "AI Agent",
@@ -137,40 +137,40 @@
       "original_url": "https://github.com/deepseek-ai/deepseek-harness"
     },
     "anywhere-labs/deepseek-harness-desktop": {
-      "pushed_at": "2026-08-15T12:41:15Z",
+      "pushed_at": "2026-08-15T16:41:18Z",
       "local_path": "AI Agent/deepseek-harness-desktop/README.md",
-      "category": "AI Agent",
       "name": "deepseek-harness-desktop",
-      "version_tag": "v0.1.0",
-      "author_updated": "2026-08-13",
-      "original_url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
+      "category": "AI Agent",
+      "original_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "version_tag": "v2.0.0",
+      "author_updated": "2026-08-15"
     },
     "awesome-dsh-plugin/awesome-dsh-plugin": {
-      "pushed_at": "2026-08-15T10:32:44Z",
+      "pushed_at": "2026-08-15T17:04:25Z",
       "local_path": "AI Agent/awesome-dsh-plugin/README.md",
-      "category": "AI Agent",
       "name": "awesome-dsh-plugin",
+      "category": "AI Agent",
+      "original_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "version_tag": null,
-      "author_updated": "2026-08-15",
-      "original_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
+      "author_updated": "2026-08-15"
     },
     "zhu1090093659/dsh-web-ui": {
-      "pushed_at": "2026-08-15T11:50:04Z",
+      "pushed_at": "2026-08-15T15:36:41Z",
       "local_path": "AI Agent/dsh-web-ui/README.md",
-      "category": "AI Agent",
       "name": "dsh-web-ui",
-      "version_tag": "v0.1.15",
-      "author_updated": "2026-08-15",
-      "original_url": "https://github.com/zhu1090093659/dsh-web-ui"
+      "category": "AI Agent",
+      "original_url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "version_tag": "v0.1.16",
+      "author_updated": "2026-08-15"
     },
     "xiaobright/dsh-anchored-standard": {
-      "pushed_at": "2026-08-15T11:42:35Z",
+      "pushed_at": "2026-08-15T14:47:52Z",
       "local_path": "AI Agent/dsh-anchored-standard/README.md",
-      "category": "AI Agent",
       "name": "dsh-anchored-standard",
+      "category": "AI Agent",
+      "original_url": "https://github.com/xiaobright/dsh-anchored-standard",
       "version_tag": null,
-      "author_updated": "2026-08-15",
-      "original_url": "https://github.com/xiaobright/dsh-anchored-standard"
+      "author_updated": "2026-08-15"
     },
     "SMNETSTUDIO/WeChat-AI": {
       "pushed_at": "2026-08-13T08:30:29Z",
@@ -209,7 +209,7 @@
       "author_updated": "2026-08-14"
     },
     "torvalds/linux": {
-      "pushed_at": "2026-08-15T04:58:55Z",
+      "pushed_at": "2026-08-15T16:00:10Z",
       "local_path": "寫程式/linux/README.md",
       "name": "linux",
       "category": "寫程式",
@@ -227,10 +227,10 @@
       "author_updated": "2026-08-03"
     },
     "tensorflow/tensorflow": {
-      "pushed_at": "2026-08-15T13:21:09Z",
-      "local_path": "寫程式/tensorflow/README.md",
+      "pushed_at": "2026-08-15T21:30:21Z",
+      "local_path": "AI Skill/tensorflow/README.md",
       "name": "tensorflow",
-      "category": "寫程式",
+      "category": "AI Skill",
       "original_url": "https://github.com/tensorflow/tensorflow",
       "version_tag": "v2.21.0",
       "author_updated": "2026-03-06"
@@ -245,10 +245,10 @@
       "author_updated": "2026-07-26"
     },
     "ccch1mneyyy/dsh-TUI": {
-      "pushed_at": "2026-08-15T14:18:16Z",
-      "local_path": "寫程式/dsh-TUI/README.md",
+      "pushed_at": "2026-08-15T22:04:32Z",
+      "local_path": "AI Agent/dsh-TUI/README.md",
       "name": "dsh-TUI",
-      "category": "寫程式",
+      "category": "AI Agent",
       "original_url": "https://github.com/ccch1mneyyy/dsh-TUI",
       "version_tag": "v0.6.1",
       "author_updated": "2026-08-15"
@@ -272,21 +272,21 @@
       "author_updated": "2026-08-15"
     },
     "mattpocock/skills": {
-      "pushed_at": "2026-08-13T09:06:37Z",
-      "local_path": "AI Skill/skills/README.md",
+      "pushed_at": "2026-08-15T21:24:36Z",
+      "local_path": "寫程式/skills/README.md",
       "name": "skills",
-      "category": "AI Skill",
+      "category": "寫程式",
       "original_url": "https://github.com/mattpocock/skills",
       "version_tag": "v1.2.3",
       "author_updated": "2026-08-06"
     },
     "yjh051108/dsh-routing-suite": {
-      "pushed_at": "2026-08-15T13:21:46Z",
-      "local_path": "AI Skill/dsh-routing-suite/README.md",
+      "pushed_at": "2026-08-15T20:29:05Z",
+      "local_path": "AI Agent/dsh-routing-suite/README.md",
       "name": "dsh-routing-suite",
-      "category": "AI Skill",
+      "category": "AI Agent",
       "original_url": "https://github.com/yjh051108/dsh-routing-suite",
-      "version_tag": null,
+      "version_tag": "v0.1.0",
       "author_updated": "2026-08-15"
     },
     "gvzdv/claudish-to-english": {
@@ -308,7 +308,7 @@
       "author_updated": "2026-08-14"
     },
     "affaan-m/ECC": {
-      "pushed_at": "2026-08-15T06:21:55Z",
+      "pushed_at": "2026-08-15T20:02:53Z",
       "local_path": "AI Agent/ECC/README.md",
       "name": "ECC",
       "category": "AI Agent",
@@ -317,7 +317,7 @@
       "author_updated": "2026-07-27"
     },
     "NousResearch/hermes-agent": {
-      "pushed_at": "2026-08-15T11:39:11Z",
+      "pushed_at": "2026-08-15T22:15:28Z",
       "local_path": "AI Agent/hermes-agent/README.md",
       "name": "hermes-agent",
       "category": "AI Agent",
@@ -326,7 +326,7 @@
       "author_updated": "2026-08-13"
     },
     "anomalyco/opencode": {
-      "pushed_at": "2026-08-15T12:57:05Z",
+      "pushed_at": "2026-08-15T22:19:46Z",
       "local_path": "AI Agent/opencode/README.md",
       "name": "opencode",
       "category": "AI Agent",
@@ -351,6 +351,60 @@
       "original_url": "https://github.com/milind-soni/OpenMausBot",
       "version_tag": null,
       "author_updated": "2026-08-14"
+    },
+    "DigitalPlatDev/FreeDomain": {
+      "pushed_at": "2026-08-12T10:36:46Z",
+      "local_path": "辦公室應用/FreeDomain/README.md",
+      "name": "FreeDomain",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "version_tag": null,
+      "author_updated": "2026-08-12"
+    },
+    "ohmyzsh/ohmyzsh": {
+      "pushed_at": "2026-08-11T11:03:43Z",
+      "local_path": "寫程式/ohmyzsh/README.md",
+      "name": "ohmyzsh",
+      "category": "寫程式",
+      "original_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "version_tag": null,
+      "author_updated": "2026-08-11"
+    },
+    "vercel-labs/eve-software-factory-template": {
+      "pushed_at": "2026-08-14T08:03:33Z",
+      "local_path": "寫程式/eve-software-factory-template/README.md",
+      "name": "eve-software-factory-template",
+      "category": "寫程式",
+      "original_url": "https://github.com/vercel-labs/eve-software-factory-template",
+      "version_tag": null,
+      "author_updated": "2026-08-14"
+    },
+    "shadcn-ui/chatbot-template": {
+      "pushed_at": "2026-08-11T17:46:50Z",
+      "local_path": "AI Skill/chatbot-template/README.md",
+      "name": "chatbot-template",
+      "category": "AI Skill",
+      "original_url": "https://github.com/shadcn-ui/chatbot-template",
+      "version_tag": null,
+      "author_updated": "2026-08-11"
+    },
+    "ultraworkers/claw-code": {
+      "pushed_at": "2026-08-06T11:18:35Z",
+      "local_path": "AI Agent/claw-code/README.md",
+      "name": "claw-code",
+      "category": "AI Agent",
+      "original_url": "https://github.com/ultraworkers/claw-code",
+      "version_tag": null,
+      "author_updated": "2026-08-06"
+    },
+    "alchaincyf/deepseek-harness-orange-book": {
+      "pushed_at": "2026-08-15T11:01:41Z",
+      "local_path": "AI Agent/deepseek-harness-orange-book/README.md",
+      "name": "deepseek-harness-orange-book",
+      "category": "AI Agent",
+      "original_url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "version_tag": null,
+      "author_updated": "2026-08-15"
     }
   }
 }

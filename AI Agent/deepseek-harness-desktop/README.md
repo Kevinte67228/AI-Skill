@@ -4,7 +4,11 @@
 
 **類型**: Fast-Rising
 
-**語言**: TypeScript | **Star**: 4,659
+**語言**: TypeScript | **Star**: 5,759
+
+**版本號**: v2.0.0
+
+**作者最後更新日期**: 2026-08-15
 
 **原始連結**: https://github.com/anywhere-labs/deepseek-harness-desktop
 
@@ -12,4 +16,4 @@
 
 ## 摘要
 
-這是為 DeepSeek Harness (DSH) 生態系統量身打造的現代化桌面端應用程式。它旨在提供更流暢、直觀的使用者體驗，讓用戶能更便捷地管理和操作 DeepSeek Harness 的各項功能。
+這是為DeepSeek Harness (DSH)生態系統打造的現代化桌面應用程式，旨在提供更流暢、更整合的用戶體驗。它使得用戶能夠更便利地管理和操作DSH代理，對於提升AI代理的可用性和普及性具有重要意義。

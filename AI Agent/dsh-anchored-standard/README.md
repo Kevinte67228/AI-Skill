@@ -4,7 +4,11 @@
 
 **類型**: Fast-Rising
 
-**語言**: JavaScript | **Star**: 1,828
+**語言**: JavaScript | **Star**: 2,157
+
+**版本號**: （作者未提供版本標籤）
+
+**作者最後更新日期**: 2026-08-15
 
 **原始連結**: https://github.com/xiaobright/dsh-anchored-standard
 
@@ -12,4 +16,4 @@
 
 ## 摘要
 
-dsh-anchored-standard 是一個為 DeepSeek Harness 設計的雙階段預設配置。它提供一個最小化對齊的啟動階段，隨後載入完整標準工具，有助於簡化 DeepSeek Harness 的部署與客製化流程。
+這是為DeepSeek Harness (DSH)設計的兩階段預設配置，先進行最小化對齊啟動，再導入完整的標準工具集。它為DSH用戶提供了一個優化的起步點和標準工具環境，旨在簡化DSH代理的部署和使用流程。

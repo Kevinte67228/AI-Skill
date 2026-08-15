@@ -4,7 +4,11 @@
 
 **類型**: Fast-Rising
 
-**語言**: TypeScript | **Star**: 2,481
+**語言**: TypeScript | **Star**: 2,691
+
+**版本號**: v0.1.16
+
+**作者最後更新日期**: 2026-08-15
 
 **原始連結**: https://github.com/zhu1090093659/dsh-web-ui
 
@@ -12,4 +16,4 @@
 
 ## 摘要
 
-這個專案為 DeepSeek Harness (DSH) Web UI 提供了豐富的插件和主題，涵蓋任務板、Git 圖形、遠端行動介面等。它旨在提升使用者介面的功能性和客製化程度，讓 DeepSeek Harness 的體驗更加個人化。
+這個專案為DeepSeek Harness (DSH)的網頁介面提供了豐富的外掛和皮膚，包含任務看板、Git圖形、遠端行動介面等多項功能。它旨在提升DSH用戶的操作體驗和客製化程度，讓AI代理的管理更加直觀和高效。

@@ -4,7 +4,11 @@
 
 **類型**: Fast-Rising
 
-**語言**: Python | **Star**: 2,507
+**語言**: Python | **Star**: 2,968
+
+**版本號**: （作者未提供版本標籤）
+
+**作者最後更新日期**: 2026-08-15
 
 **原始連結**: https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
 
@@ -12,4 +16,4 @@
 
 ## 摘要
 
-這是 DeepSeek Harness (DSH) 插件的精選列表，收集了多樣化的功能擴充。對於 DeepSeek Harness 的使用者而言，這個清單是尋找並整合新功能、提升 AI 助手能力的寶貴資源。
+這是一個精心策劃的DeepSeek Harness (DSH)外掛精選列表，為DSH用戶提供豐富的功能擴展選擇。它有助於用戶發掘和利用DSH生態系統的潛力，豐富AI代理的應用場景和客製化能力。
