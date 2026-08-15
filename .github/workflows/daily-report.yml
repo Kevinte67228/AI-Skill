@@ -1,9 +1,9 @@
-name: Weekly GitHub Skill Report
+name: Weekly GitHub Skill Report - Generate
 
 on:
   schedule:
-    # 每週一 UTC 00:00 執行 = 台北時間週一早上 08:00
-    - cron: "0 0 * * 1"
+    # 每週六 UTC 22:00 執行 = 台北時間週日早上 06:00（先產生報告，留2小時緩衝給寄信排程）
+    - cron: "0 22 * * 6"
   workflow_dispatch: {}   # 允許手動點擊執行，方便測試
 
 permissions:
@@ -34,13 +34,6 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python scripts/generate_report.py
-
-      - name: 寄送 Email
-        env:
-          EMAIL_USER: ${{ secrets.EMAIL_USER }}
-          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
-          EMAIL_TO: ${{ secrets.EMAIL_TO }}
-        run: python scripts/send_email.py
 
       - name: 提交更新的檔案回倉庫
         run: |
