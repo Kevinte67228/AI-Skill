@@ -3,51 +3,111 @@
   "repos": {
     "nilbuild/developer-roadmap": {
       "pushed_at": "2026-08-14T17:26:59Z",
-      "local_path": "辦公室應用/developer-roadmap/README.md"
+      "local_path": "辦公室應用/developer-roadmap/README.md",
+      "category": "辦公室應用",
+      "name": "developer-roadmap",
+      "version_tag": "4.0",
+      "author_updated": "2023-01-05",
+      "original_url": "https://github.com/nilbuild/developer-roadmap"
     },
     "public-apis/public-apis": {
       "pushed_at": "2026-08-13T21:07:34Z",
-      "local_path": "寫程式/public-apis/README.md"
+      "local_path": "寫程式/public-apis/README.md",
+      "category": "寫程式",
+      "name": "public-apis",
+      "version_tag": null,
+      "author_updated": "2026-08-13",
+      "original_url": "https://github.com/public-apis/public-apis"
     },
     "freeCodeCamp/freeCodeCamp": {
       "pushed_at": "2026-08-15T13:39:32Z",
-      "local_path": "寫程式/freeCodeCamp/README.md"
+      "local_path": "寫程式/freeCodeCamp/README.md",
+      "category": "寫程式",
+      "name": "freeCodeCamp",
+      "version_tag": null,
+      "author_updated": "2026-08-15",
+      "original_url": "https://github.com/freeCodeCamp/freeCodeCamp"
     },
     "EbookFoundation/free-programming-books": {
       "pushed_at": "2026-08-11T12:11:06Z",
-      "local_path": "寫程式/free-programming-books/README.md"
+      "local_path": "寫程式/free-programming-books/README.md",
+      "category": "寫程式",
+      "name": "free-programming-books",
+      "version_tag": null,
+      "author_updated": "2026-08-11",
+      "original_url": "https://github.com/EbookFoundation/free-programming-books"
     },
     "vinta/awesome-python": {
       "pushed_at": "2026-08-05T06:11:04Z",
-      "local_path": "寫程式/awesome-python/README.md"
+      "local_path": "寫程式/awesome-python/README.md",
+      "category": "寫程式",
+      "name": "awesome-python",
+      "version_tag": null,
+      "author_updated": "2026-08-05",
+      "original_url": "https://github.com/vinta/awesome-python"
     },
     "awesome-selfhosted/awesome-selfhosted": {
       "pushed_at": "2026-08-12T18:50:03Z",
-      "local_path": "寫程式/awesome-selfhosted/README.md"
+      "local_path": "寫程式/awesome-selfhosted/README.md",
+      "category": "寫程式",
+      "name": "awesome-selfhosted",
+      "version_tag": "1.0.0",
+      "author_updated": "2023-08-22",
+      "original_url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
     },
     "practical-tutorials/project-based-learning": {
       "pushed_at": "2026-08-10T07:04:22Z",
-      "local_path": "寫程式/project-based-learning/README.md"
+      "local_path": "寫程式/project-based-learning/README.md",
+      "category": "寫程式",
+      "name": "project-based-learning",
+      "version_tag": null,
+      "author_updated": "2026-08-10",
+      "original_url": "https://github.com/practical-tutorials/project-based-learning"
     },
     "react/react": {
       "pushed_at": "2026-08-14T17:33:13Z",
-      "local_path": "寫程式/react/README.md"
+      "local_path": "寫程式/react/README.md",
+      "category": "寫程式",
+      "name": "react",
+      "version_tag": "v19.2.8",
+      "author_updated": "2026-07-21",
+      "original_url": "https://github.com/react/react"
     },
     "xoreaxeaxeax/skitter-creek-bath-salts": {
       "pushed_at": "2026-08-13T16:59:41Z",
-      "local_path": "寫程式/skitter-creek-bath-salts/README.md"
+      "local_path": "寫程式/skitter-creek-bath-salts/README.md",
+      "category": "寫程式",
+      "name": "skitter-creek-bath-salts",
+      "version_tag": null,
+      "author_updated": "2026-08-13",
+      "original_url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
     },
     "cordiverse/paper": {
       "pushed_at": "2026-08-13T12:54:03Z",
-      "local_path": "寫程式/paper/README.md"
+      "local_path": "寫程式/paper/README.md",
+      "category": "寫程式",
+      "name": "paper",
+      "version_tag": "v8",
+      "author_updated": "2026-08-13",
+      "original_url": "https://github.com/cordiverse/paper"
     },
     "guillaumemeyer/watermarks-remover": {
       "pushed_at": "2026-08-14T23:49:30Z",
-      "local_path": "AI Skill/watermarks-remover/README.md"
+      "local_path": "AI Skill/watermarks-remover/README.md",
+      "category": "AI Skill",
+      "name": "watermarks-remover",
+      "version_tag": "v0.5.0",
+      "author_updated": "2026-08-14",
+      "original_url": "https://github.com/guillaumemeyer/watermarks-remover"
     },
     "antirez/h3.c": {
       "pushed_at": "2026-08-11T13:53:32Z",
-      "local_path": "AI Skill/h3.c/README.md"
+      "local_path": "AI Skill/h3.c/README.md",
+      "category": "AI Skill",
+      "name": "h3.c",
+      "version_tag": null,
+      "author_updated": "2026-08-11",
+      "original_url": "https://github.com/antirez/h3.c"
     },
     "openclaw/openclaw": {
       "pushed_at": "2026-08-15T14:15:36Z",
@@ -60,31 +120,66 @@
     },
     "obra/superpowers": {
       "pushed_at": "2026-08-13T00:36:31Z",
-      "local_path": "AI Agent/superpowers/README.md"
+      "local_path": "AI Agent/superpowers/README.md",
+      "category": "AI Agent",
+      "name": "superpowers",
+      "version_tag": "v6.3.0",
+      "author_updated": "2026-08-12",
+      "original_url": "https://github.com/obra/superpowers"
     },
     "deepseek-ai/deepseek-harness": {
       "pushed_at": "2026-08-13T13:00:21Z",
-      "local_path": "AI Agent/deepseek-harness/README.md"
+      "local_path": "AI Agent/deepseek-harness/README.md",
+      "category": "AI Agent",
+      "name": "deepseek-harness",
+      "version_tag": null,
+      "author_updated": "2026-08-13",
+      "original_url": "https://github.com/deepseek-ai/deepseek-harness"
     },
     "anywhere-labs/deepseek-harness-desktop": {
       "pushed_at": "2026-08-15T12:41:15Z",
-      "local_path": "AI Agent/deepseek-harness-desktop/README.md"
+      "local_path": "AI Agent/deepseek-harness-desktop/README.md",
+      "category": "AI Agent",
+      "name": "deepseek-harness-desktop",
+      "version_tag": "v0.1.0",
+      "author_updated": "2026-08-13",
+      "original_url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
     },
     "awesome-dsh-plugin/awesome-dsh-plugin": {
       "pushed_at": "2026-08-15T10:32:44Z",
-      "local_path": "AI Agent/awesome-dsh-plugin/README.md"
+      "local_path": "AI Agent/awesome-dsh-plugin/README.md",
+      "category": "AI Agent",
+      "name": "awesome-dsh-plugin",
+      "version_tag": null,
+      "author_updated": "2026-08-15",
+      "original_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
     },
     "zhu1090093659/dsh-web-ui": {
       "pushed_at": "2026-08-15T11:50:04Z",
-      "local_path": "AI Agent/dsh-web-ui/README.md"
+      "local_path": "AI Agent/dsh-web-ui/README.md",
+      "category": "AI Agent",
+      "name": "dsh-web-ui",
+      "version_tag": "v0.1.15",
+      "author_updated": "2026-08-15",
+      "original_url": "https://github.com/zhu1090093659/dsh-web-ui"
     },
     "xiaobright/dsh-anchored-standard": {
       "pushed_at": "2026-08-15T11:42:35Z",
-      "local_path": "AI Agent/dsh-anchored-standard/README.md"
+      "local_path": "AI Agent/dsh-anchored-standard/README.md",
+      "category": "AI Agent",
+      "name": "dsh-anchored-standard",
+      "version_tag": null,
+      "author_updated": "2026-08-15",
+      "original_url": "https://github.com/xiaobright/dsh-anchored-standard"
     },
     "SMNETSTUDIO/WeChat-AI": {
       "pushed_at": "2026-08-13T08:30:29Z",
-      "local_path": "AI Agent/WeChat-AI/README.md"
+      "local_path": "AI Agent/WeChat-AI/README.md",
+      "category": "AI Agent",
+      "name": "WeChat-AI",
+      "version_tag": "v0.12.0",
+      "author_updated": "2026-08-13",
+      "original_url": "https://github.com/SMNETSTUDIO/WeChat-AI"
     },
     "n8n-io/n8n": {
       "pushed_at": "2026-08-15T06:08:13Z",
