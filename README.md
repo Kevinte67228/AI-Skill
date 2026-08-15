@@ -16,9 +16,17 @@
 每次執行前會先讀取這份清單，抓取時自動跳過已經在清單裡的仓库，
 執行完後會用「這一週」的清單覆蓋掉它，供下一週比對使用。
 
+## 分類結構
+所有項目統一歸入以下四大分類（由 Gemini 判斷，固定不可自創其他分類）：
+- **辦公室應用**：CRM、寫作/簡報生成、數據分析儀表板、職涯資源等非技術性商業工具
+- **寫程式**：程式語言、框架、開發工具、DevOps、資安、程式教育資源
+- **AI Skill**：獨立的 AI 能力/工具（推理引擎、語音/影像 AI 工具、模型本身）
+- **AI Agent**：具自主性、多步驟決策能力的 AI 代理框架
+
 ## 資料夾結構
 ```
-{category}/{repo_name}/README.md   -> 每個項目的分類與摘要（分類由 Gemini 自動判斷，如 ai-agents, devops...）
+{分類}/{repo_name}/README.md       -> 每個項目的分類與摘要
+寫程式/skills/{skill_name}/        -> 可重複使用的 Claude Skill 包（非週報自動產生，手動收錄）
 reports/{date}.html                -> 每週產出的 HTML 報告存檔
 previous_repos.json                -> 去重用，記錄上一週選出的仓库清單
 raw_data.json                      -> 當週抓取到的原始 GitHub 資料
