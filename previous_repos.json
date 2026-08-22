@@ -1,68 +1,68 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-22",
   "repos": {
     "nilbuild/developer-roadmap": {
-      "pushed_at": "2026-08-14T17:26:59Z",
-      "local_path": "辦公室應用/developer-roadmap/README.md",
-      "category": "辦公室應用",
+      "pushed_at": "2026-08-21T14:35:38Z",
+      "local_path": "寫程式/developer-roadmap/README.md",
       "name": "developer-roadmap",
+      "category": "寫程式",
+      "original_url": "https://github.com/nilbuild/developer-roadmap",
       "version_tag": "4.0",
-      "author_updated": "2023-01-05",
-      "original_url": "https://github.com/nilbuild/developer-roadmap"
+      "author_updated": "2023-01-05"
     },
     "public-apis/public-apis": {
-      "pushed_at": "2026-08-13T21:07:34Z",
+      "pushed_at": "2026-08-19T21:44:19Z",
       "local_path": "寫程式/public-apis/README.md",
-      "category": "寫程式",
       "name": "public-apis",
+      "category": "寫程式",
+      "original_url": "https://github.com/public-apis/public-apis",
       "version_tag": null,
-      "author_updated": "2026-08-13",
-      "original_url": "https://github.com/public-apis/public-apis"
+      "author_updated": "2026-08-19"
     },
     "freeCodeCamp/freeCodeCamp": {
-      "pushed_at": "2026-08-15T13:39:32Z",
+      "pushed_at": "2026-08-22T08:58:17Z",
       "local_path": "寫程式/freeCodeCamp/README.md",
-      "category": "寫程式",
       "name": "freeCodeCamp",
+      "category": "寫程式",
+      "original_url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "version_tag": null,
-      "author_updated": "2026-08-15",
-      "original_url": "https://github.com/freeCodeCamp/freeCodeCamp"
+      "author_updated": "2026-08-22"
     },
     "EbookFoundation/free-programming-books": {
-      "pushed_at": "2026-08-11T12:11:06Z",
+      "pushed_at": "2026-08-18T14:16:15Z",
       "local_path": "寫程式/free-programming-books/README.md",
-      "category": "寫程式",
       "name": "free-programming-books",
+      "category": "寫程式",
+      "original_url": "https://github.com/EbookFoundation/free-programming-books",
       "version_tag": null,
-      "author_updated": "2026-08-11",
-      "original_url": "https://github.com/EbookFoundation/free-programming-books"
+      "author_updated": "2026-08-18"
     },
     "vinta/awesome-python": {
-      "pushed_at": "2026-08-05T06:11:04Z",
+      "pushed_at": "2026-08-22T18:07:56Z",
       "local_path": "寫程式/awesome-python/README.md",
-      "category": "寫程式",
       "name": "awesome-python",
+      "category": "寫程式",
+      "original_url": "https://github.com/vinta/awesome-python",
       "version_tag": null,
-      "author_updated": "2026-08-05",
-      "original_url": "https://github.com/vinta/awesome-python"
+      "author_updated": "2026-08-22"
     },
     "awesome-selfhosted/awesome-selfhosted": {
-      "pushed_at": "2026-08-12T18:50:03Z",
+      "pushed_at": "2026-08-22T18:55:56Z",
       "local_path": "寫程式/awesome-selfhosted/README.md",
-      "category": "寫程式",
       "name": "awesome-selfhosted",
+      "category": "寫程式",
+      "original_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "version_tag": "1.0.0",
-      "author_updated": "2023-08-22",
-      "original_url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+      "author_updated": "2023-08-22"
     },
     "practical-tutorials/project-based-learning": {
-      "pushed_at": "2026-08-10T07:04:22Z",
+      "pushed_at": "2026-08-17T06:46:47Z",
       "local_path": "寫程式/project-based-learning/README.md",
-      "category": "寫程式",
       "name": "project-based-learning",
+      "category": "寫程式",
+      "original_url": "https://github.com/practical-tutorials/project-based-learning",
       "version_tag": null,
-      "author_updated": "2026-08-10",
-      "original_url": "https://github.com/practical-tutorials/project-based-learning"
+      "author_updated": "2026-08-17"
     },
     "react/react": {
       "pushed_at": "2026-08-14T17:33:13Z",
@@ -110,7 +110,7 @@
       "original_url": "https://github.com/antirez/h3.c"
     },
     "openclaw/openclaw": {
-      "pushed_at": "2026-08-15T22:12:43Z",
+      "pushed_at": "2026-08-22T22:22:04Z",
       "local_path": "AI Agent/openclaw/README.md",
       "name": "openclaw",
       "category": "AI Agent",
@@ -119,13 +119,13 @@
       "author_updated": "2026-08-04"
     },
     "obra/superpowers": {
-      "pushed_at": "2026-08-13T00:36:31Z",
+      "pushed_at": "2026-08-19T17:33:23Z",
       "local_path": "AI Agent/superpowers/README.md",
-      "category": "AI Agent",
       "name": "superpowers",
+      "category": "AI Agent",
+      "original_url": "https://github.com/obra/superpowers",
       "version_tag": "v6.3.0",
-      "author_updated": "2026-08-12",
-      "original_url": "https://github.com/obra/superpowers"
+      "author_updated": "2026-08-12"
     },
     "deepseek-ai/deepseek-harness": {
       "pushed_at": "2026-08-13T13:00:21Z",
@@ -405,6 +405,105 @@
       "original_url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
       "version_tag": null,
       "author_updated": "2026-08-15"
+    },
+    "sindresorhus/awesome": {
+      "pushed_at": "2026-08-21T12:39:13Z",
+      "local_path": "辦公室應用/awesome/README.md",
+      "name": "awesome",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/sindresorhus/awesome",
+      "version_tag": null,
+      "author_updated": "2026-08-21"
+    },
+    "cinderline/northcinder": {
+      "pushed_at": "2026-08-22T12:11:30Z",
+      "local_path": "辦公室應用/northcinder/README.md",
+      "name": "northcinder",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/cinderline/northcinder",
+      "version_tag": "v0.2.1",
+      "author_updated": "2026-08-22"
+    },
+    "MengTo/threeui": {
+      "pushed_at": "2026-08-22T18:55:55Z",
+      "local_path": "寫程式/threeui/README.md",
+      "name": "threeui",
+      "category": "寫程式",
+      "original_url": "https://github.com/MengTo/threeui",
+      "version_tag": null,
+      "author_updated": "2026-08-22"
+    },
+    "vvxw/deploy-vercel": {
+      "pushed_at": "2026-08-18T13:33:29Z",
+      "local_path": "寫程式/deploy-vercel/README.md",
+      "name": "deploy-vercel",
+      "category": "寫程式",
+      "original_url": "https://github.com/vvxw/deploy-vercel",
+      "version_tag": null,
+      "author_updated": "2026-08-18"
+    },
+    "Leutenegger/vanity-eth": {
+      "pushed_at": "2026-08-21T00:43:13Z",
+      "local_path": "寫程式/vanity-eth/README.md",
+      "name": "vanity-eth",
+      "category": "寫程式",
+      "original_url": "https://github.com/Leutenegger/vanity-eth",
+      "version_tag": null,
+      "author_updated": "2026-08-21"
+    },
+    "s1dashu/ip-as-logo-skill": {
+      "pushed_at": "2026-08-22T16:48:59Z",
+      "local_path": "AI Skill/ip-as-logo-skill/README.md",
+      "name": "ip-as-logo-skill",
+      "category": "AI Skill",
+      "original_url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "version_tag": null,
+      "author_updated": "2026-08-22"
+    },
+    "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report": {
+      "pushed_at": "2026-08-18T15:50:43Z",
+      "local_path": "AI Skill/DeepSeek-V4-J-Space-Capability-Realization-Report/README.md",
+      "name": "DeepSeek-V4-J-Space-Capability-Realization-Report",
+      "category": "AI Skill",
+      "original_url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+      "version_tag": "v1.0",
+      "author_updated": "2026-08-18"
+    },
+    "Leutenegger/watermarks-remover": {
+      "pushed_at": "2026-08-19T15:23:40Z",
+      "local_path": "AI Skill/watermarks-remover/README.md",
+      "name": "watermarks-remover",
+      "category": "AI Skill",
+      "original_url": "https://github.com/Leutenegger/watermarks-remover",
+      "version_tag": null,
+      "author_updated": "2026-08-19"
+    },
+    "yetone/cumora": {
+      "pushed_at": "2026-08-22T19:23:08Z",
+      "local_path": "AI Agent/cumora/README.md",
+      "name": "cumora",
+      "category": "AI Agent",
+      "original_url": "https://github.com/yetone/cumora",
+      "version_tag": "v0.2.0",
+      "author_updated": "2026-08-22"
+    },
+    "CopilotKit/OpenBot": {
+      "pushed_at": "2026-08-22T21:48:01Z",
+      "local_path": "AI Agent/OpenBot/README.md",
+      "name": "OpenBot",
+      "category": "AI Agent",
+      "original_url": "https://github.com/CopilotKit/OpenBot",
+      "version_tag": "v0.0.4",
+      "author_updated": "2026-08-22"
+    },
+    "wang2122/sprix-sage-router": {
+      "pushed_at": "2026-08-21T08:45:27Z",
+      "local_path": "AI Agent/sprix-sage-router/README.md",
+      "name": "sprix-sage-router",
+      "category": "AI Agent",
+      "original_url": "https://github.com/wang2122/sprix-sage-router",
+      "version_tag": "v0.1.0",
+      "author_updated": "2026-08-21"
     }
   }
 }
