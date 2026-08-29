@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-29",
   "repos": {
     "nilbuild/developer-roadmap": {
       "pushed_at": "2026-08-21T14:35:38Z",
@@ -11,43 +11,43 @@
       "author_updated": "2023-01-05"
     },
     "public-apis/public-apis": {
-      "pushed_at": "2026-08-19T21:44:19Z",
+      "pushed_at": "2026-08-26T19:19:56Z",
       "local_path": "寫程式/public-apis/README.md",
       "name": "public-apis",
       "category": "寫程式",
       "original_url": "https://github.com/public-apis/public-apis",
       "version_tag": null,
-      "author_updated": "2026-08-19"
+      "author_updated": "2026-08-26"
     },
     "freeCodeCamp/freeCodeCamp": {
-      "pushed_at": "2026-08-22T08:58:17Z",
+      "pushed_at": "2026-08-29T17:53:30Z",
       "local_path": "寫程式/freeCodeCamp/README.md",
       "name": "freeCodeCamp",
       "category": "寫程式",
       "original_url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "version_tag": null,
-      "author_updated": "2026-08-22"
+      "author_updated": "2026-08-29"
     },
     "EbookFoundation/free-programming-books": {
-      "pushed_at": "2026-08-18T14:16:15Z",
+      "pushed_at": "2026-08-29T12:26:19Z",
       "local_path": "寫程式/free-programming-books/README.md",
       "name": "free-programming-books",
       "category": "寫程式",
       "original_url": "https://github.com/EbookFoundation/free-programming-books",
       "version_tag": null,
-      "author_updated": "2026-08-18"
+      "author_updated": "2026-08-29"
     },
     "vinta/awesome-python": {
-      "pushed_at": "2026-08-22T18:07:56Z",
+      "pushed_at": "2026-08-25T04:08:40Z",
       "local_path": "寫程式/awesome-python/README.md",
       "name": "awesome-python",
       "category": "寫程式",
       "original_url": "https://github.com/vinta/awesome-python",
       "version_tag": null,
-      "author_updated": "2026-08-22"
+      "author_updated": "2026-08-25"
     },
     "awesome-selfhosted/awesome-selfhosted": {
-      "pushed_at": "2026-08-22T18:55:56Z",
+      "pushed_at": "2026-08-28T15:13:31Z",
       "local_path": "寫程式/awesome-selfhosted/README.md",
       "name": "awesome-selfhosted",
       "category": "寫程式",
@@ -56,22 +56,22 @@
       "author_updated": "2023-08-22"
     },
     "practical-tutorials/project-based-learning": {
-      "pushed_at": "2026-08-17T06:46:47Z",
+      "pushed_at": "2026-08-24T07:38:50Z",
       "local_path": "寫程式/project-based-learning/README.md",
       "name": "project-based-learning",
       "category": "寫程式",
       "original_url": "https://github.com/practical-tutorials/project-based-learning",
       "version_tag": null,
-      "author_updated": "2026-08-17"
+      "author_updated": "2026-08-24"
     },
     "react/react": {
-      "pushed_at": "2026-08-14T17:33:13Z",
+      "pushed_at": "2026-08-28T11:10:40Z",
       "local_path": "寫程式/react/README.md",
-      "category": "寫程式",
       "name": "react",
+      "category": "寫程式",
+      "original_url": "https://github.com/react/react",
       "version_tag": "v19.2.8",
-      "author_updated": "2026-07-21",
-      "original_url": "https://github.com/react/react"
+      "author_updated": "2026-07-21"
     },
     "xoreaxeaxeax/skitter-creek-bath-salts": {
       "pushed_at": "2026-08-13T16:59:41Z",
@@ -110,7 +110,7 @@
       "original_url": "https://github.com/antirez/h3.c"
     },
     "openclaw/openclaw": {
-      "pushed_at": "2026-08-22T22:22:04Z",
+      "pushed_at": "2026-08-29T23:54:02Z",
       "local_path": "AI Agent/openclaw/README.md",
       "name": "openclaw",
       "category": "AI Agent",
@@ -119,7 +119,7 @@
       "author_updated": "2026-08-04"
     },
     "obra/superpowers": {
-      "pushed_at": "2026-08-19T17:33:23Z",
+      "pushed_at": "2026-08-29T03:21:18Z",
       "local_path": "AI Agent/superpowers/README.md",
       "name": "superpowers",
       "category": "AI Agent",
@@ -209,13 +209,13 @@
       "author_updated": "2026-08-14"
     },
     "torvalds/linux": {
-      "pushed_at": "2026-08-15T16:00:10Z",
+      "pushed_at": "2026-08-29T19:27:21Z",
       "local_path": "寫程式/linux/README.md",
       "name": "linux",
       "category": "寫程式",
       "original_url": "https://github.com/torvalds/linux",
-      "version_tag": "v7.2-rc7",
-      "author_updated": "2026-08-15"
+      "version_tag": "v7.2",
+      "author_updated": "2026-08-29"
     },
     "TheAlgorithms/Python": {
       "pushed_at": "2026-08-03T18:44:56Z",
@@ -504,6 +504,96 @@
       "original_url": "https://github.com/wang2122/sprix-sage-router",
       "version_tag": "v0.1.0",
       "author_updated": "2026-08-21"
+    },
+    "HEJustinSun/my-girlfriend-jingtian-latex": {
+      "pushed_at": "2026-08-27T12:23:45Z",
+      "local_path": "辦公室應用/my-girlfriend-jingtian-latex/README.md",
+      "name": "my-girlfriend-jingtian-latex",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+      "version_tag": null,
+      "author_updated": "2026-08-27"
+    },
+    "bryllim/workout-guide": {
+      "pushed_at": "2026-08-26T16:05:37Z",
+      "local_path": "辦公室應用/workout-guide/README.md",
+      "name": "workout-guide",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/bryllim/workout-guide",
+      "version_tag": "v1.0.0",
+      "author_updated": "2026-08-24"
+    },
+    "tobi/walgit": {
+      "pushed_at": "2026-08-27T01:50:20Z",
+      "local_path": "寫程式/walgit/README.md",
+      "name": "walgit",
+      "category": "寫程式",
+      "original_url": "https://github.com/tobi/walgit",
+      "version_tag": null,
+      "author_updated": "2026-08-27"
+    },
+    "themartiano/try-omarchy": {
+      "pushed_at": "2026-08-29T18:26:02Z",
+      "local_path": "寫程式/try-omarchy/README.md",
+      "name": "try-omarchy",
+      "category": "寫程式",
+      "original_url": "https://github.com/themartiano/try-omarchy",
+      "version_tag": "v0.2.0",
+      "author_updated": "2026-08-27"
+    },
+    "wide-trace/open-higgsfield": {
+      "pushed_at": "2026-08-26T08:08:20Z",
+      "local_path": "AI Skill/open-higgsfield/README.md",
+      "name": "open-higgsfield",
+      "category": "AI Skill",
+      "original_url": "https://github.com/wide-trace/open-higgsfield",
+      "version_tag": null,
+      "author_updated": "2026-08-26"
+    },
+    "Tencent/WeMM-Embedding": {
+      "pushed_at": "2026-08-28T04:34:44Z",
+      "local_path": "AI Skill/WeMM-Embedding/README.md",
+      "name": "WeMM-Embedding",
+      "category": "AI Skill",
+      "original_url": "https://github.com/Tencent/WeMM-Embedding",
+      "version_tag": null,
+      "author_updated": "2026-08-28"
+    },
+    "ShadowAqueduct/watermark-remover": {
+      "pushed_at": "2026-08-23T22:07:11Z",
+      "local_path": "AI Skill/watermark-remover/README.md",
+      "name": "watermark-remover",
+      "category": "AI Skill",
+      "original_url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "version_tag": null,
+      "author_updated": "2026-08-23"
+    },
+    "b-nnett/grok-bot-0.18-reconstructed": {
+      "pushed_at": "2026-08-23T20:53:35Z",
+      "local_path": "AI Agent/grok-bot-0.18-reconstructed/README.md",
+      "name": "grok-bot-0.18-reconstructed",
+      "category": "AI Agent",
+      "original_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "version_tag": null,
+      "author_updated": "2026-08-23"
+    },
+    "sapientinc/PRAXIST": {
+      "pushed_at": "2026-08-28T02:24:32Z",
+      "local_path": "AI Agent/PRAXIST/README.md",
+      "name": "PRAXIST",
+      "category": "AI Agent",
+      "original_url": "https://github.com/sapientinc/PRAXIST",
+      "version_tag": "0.5.0",
+      "author_updated": "2026-08-28"
+    },
+    "XiaoDuoYa/codex-with-chatgpt": {
+      "pushed_at": "2026-08-29T11:52:34Z",
+      "local_path": "AI Agent/codex-with-chatgpt/README.md",
+      "name": "codex-with-chatgpt",
+      "category": "AI Agent",
+      "original_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "version_tag": null,
+      "author_updated": "2026-08-29"
     }
   }
 }
