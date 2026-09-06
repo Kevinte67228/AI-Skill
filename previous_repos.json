@@ -1,53 +1,53 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-09-06",
   "repos": {
     "nilbuild/developer-roadmap": {
-      "pushed_at": "2026-08-21T14:35:38Z",
-      "local_path": "寫程式/developer-roadmap/README.md",
+      "pushed_at": "2026-09-04T08:17:37Z",
+      "local_path": "辦公室應用/developer-roadmap/README.md",
       "name": "developer-roadmap",
-      "category": "寫程式",
+      "category": "辦公室應用",
       "original_url": "https://github.com/nilbuild/developer-roadmap",
       "version_tag": "4.0",
       "author_updated": "2023-01-05"
     },
     "public-apis/public-apis": {
-      "pushed_at": "2026-08-26T19:19:56Z",
+      "pushed_at": "2026-09-05T21:46:01Z",
       "local_path": "寫程式/public-apis/README.md",
       "name": "public-apis",
       "category": "寫程式",
       "original_url": "https://github.com/public-apis/public-apis",
       "version_tag": null,
-      "author_updated": "2026-08-26"
+      "author_updated": "2026-09-05"
     },
     "freeCodeCamp/freeCodeCamp": {
-      "pushed_at": "2026-08-29T17:53:30Z",
+      "pushed_at": "2026-09-05T12:07:18Z",
       "local_path": "寫程式/freeCodeCamp/README.md",
       "name": "freeCodeCamp",
       "category": "寫程式",
       "original_url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "version_tag": null,
-      "author_updated": "2026-08-29"
+      "author_updated": "2026-09-05"
     },
     "EbookFoundation/free-programming-books": {
-      "pushed_at": "2026-08-29T12:26:19Z",
+      "pushed_at": "2026-09-01T09:12:19Z",
       "local_path": "寫程式/free-programming-books/README.md",
       "name": "free-programming-books",
       "category": "寫程式",
       "original_url": "https://github.com/EbookFoundation/free-programming-books",
       "version_tag": null,
-      "author_updated": "2026-08-29"
+      "author_updated": "2026-09-01"
     },
     "vinta/awesome-python": {
-      "pushed_at": "2026-08-25T04:08:40Z",
+      "pushed_at": "2026-09-01T08:48:12Z",
       "local_path": "寫程式/awesome-python/README.md",
       "name": "awesome-python",
       "category": "寫程式",
       "original_url": "https://github.com/vinta/awesome-python",
       "version_tag": null,
-      "author_updated": "2026-08-25"
+      "author_updated": "2026-09-01"
     },
     "awesome-selfhosted/awesome-selfhosted": {
-      "pushed_at": "2026-08-28T15:13:31Z",
+      "pushed_at": "2026-09-05T10:51:19Z",
       "local_path": "寫程式/awesome-selfhosted/README.md",
       "name": "awesome-selfhosted",
       "category": "寫程式",
@@ -56,13 +56,13 @@
       "author_updated": "2023-08-22"
     },
     "practical-tutorials/project-based-learning": {
-      "pushed_at": "2026-08-24T07:38:50Z",
+      "pushed_at": "2026-08-31T07:08:03Z",
       "local_path": "寫程式/project-based-learning/README.md",
       "name": "project-based-learning",
       "category": "寫程式",
       "original_url": "https://github.com/practical-tutorials/project-based-learning",
       "version_tag": null,
-      "author_updated": "2026-08-24"
+      "author_updated": "2026-08-31"
     },
     "react/react": {
       "pushed_at": "2026-08-28T11:10:40Z",
@@ -110,16 +110,16 @@
       "original_url": "https://github.com/antirez/h3.c"
     },
     "openclaw/openclaw": {
-      "pushed_at": "2026-08-29T23:54:02Z",
+      "pushed_at": "2026-09-06T04:30:30Z",
       "local_path": "AI Agent/openclaw/README.md",
       "name": "openclaw",
       "category": "AI Agent",
       "original_url": "https://github.com/openclaw/openclaw",
-      "version_tag": "v2026.7.1-2",
-      "author_updated": "2026-08-04"
+      "version_tag": "v2026.9.2",
+      "author_updated": "2026-09-05"
     },
     "obra/superpowers": {
-      "pushed_at": "2026-08-29T03:21:18Z",
+      "pushed_at": "2026-09-04T23:04:36Z",
       "local_path": "AI Agent/superpowers/README.md",
       "name": "superpowers",
       "category": "AI Agent",
@@ -407,13 +407,13 @@
       "author_updated": "2026-08-15"
     },
     "sindresorhus/awesome": {
-      "pushed_at": "2026-08-21T12:39:13Z",
-      "local_path": "辦公室應用/awesome/README.md",
+      "pushed_at": "2026-09-02T02:10:47Z",
+      "local_path": "寫程式/awesome/README.md",
       "name": "awesome",
-      "category": "辦公室應用",
+      "category": "寫程式",
       "original_url": "https://github.com/sindresorhus/awesome",
       "version_tag": null,
-      "author_updated": "2026-08-21"
+      "author_updated": "2026-09-02"
     },
     "cinderline/northcinder": {
       "pushed_at": "2026-08-22T12:11:30Z",
@@ -594,6 +594,96 @@
       "original_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
       "version_tag": null,
       "author_updated": "2026-08-29"
+    },
+    "yczz/oc-english": {
+      "pushed_at": "2026-09-05T14:46:39Z",
+      "local_path": "辦公室應用/oc-english/README.md",
+      "name": "oc-english",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/yczz/oc-english",
+      "version_tag": null,
+      "author_updated": "2026-09-05"
+    },
+    "ashemag/human-atlas": {
+      "pushed_at": "2026-09-05T13:14:50Z",
+      "local_path": "辦公室應用/human-atlas/README.md",
+      "name": "human-atlas",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/ashemag/human-atlas",
+      "version_tag": null,
+      "author_updated": "2026-09-05"
+    },
+    "lnkiai/m3e-canvas": {
+      "pushed_at": "2026-09-06T00:56:03Z",
+      "local_path": "寫程式/m3e-canvas/README.md",
+      "name": "m3e-canvas",
+      "category": "寫程式",
+      "original_url": "https://github.com/lnkiai/m3e-canvas",
+      "version_tag": null,
+      "author_updated": "2026-09-06"
+    },
+    "shadcn-ui/cn": {
+      "pushed_at": "2026-09-04T05:16:53Z",
+      "local_path": "寫程式/cn/README.md",
+      "name": "cn",
+      "category": "寫程式",
+      "original_url": "https://github.com/shadcn-ui/cn",
+      "version_tag": "cn@0.2.5",
+      "author_updated": "2026-09-04"
+    },
+    "anthropics/fermats-last-theorem": {
+      "pushed_at": "2026-09-04T14:59:12Z",
+      "local_path": "寫程式/fermats-last-theorem/README.md",
+      "name": "fermats-last-theorem",
+      "category": "寫程式",
+      "original_url": "https://github.com/anthropics/fermats-last-theorem",
+      "version_tag": null,
+      "author_updated": "2026-09-04"
+    },
+    "nahrek/polyledger": {
+      "pushed_at": "2026-09-02T19:48:22Z",
+      "local_path": "寫程式/polyledger/README.md",
+      "name": "polyledger",
+      "category": "寫程式",
+      "original_url": "https://github.com/nahrek/polyledger",
+      "version_tag": null,
+      "author_updated": "2026-09-02"
+    },
+    "GangTailorUpgrade/undress-service": {
+      "pushed_at": "2026-09-02T13:58:48Z",
+      "local_path": "AI Skill/undress-service/README.md",
+      "name": "undress-service",
+      "category": "AI Skill",
+      "original_url": "https://github.com/GangTailorUpgrade/undress-service",
+      "version_tag": null,
+      "author_updated": "2026-09-02"
+    },
+    "2akouwu/reverify": {
+      "pushed_at": "2026-09-05T10:55:25Z",
+      "local_path": "AI Skill/reverify/README.md",
+      "name": "reverify",
+      "category": "AI Skill",
+      "original_url": "https://github.com/2akouwu/reverify",
+      "version_tag": "v0.11.0",
+      "author_updated": "2026-09-04"
+    },
+    "danielblnc/DLSS-NR-on-AMD": {
+      "pushed_at": "2026-09-05T22:52:10Z",
+      "local_path": "AI Skill/DLSS-NR-on-AMD/README.md",
+      "name": "DLSS-NR-on-AMD",
+      "category": "AI Skill",
+      "original_url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+      "version_tag": "v0.2.12",
+      "author_updated": "2026-09-05"
+    },
+    "anthropics/commerce-agents": {
+      "pushed_at": "2026-09-01T20:41:14Z",
+      "local_path": "AI Agent/commerce-agents/README.md",
+      "name": "commerce-agents",
+      "category": "AI Agent",
+      "original_url": "https://github.com/anthropics/commerce-agents",
+      "version_tag": null,
+      "author_updated": "2026-09-01"
     }
   }
 }

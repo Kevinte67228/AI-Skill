@@ -1,40 +1,46 @@
 # 📋 專案快速索引
 
-共收錄 66 個專案，最後更新於 2026-08-29
+共收錄 76 個專案，最後更新於 2026-09-06
 
 
-## 辦公室應用（8）
+## 辦公室應用（10）
 
 | 專案 | 版本 | 作者最後更新 | 快速連結 |
 |---|---|---|---|
 | ASu-skills | - | 2026-08-14 | [辦公室應用/ASu-skills](辦公室應用/ASu-skills) |
-| awesome | - | 2026-08-21 | [辦公室應用/awesome](辦公室應用/awesome) |
+| developer-roadmap | 4.0 | 2023-01-05 | [辦公室應用/developer-roadmap](辦公室應用/developer-roadmap) |
 | FreeDomain | - | 2026-08-12 | [辦公室應用/FreeDomain](辦公室應用/FreeDomain) |
+| human-atlas | - | 2026-09-05 | [辦公室應用/human-atlas](辦公室應用/human-atlas) |
 | my-girlfriend-jingtian-latex | - | 2026-08-27 | [辦公室應用/my-girlfriend-jingtian-latex](辦公室應用/my-girlfriend-jingtian-latex) |
 | n8n | n8n@2.34.6 | 2026-08-14 | [辦公室應用/n8n](辦公室應用/n8n) |
 | northcinder | v0.2.1 | 2026-08-22 | [辦公室應用/northcinder](辦公室應用/northcinder) |
+| oc-english | - | 2026-09-05 | [辦公室應用/oc-english](辦公室應用/oc-english) |
 | workout-guide | v1.0.0 | 2026-08-24 | [辦公室應用/workout-guide](辦公室應用/workout-guide) |
 | youtube-music | v1.0.0 | 2026-08-11 | [辦公室應用/youtube-music](辦公室應用/youtube-music) |
 
-## 寫程式（23）
+## 寫程式（27）
 
 | 專案 | 版本 | 作者最後更新 | 快速連結 |
 |---|---|---|---|
 | anti-slop | - | 2026-08-14 | [寫程式/anti-slop](寫程式/anti-slop) |
-| awesome-python | - | 2026-08-25 | [寫程式/awesome-python](寫程式/awesome-python) |
+| awesome | - | 2026-09-02 | [寫程式/awesome](寫程式/awesome) |
+| awesome-python | - | 2026-09-01 | [寫程式/awesome-python](寫程式/awesome-python) |
 | awesome-selfhosted | 1.0.0 | 2023-08-22 | [寫程式/awesome-selfhosted](寫程式/awesome-selfhosted) |
+| cn | cn@0.2.5 | 2026-09-04 | [寫程式/cn](寫程式/cn) |
 | deploy-vercel | - | 2026-08-18 | [寫程式/deploy-vercel](寫程式/deploy-vercel) |
-| developer-roadmap | 4.0 | 2023-01-05 | [寫程式/developer-roadmap](寫程式/developer-roadmap) |
 | dsh-deep-whale | - | 2026-08-15 | [寫程式/dsh-deep-whale](寫程式/dsh-deep-whale) |
 | eve-software-factory-template | - | 2026-08-14 | [寫程式/eve-software-factory-template](寫程式/eve-software-factory-template) |
-| free-programming-books | - | 2026-08-29 | [寫程式/free-programming-books](寫程式/free-programming-books) |
-| freeCodeCamp | - | 2026-08-29 | [寫程式/freeCodeCamp](寫程式/freeCodeCamp) |
+| fermats-last-theorem | - | 2026-09-04 | [寫程式/fermats-last-theorem](寫程式/fermats-last-theorem) |
+| free-programming-books | - | 2026-09-01 | [寫程式/free-programming-books](寫程式/free-programming-books) |
+| freeCodeCamp | - | 2026-09-05 | [寫程式/freeCodeCamp](寫程式/freeCodeCamp) |
 | javascript-algorithms | - | 2026-07-26 | [寫程式/javascript-algorithms](寫程式/javascript-algorithms) |
 | linux | v7.2 | 2026-08-29 | [寫程式/linux](寫程式/linux) |
+| m3e-canvas | - | 2026-09-06 | [寫程式/m3e-canvas](寫程式/m3e-canvas) |
 | ohmyzsh | - | 2026-08-11 | [寫程式/ohmyzsh](寫程式/ohmyzsh) |
 | paper | v8 | 2026-08-13 | [寫程式/paper](寫程式/paper) |
-| project-based-learning | - | 2026-08-24 | [寫程式/project-based-learning](寫程式/project-based-learning) |
-| public-apis | - | 2026-08-26 | [寫程式/public-apis](寫程式/public-apis) |
+| polyledger | - | 2026-09-02 | [寫程式/polyledger](寫程式/polyledger) |
+| project-based-learning | - | 2026-08-31 | [寫程式/project-based-learning](寫程式/project-based-learning) |
+| public-apis | - | 2026-09-05 | [寫程式/public-apis](寫程式/public-apis) |
 | Python | - | 2026-08-03 | [寫程式/Python](寫程式/Python) |
 | react | v19.2.8 | 2026-07-21 | [寫程式/react](寫程式/react) |
 | skills | v1.2.3 | 2026-08-06 | [寫程式/skills](寫程式/skills) |
@@ -44,7 +50,7 @@
 | vanity-eth | - | 2026-08-21 | [寫程式/vanity-eth](寫程式/vanity-eth) |
 | walgit | - | 2026-08-27 | [寫程式/walgit](寫程式/walgit) |
 
-## AI Skill（12）
+## AI Skill（15）
 
 | 專案 | 版本 | 作者最後更新 | 快速連結 |
 |---|---|---|---|
@@ -52,22 +58,26 @@
 | chatbot-template | - | 2026-08-11 | [AI Skill/chatbot-template](AI%20Skill/chatbot-template) |
 | claudish-to-english | assets | 2026-08-11 | [AI Skill/claudish-to-english](AI%20Skill/claudish-to-english) |
 | DeepSeek-V4-J-Space-Capability-Realization-Report | v1.0 | 2026-08-18 | [AI Skill/DeepSeek-V4-J-Space-Capability-Realization-Report](AI%20Skill/DeepSeek-V4-J-Space-Capability-Realization-Report) |
+| DLSS-NR-on-AMD | v0.2.12 | 2026-09-05 | [AI Skill/DLSS-NR-on-AMD](AI%20Skill/DLSS-NR-on-AMD) |
 | h3.c | - | 2026-08-11 | [AI Skill/h3.c](AI%20Skill/h3.c) |
 | ip-as-logo-skill | - | 2026-08-22 | [AI Skill/ip-as-logo-skill](AI%20Skill/ip-as-logo-skill) |
 | open-higgsfield | - | 2026-08-26 | [AI Skill/open-higgsfield](AI%20Skill/open-higgsfield) |
+| reverify | v0.11.0 | 2026-09-04 | [AI Skill/reverify](AI%20Skill/reverify) |
 | tensorflow | v2.21.0 | 2026-03-06 | [AI Skill/tensorflow](AI%20Skill/tensorflow) |
+| undress-service | - | 2026-09-02 | [AI Skill/undress-service](AI%20Skill/undress-service) |
 | watermark-remover | - | 2026-08-23 | [AI Skill/watermark-remover](AI%20Skill/watermark-remover) |
 | watermarks-remover | v0.5.0 | 2026-08-14 | [AI Skill/watermarks-remover](AI%20Skill/watermarks-remover) |
 | watermarks-remover | - | 2026-08-19 | [AI Skill/watermarks-remover](AI%20Skill/watermarks-remover) |
 | WeMM-Embedding | - | 2026-08-28 | [AI Skill/WeMM-Embedding](AI%20Skill/WeMM-Embedding) |
 
-## AI Agent（23）
+## AI Agent（24）
 
 | 專案 | 版本 | 作者最後更新 | 快速連結 |
 |---|---|---|---|
 | awesome-dsh-plugin | - | 2026-08-15 | [AI Agent/awesome-dsh-plugin](AI%20Agent/awesome-dsh-plugin) |
 | claw-code | - | 2026-08-06 | [AI Agent/claw-code](AI%20Agent/claw-code) |
 | codex-with-chatgpt | - | 2026-08-29 | [AI Agent/codex-with-chatgpt](AI%20Agent/codex-with-chatgpt) |
+| commerce-agents | - | 2026-09-01 | [AI Agent/commerce-agents](AI%20Agent/commerce-agents) |
 | cumora | v0.2.0 | 2026-08-22 | [AI Agent/cumora](AI%20Agent/cumora) |
 | deepseek-harness | - | 2026-08-13 | [AI Agent/deepseek-harness](AI%20Agent/deepseek-harness) |
 | deepseek-harness-desktop | v2.0.0 | 2026-08-15 | [AI Agent/deepseek-harness-desktop](AI%20Agent/deepseek-harness-desktop) |
@@ -80,7 +90,7 @@
 | grok-bot-0.18-reconstructed | - | 2026-08-23 | [AI Agent/grok-bot-0.18-reconstructed](AI%20Agent/grok-bot-0.18-reconstructed) |
 | hermes-agent | v2026.8.13 | 2026-08-13 | [AI Agent/hermes-agent](AI%20Agent/hermes-agent) |
 | OpenBot | v0.0.4 | 2026-08-22 | [AI Agent/OpenBot](AI%20Agent/OpenBot) |
-| openclaw | v2026.7.1-2 | 2026-08-04 | [AI Agent/openclaw](AI%20Agent/openclaw) |
+| openclaw | v2026.9.2 | 2026-09-05 | [AI Agent/openclaw](AI%20Agent/openclaw) |
 | opencode | v1.18.18 | 2026-08-13 | [AI Agent/opencode](AI%20Agent/opencode) |
 | OpenMausBot | - | 2026-08-14 | [AI Agent/OpenMausBot](AI%20Agent/OpenMausBot) |
 | pi-from-scratch | - | 2026-08-12 | [AI Agent/pi-from-scratch](AI%20Agent/pi-from-scratch) |
