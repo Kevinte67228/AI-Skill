@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-12",
   "repos": {
     "nilbuild/developer-roadmap": {
-      "pushed_at": "2026-09-04T08:17:37Z",
+      "pushed_at": "2026-09-12T16:57:52Z",
       "local_path": "辦公室應用/developer-roadmap/README.md",
       "name": "developer-roadmap",
       "category": "辦公室應用",
@@ -11,31 +11,31 @@
       "author_updated": "2023-01-05"
     },
     "public-apis/public-apis": {
-      "pushed_at": "2026-09-05T21:46:01Z",
+      "pushed_at": "2026-09-12T20:07:08Z",
       "local_path": "寫程式/public-apis/README.md",
       "name": "public-apis",
       "category": "寫程式",
       "original_url": "https://github.com/public-apis/public-apis",
       "version_tag": null,
-      "author_updated": "2026-09-05"
+      "author_updated": "2026-09-12"
     },
     "freeCodeCamp/freeCodeCamp": {
-      "pushed_at": "2026-09-05T12:07:18Z",
+      "pushed_at": "2026-09-12T10:46:06Z",
       "local_path": "寫程式/freeCodeCamp/README.md",
       "name": "freeCodeCamp",
       "category": "寫程式",
       "original_url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "version_tag": null,
-      "author_updated": "2026-09-05"
+      "author_updated": "2026-09-12"
     },
     "EbookFoundation/free-programming-books": {
-      "pushed_at": "2026-09-01T09:12:19Z",
+      "pushed_at": "2026-09-10T16:15:02Z",
       "local_path": "寫程式/free-programming-books/README.md",
       "name": "free-programming-books",
       "category": "寫程式",
       "original_url": "https://github.com/EbookFoundation/free-programming-books",
       "version_tag": null,
-      "author_updated": "2026-09-01"
+      "author_updated": "2026-09-10"
     },
     "vinta/awesome-python": {
       "pushed_at": "2026-09-01T08:48:12Z",
@@ -47,7 +47,7 @@
       "author_updated": "2026-09-01"
     },
     "awesome-selfhosted/awesome-selfhosted": {
-      "pushed_at": "2026-09-05T10:51:19Z",
+      "pushed_at": "2026-09-12T08:33:35Z",
       "local_path": "寫程式/awesome-selfhosted/README.md",
       "name": "awesome-selfhosted",
       "category": "寫程式",
@@ -56,13 +56,13 @@
       "author_updated": "2023-08-22"
     },
     "practical-tutorials/project-based-learning": {
-      "pushed_at": "2026-08-31T07:08:03Z",
+      "pushed_at": "2026-09-07T07:09:03Z",
       "local_path": "寫程式/project-based-learning/README.md",
       "name": "project-based-learning",
       "category": "寫程式",
       "original_url": "https://github.com/practical-tutorials/project-based-learning",
       "version_tag": null,
-      "author_updated": "2026-08-31"
+      "author_updated": "2026-09-07"
     },
     "react/react": {
       "pushed_at": "2026-08-28T11:10:40Z",
@@ -110,16 +110,16 @@
       "original_url": "https://github.com/antirez/h3.c"
     },
     "openclaw/openclaw": {
-      "pushed_at": "2026-09-06T04:30:30Z",
+      "pushed_at": "2026-09-12T23:48:18Z",
       "local_path": "AI Agent/openclaw/README.md",
       "name": "openclaw",
       "category": "AI Agent",
       "original_url": "https://github.com/openclaw/openclaw",
-      "version_tag": "v2026.9.2",
-      "author_updated": "2026-09-05"
+      "version_tag": "v2026.9.4",
+      "author_updated": "2026-09-11"
     },
     "obra/superpowers": {
-      "pushed_at": "2026-09-04T23:04:36Z",
+      "pushed_at": "2026-09-12T00:16:38Z",
       "local_path": "AI Agent/superpowers/README.md",
       "name": "superpowers",
       "category": "AI Agent",
@@ -272,10 +272,10 @@
       "author_updated": "2026-08-15"
     },
     "mattpocock/skills": {
-      "pushed_at": "2026-08-15T21:24:36Z",
-      "local_path": "寫程式/skills/README.md",
+      "pushed_at": "2026-09-04T08:45:43Z",
+      "local_path": "AI Agent/skills/README.md",
       "name": "skills",
-      "category": "寫程式",
+      "category": "AI Agent",
       "original_url": "https://github.com/mattpocock/skills",
       "version_tag": "v1.2.3",
       "author_updated": "2026-08-06"
@@ -308,13 +308,13 @@
       "author_updated": "2026-08-14"
     },
     "affaan-m/ECC": {
-      "pushed_at": "2026-08-15T20:02:53Z",
+      "pushed_at": "2026-09-12T11:45:41Z",
       "local_path": "AI Agent/ECC/README.md",
       "name": "ECC",
       "category": "AI Agent",
       "original_url": "https://github.com/affaan-m/ECC",
-      "version_tag": "v2.1.0",
-      "author_updated": "2026-07-27"
+      "version_tag": "v2.2.1",
+      "author_updated": "2026-09-08"
     },
     "NousResearch/hermes-agent": {
       "pushed_at": "2026-08-15T22:15:28Z",
@@ -684,6 +684,96 @@
       "original_url": "https://github.com/anthropics/commerce-agents",
       "version_tag": null,
       "author_updated": "2026-09-01"
+    },
+    "gazijarin/itsgiving": {
+      "pushed_at": "2026-09-08T05:45:44Z",
+      "local_path": "辦公室應用/itsgiving/README.md",
+      "name": "itsgiving",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/gazijarin/itsgiving",
+      "version_tag": null,
+      "author_updated": "2026-09-08"
+    },
+    "sumimakito/Mac-Duo": {
+      "pushed_at": "2026-09-12T14:26:09Z",
+      "local_path": "辦公室應用/Mac-Duo/README.md",
+      "name": "Mac-Duo",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/sumimakito/Mac-Duo",
+      "version_tag": "dev",
+      "author_updated": "2026-09-12"
+    },
+    "sdli1995/dlssg_for_sm86": {
+      "pushed_at": "2026-09-10T08:47:39Z",
+      "local_path": "寫程式/dlssg_for_sm86/README.md",
+      "name": "dlssg_for_sm86",
+      "category": "寫程式",
+      "original_url": "https://github.com/sdli1995/dlssg_for_sm86",
+      "version_tag": null,
+      "author_updated": "2026-09-10"
+    },
+    "openai/NavierStokesAndEuler": {
+      "pushed_at": "2026-09-10T15:14:13Z",
+      "local_path": "寫程式/NavierStokesAndEuler/README.md",
+      "name": "NavierStokesAndEuler",
+      "category": "寫程式",
+      "original_url": "https://github.com/openai/NavierStokesAndEuler",
+      "version_tag": null,
+      "author_updated": "2026-09-10"
+    },
+    "Faizpi/bank-sampah": {
+      "pushed_at": "2026-09-11T04:13:57Z",
+      "local_path": "寫程式/bank-sampah/README.md",
+      "name": "bank-sampah",
+      "category": "寫程式",
+      "original_url": "https://github.com/Faizpi/bank-sampah",
+      "version_tag": null,
+      "author_updated": "2026-09-11"
+    },
+    "EverettFish/holo-card-studio": {
+      "pushed_at": "2026-09-12T04:56:38Z",
+      "local_path": "AI Skill/holo-card-studio/README.md",
+      "name": "holo-card-studio",
+      "category": "AI Skill",
+      "original_url": "https://github.com/EverettFish/holo-card-studio",
+      "version_tag": null,
+      "author_updated": "2026-09-12"
+    },
+    "Edge0-AI/Edge0": {
+      "pushed_at": "2026-09-11T11:01:40Z",
+      "local_path": "AI Skill/Edge0/README.md",
+      "name": "Edge0",
+      "category": "AI Skill",
+      "original_url": "https://github.com/Edge0-AI/Edge0",
+      "version_tag": null,
+      "author_updated": "2026-09-11"
+    },
+    "Vincentwei1021/anything2explainer": {
+      "pushed_at": "2026-09-12T18:41:03Z",
+      "local_path": "AI Skill/anything2explainer/README.md",
+      "name": "anything2explainer",
+      "category": "AI Skill",
+      "original_url": "https://github.com/Vincentwei1021/anything2explainer",
+      "version_tag": null,
+      "author_updated": "2026-09-12"
+    },
+    "jtydhr88/screenwriting-skills": {
+      "pushed_at": "2026-09-12T22:46:41Z",
+      "local_path": "AI Skill/screenwriting-skills/README.md",
+      "name": "screenwriting-skills",
+      "category": "AI Skill",
+      "original_url": "https://github.com/jtydhr88/screenwriting-skills",
+      "version_tag": null,
+      "author_updated": "2026-09-12"
+    },
+    "achimala/dream-loop": {
+      "pushed_at": "2026-09-09T22:43:38Z",
+      "local_path": "AI Agent/dream-loop/README.md",
+      "name": "dream-loop",
+      "category": "AI Agent",
+      "original_url": "https://github.com/achimala/dream-loop",
+      "version_tag": null,
+      "author_updated": "2026-09-09"
     }
   }
 }
