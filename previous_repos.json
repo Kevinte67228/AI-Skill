@@ -1,53 +1,53 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-19",
   "repos": {
     "nilbuild/developer-roadmap": {
-      "pushed_at": "2026-09-12T16:57:52Z",
-      "local_path": "辦公室應用/developer-roadmap/README.md",
+      "pushed_at": "2026-09-18T08:51:13Z",
+      "local_path": "寫程式/developer-roadmap/README.md",
       "name": "developer-roadmap",
-      "category": "辦公室應用",
+      "category": "寫程式",
       "original_url": "https://github.com/nilbuild/developer-roadmap",
       "version_tag": "4.0",
       "author_updated": "2023-01-05"
     },
     "public-apis/public-apis": {
-      "pushed_at": "2026-09-12T20:07:08Z",
+      "pushed_at": "2026-09-18T19:39:43Z",
       "local_path": "寫程式/public-apis/README.md",
       "name": "public-apis",
       "category": "寫程式",
       "original_url": "https://github.com/public-apis/public-apis",
       "version_tag": null,
-      "author_updated": "2026-09-12"
+      "author_updated": "2026-09-18"
     },
     "freeCodeCamp/freeCodeCamp": {
-      "pushed_at": "2026-09-12T10:46:06Z",
+      "pushed_at": "2026-09-19T17:52:32Z",
       "local_path": "寫程式/freeCodeCamp/README.md",
       "name": "freeCodeCamp",
       "category": "寫程式",
       "original_url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "version_tag": null,
-      "author_updated": "2026-09-12"
+      "author_updated": "2026-09-19"
     },
     "EbookFoundation/free-programming-books": {
-      "pushed_at": "2026-09-10T16:15:02Z",
+      "pushed_at": "2026-09-15T15:54:40Z",
       "local_path": "寫程式/free-programming-books/README.md",
       "name": "free-programming-books",
       "category": "寫程式",
       "original_url": "https://github.com/EbookFoundation/free-programming-books",
       "version_tag": null,
-      "author_updated": "2026-09-10"
+      "author_updated": "2026-09-15"
     },
     "vinta/awesome-python": {
-      "pushed_at": "2026-09-01T08:48:12Z",
+      "pushed_at": "2026-09-18T22:11:03Z",
       "local_path": "寫程式/awesome-python/README.md",
       "name": "awesome-python",
       "category": "寫程式",
       "original_url": "https://github.com/vinta/awesome-python",
       "version_tag": null,
-      "author_updated": "2026-09-01"
+      "author_updated": "2026-09-18"
     },
     "awesome-selfhosted/awesome-selfhosted": {
-      "pushed_at": "2026-09-12T08:33:35Z",
+      "pushed_at": "2026-09-19T17:28:15Z",
       "local_path": "寫程式/awesome-selfhosted/README.md",
       "name": "awesome-selfhosted",
       "category": "寫程式",
@@ -56,13 +56,13 @@
       "author_updated": "2023-08-22"
     },
     "practical-tutorials/project-based-learning": {
-      "pushed_at": "2026-09-07T07:09:03Z",
+      "pushed_at": "2026-09-14T07:10:04Z",
       "local_path": "寫程式/project-based-learning/README.md",
       "name": "project-based-learning",
       "category": "寫程式",
       "original_url": "https://github.com/practical-tutorials/project-based-learning",
       "version_tag": null,
-      "author_updated": "2026-09-07"
+      "author_updated": "2026-09-14"
     },
     "react/react": {
       "pushed_at": "2026-08-28T11:10:40Z",
@@ -110,22 +110,22 @@
       "original_url": "https://github.com/antirez/h3.c"
     },
     "openclaw/openclaw": {
-      "pushed_at": "2026-09-12T23:48:18Z",
+      "pushed_at": "2026-09-19T23:54:04Z",
       "local_path": "AI Agent/openclaw/README.md",
       "name": "openclaw",
       "category": "AI Agent",
       "original_url": "https://github.com/openclaw/openclaw",
-      "version_tag": "v2026.9.4",
-      "author_updated": "2026-09-11"
+      "version_tag": "v2026.9.5",
+      "author_updated": "2026-09-19"
     },
     "obra/superpowers": {
-      "pushed_at": "2026-09-12T00:16:38Z",
+      "pushed_at": "2026-09-19T00:32:57Z",
       "local_path": "AI Agent/superpowers/README.md",
       "name": "superpowers",
       "category": "AI Agent",
       "original_url": "https://github.com/obra/superpowers",
-      "version_tag": "v6.3.0",
-      "author_updated": "2026-08-12"
+      "version_tag": "v6.4.1",
+      "author_updated": "2026-09-19"
     },
     "deepseek-ai/deepseek-harness": {
       "pushed_at": "2026-08-13T13:00:21Z",
@@ -774,6 +774,105 @@
       "original_url": "https://github.com/achimala/dream-loop",
       "version_tag": null,
       "author_updated": "2026-09-09"
+    },
+    "robbietilton/Compositor": {
+      "pushed_at": "2026-09-18T13:45:46Z",
+      "local_path": "辦公室應用/Compositor/README.md",
+      "name": "Compositor",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/robbietilton/Compositor",
+      "version_tag": "v1.0.4",
+      "author_updated": "2026-09-18"
+    },
+    "donnemartin/system-design-primer": {
+      "pushed_at": "2026-09-15T01:10:09Z",
+      "local_path": "寫程式/system-design-primer/README.md",
+      "name": "system-design-primer",
+      "category": "寫程式",
+      "original_url": "https://github.com/donnemartin/system-design-primer",
+      "version_tag": "pre-2026-refresh",
+      "author_updated": "2026-09-15"
+    },
+    "NandhaKishorM/laya": {
+      "pushed_at": "2026-09-19T16:22:52Z",
+      "local_path": "寫程式/laya/README.md",
+      "name": "laya",
+      "category": "寫程式",
+      "original_url": "https://github.com/NandhaKishorM/laya",
+      "version_tag": "v0.3.3",
+      "author_updated": "2026-09-19"
+    },
+    "browser-use/jev-ultrafast": {
+      "pushed_at": "2026-09-18T16:28:35Z",
+      "local_path": "AI Skill/jev-ultrafast/README.md",
+      "name": "jev-ultrafast",
+      "category": "AI Skill",
+      "original_url": "https://github.com/browser-use/jev-ultrafast",
+      "version_tag": null,
+      "author_updated": "2026-09-18"
+    },
+    "TheoLeeCJ/SemIf": {
+      "pushed_at": "2026-09-19T04:46:36Z",
+      "local_path": "AI Skill/SemIf/README.md",
+      "name": "SemIf",
+      "category": "AI Skill",
+      "original_url": "https://github.com/TheoLeeCJ/SemIf",
+      "version_tag": null,
+      "author_updated": "2026-09-19"
+    },
+    "mcncarl/jianying-headless": {
+      "pushed_at": "2026-09-19T02:42:58Z",
+      "local_path": "AI Skill/jianying-headless/README.md",
+      "name": "jianying-headless",
+      "category": "AI Skill",
+      "original_url": "https://github.com/mcncarl/jianying-headless",
+      "version_tag": null,
+      "author_updated": "2026-09-19"
+    },
+    "tamaratran/fast-jev-compaction": {
+      "pushed_at": "2026-09-18T04:45:31Z",
+      "local_path": "AI Agent/fast-jev-compaction/README.md",
+      "name": "fast-jev-compaction",
+      "category": "AI Agent",
+      "original_url": "https://github.com/tamaratran/fast-jev-compaction",
+      "version_tag": null,
+      "author_updated": "2026-09-18"
+    },
+    "jarrodwatts/jev-trader": {
+      "pushed_at": "2026-09-17T02:48:22Z",
+      "local_path": "AI Agent/jev-trader/README.md",
+      "name": "jev-trader",
+      "category": "AI Agent",
+      "original_url": "https://github.com/jarrodwatts/jev-trader",
+      "version_tag": null,
+      "author_updated": "2026-09-17"
+    },
+    "vinnylarouge/jevlike": {
+      "pushed_at": "2026-09-16T18:12:53Z",
+      "local_path": "AI Agent/jevlike/README.md",
+      "name": "jevlike",
+      "category": "AI Agent",
+      "original_url": "https://github.com/vinnylarouge/jevlike",
+      "version_tag": null,
+      "author_updated": "2026-09-16"
+    },
+    "TianyuCodings/NanoJev": {
+      "pushed_at": "2026-09-17T23:24:13Z",
+      "local_path": "AI Agent/NanoJev/README.md",
+      "name": "NanoJev",
+      "category": "AI Agent",
+      "original_url": "https://github.com/TianyuCodings/NanoJev",
+      "version_tag": null,
+      "author_updated": "2026-09-17"
+    },
+    "zhengkid/Dream-RSI": {
+      "pushed_at": "2026-09-16T10:32:18Z",
+      "local_path": "AI Agent/Dream-RSI/README.md",
+      "name": "Dream-RSI",
+      "category": "AI Agent",
+      "original_url": "https://github.com/zhengkid/Dream-RSI",
+      "version_tag": null,
+      "author_updated": "2026-09-16"
     }
   }
 }
