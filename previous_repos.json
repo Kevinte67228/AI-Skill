@@ -1,53 +1,53 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-27",
   "repos": {
     "nilbuild/developer-roadmap": {
-      "pushed_at": "2026-09-18T08:51:13Z",
-      "local_path": "寫程式/developer-roadmap/README.md",
+      "pushed_at": "2026-09-25T13:44:30Z",
+      "local_path": "辦公室應用/developer-roadmap/README.md",
       "name": "developer-roadmap",
-      "category": "寫程式",
+      "category": "辦公室應用",
       "original_url": "https://github.com/nilbuild/developer-roadmap",
       "version_tag": "4.0",
       "author_updated": "2023-01-05"
     },
     "public-apis/public-apis": {
-      "pushed_at": "2026-09-18T19:39:43Z",
+      "pushed_at": "2026-09-26T22:26:20Z",
       "local_path": "寫程式/public-apis/README.md",
       "name": "public-apis",
       "category": "寫程式",
       "original_url": "https://github.com/public-apis/public-apis",
       "version_tag": null,
-      "author_updated": "2026-09-18"
+      "author_updated": "2026-09-26"
     },
     "freeCodeCamp/freeCodeCamp": {
-      "pushed_at": "2026-09-19T17:52:32Z",
+      "pushed_at": "2026-09-26T20:45:02Z",
       "local_path": "寫程式/freeCodeCamp/README.md",
       "name": "freeCodeCamp",
       "category": "寫程式",
       "original_url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "version_tag": null,
-      "author_updated": "2026-09-19"
+      "author_updated": "2026-09-26"
     },
     "EbookFoundation/free-programming-books": {
-      "pushed_at": "2026-09-15T15:54:40Z",
+      "pushed_at": "2026-09-24T12:26:41Z",
       "local_path": "寫程式/free-programming-books/README.md",
       "name": "free-programming-books",
       "category": "寫程式",
       "original_url": "https://github.com/EbookFoundation/free-programming-books",
       "version_tag": null,
-      "author_updated": "2026-09-15"
+      "author_updated": "2026-09-24"
     },
     "vinta/awesome-python": {
-      "pushed_at": "2026-09-18T22:11:03Z",
+      "pushed_at": "2026-09-25T08:04:34Z",
       "local_path": "寫程式/awesome-python/README.md",
       "name": "awesome-python",
       "category": "寫程式",
       "original_url": "https://github.com/vinta/awesome-python",
       "version_tag": null,
-      "author_updated": "2026-09-18"
+      "author_updated": "2026-09-25"
     },
     "awesome-selfhosted/awesome-selfhosted": {
-      "pushed_at": "2026-09-19T17:28:15Z",
+      "pushed_at": "2026-09-26T10:20:27Z",
       "local_path": "寫程式/awesome-selfhosted/README.md",
       "name": "awesome-selfhosted",
       "category": "寫程式",
@@ -56,13 +56,13 @@
       "author_updated": "2023-08-22"
     },
     "practical-tutorials/project-based-learning": {
-      "pushed_at": "2026-09-14T07:10:04Z",
+      "pushed_at": "2026-09-21T07:11:08Z",
       "local_path": "寫程式/project-based-learning/README.md",
       "name": "project-based-learning",
       "category": "寫程式",
       "original_url": "https://github.com/practical-tutorials/project-based-learning",
       "version_tag": null,
-      "author_updated": "2026-09-14"
+      "author_updated": "2026-09-21"
     },
     "react/react": {
       "pushed_at": "2026-08-28T11:10:40Z",
@@ -110,22 +110,22 @@
       "original_url": "https://github.com/antirez/h3.c"
     },
     "openclaw/openclaw": {
-      "pushed_at": "2026-09-19T23:54:04Z",
+      "pushed_at": "2026-09-27T00:19:01Z",
       "local_path": "AI Agent/openclaw/README.md",
       "name": "openclaw",
       "category": "AI Agent",
       "original_url": "https://github.com/openclaw/openclaw",
-      "version_tag": "v2026.9.5",
-      "author_updated": "2026-09-19"
+      "version_tag": "v2026.9.6",
+      "author_updated": "2026-09-23"
     },
     "obra/superpowers": {
-      "pushed_at": "2026-09-19T00:32:57Z",
+      "pushed_at": "2026-09-26T23:03:21Z",
       "local_path": "AI Agent/superpowers/README.md",
       "name": "superpowers",
       "category": "AI Agent",
       "original_url": "https://github.com/obra/superpowers",
-      "version_tag": "v6.4.1",
-      "author_updated": "2026-09-19"
+      "version_tag": "v6.4.2",
+      "author_updated": "2026-09-25"
     },
     "deepseek-ai/deepseek-harness": {
       "pushed_at": "2026-08-13T13:00:21Z",
@@ -272,7 +272,7 @@
       "author_updated": "2026-08-15"
     },
     "mattpocock/skills": {
-      "pushed_at": "2026-09-04T08:45:43Z",
+      "pushed_at": "2026-09-24T14:07:55Z",
       "local_path": "AI Agent/skills/README.md",
       "name": "skills",
       "category": "AI Agent",
@@ -873,6 +873,96 @@
       "original_url": "https://github.com/zhengkid/Dream-RSI",
       "version_tag": null,
       "author_updated": "2026-09-16"
+    },
+    "tobi/disktree": {
+      "pushed_at": "2026-09-25T20:30:10Z",
+      "local_path": "寫程式/disktree/README.md",
+      "name": "disktree",
+      "category": "寫程式",
+      "original_url": "https://github.com/tobi/disktree",
+      "version_tag": "v0.10.1",
+      "author_updated": "2026-09-25"
+    },
+    "JohnHeibel/PDoomVideo": {
+      "pushed_at": "2026-09-25T15:11:03Z",
+      "local_path": "寫程式/PDoomVideo/README.md",
+      "name": "PDoomVideo",
+      "category": "寫程式",
+      "original_url": "https://github.com/JohnHeibel/PDoomVideo",
+      "version_tag": null,
+      "author_updated": "2026-09-25"
+    },
+    "kryvora-network/kryvora-node": {
+      "pushed_at": "2026-09-22T19:02:39Z",
+      "local_path": "寫程式/kryvora-node/README.md",
+      "name": "kryvora-node",
+      "category": "寫程式",
+      "original_url": "https://github.com/kryvora-network/kryvora-node",
+      "version_tag": "v0.2.0",
+      "author_updated": "2026-09-22"
+    },
+    "jev-chat/jev-chat-jarvis": {
+      "pushed_at": "2026-09-26T16:16:56Z",
+      "local_path": "AI Skill/jev-chat-jarvis/README.md",
+      "name": "jev-chat-jarvis",
+      "category": "AI Skill",
+      "original_url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "version_tag": "v1.4",
+      "author_updated": "2026-09-23"
+    },
+    "Contrastive-LM/CLM": {
+      "pushed_at": "2026-09-24T23:10:28Z",
+      "local_path": "AI Skill/CLM/README.md",
+      "name": "CLM",
+      "category": "AI Skill",
+      "original_url": "https://github.com/Contrastive-LM/CLM",
+      "version_tag": null,
+      "author_updated": "2026-09-24"
+    },
+    "deepopen-com/deepopen": {
+      "pushed_at": "2026-09-25T04:28:11Z",
+      "local_path": "AI Skill/deepopen/README.md",
+      "name": "deepopen",
+      "category": "AI Skill",
+      "original_url": "https://github.com/deepopen-com/deepopen",
+      "version_tag": null,
+      "author_updated": "2026-09-25"
+    },
+    "riba2534/claude-opus-5-5-demo": {
+      "pushed_at": "2026-09-23T07:54:16Z",
+      "local_path": "AI Skill/claude-opus-5-5-demo/README.md",
+      "name": "claude-opus-5-5-demo",
+      "category": "AI Skill",
+      "original_url": "https://github.com/riba2534/claude-opus-5-5-demo",
+      "version_tag": null,
+      "author_updated": "2026-09-23"
+    },
+    "unreallabsai/unreal-agent": {
+      "pushed_at": "2026-09-23T19:08:26Z",
+      "local_path": "AI Agent/unreal-agent/README.md",
+      "name": "unreal-agent",
+      "category": "AI Agent",
+      "original_url": "https://github.com/unreallabsai/unreal-agent",
+      "version_tag": "v0.2.0",
+      "author_updated": "2026-09-23"
+    },
+    "yetone/magpie": {
+      "pushed_at": "2026-09-27T00:05:55Z",
+      "local_path": "AI Agent/magpie/README.md",
+      "name": "magpie",
+      "category": "AI Agent",
+      "original_url": "https://github.com/yetone/magpie",
+      "version_tag": "v0.1.156",
+      "author_updated": "2026-09-27"
+    },
+    "mikehasa/golive-skill": {
+      "pushed_at": "2026-09-26T13:24:17Z",
+      "local_path": "AI Agent/golive-skill/README.md",
+      "name": "golive-skill",
+      "category": "AI Agent",
+      "original_url": "https://github.com/mikehasa/golive-skill",
+      "version_tag": "v0.1.0-alpha.4",
+      "author_updated": "2026-09-26"
     }
   }
 }
