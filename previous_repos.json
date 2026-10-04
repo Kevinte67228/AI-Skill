@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-10-04",
   "repos": {
     "nilbuild/developer-roadmap": {
-      "pushed_at": "2026-09-25T13:44:30Z",
+      "pushed_at": "2026-10-02T09:00:46Z",
       "local_path": "辦公室應用/developer-roadmap/README.md",
       "name": "developer-roadmap",
       "category": "辦公室應用",
@@ -11,43 +11,43 @@
       "author_updated": "2023-01-05"
     },
     "public-apis/public-apis": {
-      "pushed_at": "2026-09-26T22:26:20Z",
+      "pushed_at": "2026-10-03T20:19:09Z",
       "local_path": "寫程式/public-apis/README.md",
       "name": "public-apis",
       "category": "寫程式",
       "original_url": "https://github.com/public-apis/public-apis",
       "version_tag": null,
-      "author_updated": "2026-09-26"
+      "author_updated": "2026-10-03"
     },
     "freeCodeCamp/freeCodeCamp": {
-      "pushed_at": "2026-09-26T20:45:02Z",
+      "pushed_at": "2026-10-03T23:11:26Z",
       "local_path": "寫程式/freeCodeCamp/README.md",
       "name": "freeCodeCamp",
       "category": "寫程式",
       "original_url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "version_tag": null,
-      "author_updated": "2026-09-26"
+      "author_updated": "2026-10-03"
     },
     "EbookFoundation/free-programming-books": {
-      "pushed_at": "2026-09-24T12:26:41Z",
+      "pushed_at": "2026-10-02T19:35:16Z",
       "local_path": "寫程式/free-programming-books/README.md",
       "name": "free-programming-books",
       "category": "寫程式",
       "original_url": "https://github.com/EbookFoundation/free-programming-books",
       "version_tag": null,
-      "author_updated": "2026-09-24"
+      "author_updated": "2026-10-02"
     },
     "vinta/awesome-python": {
-      "pushed_at": "2026-09-25T08:04:34Z",
+      "pushed_at": "2026-10-02T12:01:28Z",
       "local_path": "寫程式/awesome-python/README.md",
       "name": "awesome-python",
       "category": "寫程式",
       "original_url": "https://github.com/vinta/awesome-python",
       "version_tag": null,
-      "author_updated": "2026-09-25"
+      "author_updated": "2026-10-02"
     },
     "awesome-selfhosted/awesome-selfhosted": {
-      "pushed_at": "2026-09-26T10:20:27Z",
+      "pushed_at": "2026-10-02T16:22:23Z",
       "local_path": "寫程式/awesome-selfhosted/README.md",
       "name": "awesome-selfhosted",
       "category": "寫程式",
@@ -56,13 +56,13 @@
       "author_updated": "2023-08-22"
     },
     "practical-tutorials/project-based-learning": {
-      "pushed_at": "2026-09-21T07:11:08Z",
+      "pushed_at": "2026-09-28T07:15:21Z",
       "local_path": "寫程式/project-based-learning/README.md",
       "name": "project-based-learning",
       "category": "寫程式",
       "original_url": "https://github.com/practical-tutorials/project-based-learning",
       "version_tag": null,
-      "author_updated": "2026-09-21"
+      "author_updated": "2026-09-28"
     },
     "react/react": {
       "pushed_at": "2026-08-28T11:10:40Z",
@@ -110,16 +110,16 @@
       "original_url": "https://github.com/antirez/h3.c"
     },
     "openclaw/openclaw": {
-      "pushed_at": "2026-09-27T00:19:01Z",
+      "pushed_at": "2026-10-04T00:22:51Z",
       "local_path": "AI Agent/openclaw/README.md",
       "name": "openclaw",
       "category": "AI Agent",
       "original_url": "https://github.com/openclaw/openclaw",
-      "version_tag": "v2026.9.6",
-      "author_updated": "2026-09-23"
+      "version_tag": "v2026.9.8",
+      "author_updated": "2026-10-03"
     },
     "obra/superpowers": {
-      "pushed_at": "2026-09-26T23:03:21Z",
+      "pushed_at": "2026-09-27T02:37:47Z",
       "local_path": "AI Agent/superpowers/README.md",
       "name": "superpowers",
       "category": "AI Agent",
@@ -272,7 +272,7 @@
       "author_updated": "2026-08-15"
     },
     "mattpocock/skills": {
-      "pushed_at": "2026-09-24T14:07:55Z",
+      "pushed_at": "2026-09-29T12:38:37Z",
       "local_path": "AI Agent/skills/README.md",
       "name": "skills",
       "category": "AI Agent",
@@ -963,6 +963,96 @@
       "original_url": "https://github.com/mikehasa/golive-skill",
       "version_tag": "v0.1.0-alpha.4",
       "author_updated": "2026-09-26"
+    },
+    "wy51ai/floorplan-3d": {
+      "pushed_at": "2026-10-02T02:32:11Z",
+      "local_path": "寫程式/floorplan-3d/README.md",
+      "name": "floorplan-3d",
+      "category": "寫程式",
+      "original_url": "https://github.com/wy51ai/floorplan-3d",
+      "version_tag": null,
+      "author_updated": "2026-10-02"
+    },
+    "CAPCOM-TD-OSS/REDox": {
+      "pushed_at": "2026-10-01T10:15:48Z",
+      "local_path": "寫程式/REDox/README.md",
+      "name": "REDox",
+      "category": "寫程式",
+      "original_url": "https://github.com/CAPCOM-TD-OSS/REDox",
+      "version_tag": "v1.0.0",
+      "author_updated": "2026-10-01"
+    },
+    "facebookincubator/muse-gadget-sdk": {
+      "pushed_at": "2026-10-03T19:06:43Z",
+      "local_path": "寫程式/muse-gadget-sdk/README.md",
+      "name": "muse-gadget-sdk",
+      "category": "寫程式",
+      "original_url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "version_tag": null,
+      "author_updated": "2026-10-03"
+    },
+    "rehan-remade/universal-modder": {
+      "pushed_at": "2026-09-30T23:39:09Z",
+      "local_path": "AI Skill/universal-modder/README.md",
+      "name": "universal-modder",
+      "category": "AI Skill",
+      "original_url": "https://github.com/rehan-remade/universal-modder",
+      "version_tag": null,
+      "author_updated": "2026-09-30"
+    },
+    "firelex/jeff": {
+      "pushed_at": "2026-10-01T15:29:40Z",
+      "local_path": "AI Skill/jeff/README.md",
+      "name": "jeff",
+      "category": "AI Skill",
+      "original_url": "https://github.com/firelex/jeff",
+      "version_tag": "v1.2",
+      "author_updated": "2026-10-01"
+    },
+    "nanaism/yomiyasu": {
+      "pushed_at": "2026-10-03T16:28:52Z",
+      "local_path": "AI Skill/yomiyasu/README.md",
+      "name": "yomiyasu",
+      "category": "AI Skill",
+      "original_url": "https://github.com/nanaism/yomiyasu",
+      "version_tag": "v1.0.5",
+      "author_updated": "2026-10-03"
+    },
+    "KKKKhazix/AIHOT": {
+      "pushed_at": "2026-10-03T22:24:24Z",
+      "local_path": "AI Agent/AIHOT/README.md",
+      "name": "AIHOT",
+      "category": "AI Agent",
+      "original_url": "https://github.com/KKKKhazix/AIHOT",
+      "version_tag": null,
+      "author_updated": "2026-10-03"
+    },
+    "feder-cr/dots": {
+      "pushed_at": "2026-10-03T15:21:24Z",
+      "local_path": "AI Agent/dots/README.md",
+      "name": "dots",
+      "category": "AI Agent",
+      "original_url": "https://github.com/feder-cr/dots",
+      "version_tag": null,
+      "author_updated": "2026-10-03"
+    },
+    "CopilotKit/OpenDots": {
+      "pushed_at": "2026-10-02T21:16:45Z",
+      "local_path": "AI Agent/OpenDots/README.md",
+      "name": "OpenDots",
+      "category": "AI Agent",
+      "original_url": "https://github.com/CopilotKit/OpenDots",
+      "version_tag": null,
+      "author_updated": "2026-10-02"
+    },
+    "edenfunf/reelmimic": {
+      "pushed_at": "2026-10-02T18:25:24Z",
+      "local_path": "AI Agent/reelmimic/README.md",
+      "name": "reelmimic",
+      "category": "AI Agent",
+      "original_url": "https://github.com/edenfunf/reelmimic",
+      "version_tag": null,
+      "author_updated": "2026-10-02"
     }
   }
 }
