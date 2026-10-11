@@ -1,53 +1,53 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-11",
   "repos": {
     "nilbuild/developer-roadmap": {
-      "pushed_at": "2026-10-02T09:00:46Z",
-      "local_path": "辦公室應用/developer-roadmap/README.md",
+      "pushed_at": "2026-10-09T17:39:16Z",
+      "local_path": "寫程式/developer-roadmap/README.md",
       "name": "developer-roadmap",
-      "category": "辦公室應用",
+      "category": "寫程式",
       "original_url": "https://github.com/nilbuild/developer-roadmap",
       "version_tag": "4.0",
       "author_updated": "2023-01-05"
     },
     "public-apis/public-apis": {
-      "pushed_at": "2026-10-03T20:19:09Z",
+      "pushed_at": "2026-10-10T19:45:58Z",
       "local_path": "寫程式/public-apis/README.md",
       "name": "public-apis",
       "category": "寫程式",
       "original_url": "https://github.com/public-apis/public-apis",
       "version_tag": null,
-      "author_updated": "2026-10-03"
+      "author_updated": "2026-10-10"
     },
     "freeCodeCamp/freeCodeCamp": {
-      "pushed_at": "2026-10-03T23:11:26Z",
+      "pushed_at": "2026-10-09T19:43:18Z",
       "local_path": "寫程式/freeCodeCamp/README.md",
       "name": "freeCodeCamp",
       "category": "寫程式",
       "original_url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "version_tag": null,
-      "author_updated": "2026-10-03"
+      "author_updated": "2026-10-09"
     },
     "EbookFoundation/free-programming-books": {
-      "pushed_at": "2026-10-02T19:35:16Z",
+      "pushed_at": "2026-10-09T22:57:13Z",
       "local_path": "寫程式/free-programming-books/README.md",
       "name": "free-programming-books",
       "category": "寫程式",
       "original_url": "https://github.com/EbookFoundation/free-programming-books",
       "version_tag": null,
-      "author_updated": "2026-10-02"
+      "author_updated": "2026-10-09"
     },
     "vinta/awesome-python": {
-      "pushed_at": "2026-10-02T12:01:28Z",
+      "pushed_at": "2026-10-10T11:10:01Z",
       "local_path": "寫程式/awesome-python/README.md",
       "name": "awesome-python",
       "category": "寫程式",
       "original_url": "https://github.com/vinta/awesome-python",
       "version_tag": null,
-      "author_updated": "2026-10-02"
+      "author_updated": "2026-10-10"
     },
     "awesome-selfhosted/awesome-selfhosted": {
-      "pushed_at": "2026-10-02T16:22:23Z",
+      "pushed_at": "2026-10-10T10:35:27Z",
       "local_path": "寫程式/awesome-selfhosted/README.md",
       "name": "awesome-selfhosted",
       "category": "寫程式",
@@ -56,13 +56,13 @@
       "author_updated": "2023-08-22"
     },
     "practical-tutorials/project-based-learning": {
-      "pushed_at": "2026-09-28T07:15:21Z",
+      "pushed_at": "2026-10-05T07:20:21Z",
       "local_path": "寫程式/project-based-learning/README.md",
       "name": "project-based-learning",
       "category": "寫程式",
       "original_url": "https://github.com/practical-tutorials/project-based-learning",
       "version_tag": null,
-      "author_updated": "2026-09-28"
+      "author_updated": "2026-10-05"
     },
     "react/react": {
       "pushed_at": "2026-08-28T11:10:40Z",
@@ -110,22 +110,22 @@
       "original_url": "https://github.com/antirez/h3.c"
     },
     "openclaw/openclaw": {
-      "pushed_at": "2026-10-04T00:22:51Z",
+      "pushed_at": "2026-10-11T00:42:45Z",
       "local_path": "AI Agent/openclaw/README.md",
       "name": "openclaw",
       "category": "AI Agent",
       "original_url": "https://github.com/openclaw/openclaw",
-      "version_tag": "v2026.9.8",
-      "author_updated": "2026-10-03"
+      "version_tag": "v2026.10.1",
+      "author_updated": "2026-10-10"
     },
     "obra/superpowers": {
-      "pushed_at": "2026-09-27T02:37:47Z",
+      "pushed_at": "2026-10-10T03:03:30Z",
       "local_path": "AI Agent/superpowers/README.md",
       "name": "superpowers",
       "category": "AI Agent",
       "original_url": "https://github.com/obra/superpowers",
-      "version_tag": "v6.4.2",
-      "author_updated": "2026-09-25"
+      "version_tag": "v7.0.0",
+      "author_updated": "2026-10-10"
     },
     "deepseek-ai/deepseek-harness": {
       "pushed_at": "2026-08-13T13:00:21Z",
@@ -272,13 +272,13 @@
       "author_updated": "2026-08-15"
     },
     "mattpocock/skills": {
-      "pushed_at": "2026-09-29T12:38:37Z",
-      "local_path": "AI Agent/skills/README.md",
+      "pushed_at": "2026-10-09T10:57:08Z",
+      "local_path": "AI Skill/skills/README.md",
       "name": "skills",
-      "category": "AI Agent",
+      "category": "AI Skill",
       "original_url": "https://github.com/mattpocock/skills",
-      "version_tag": "v1.2.3",
-      "author_updated": "2026-08-06"
+      "version_tag": "v1.3.1",
+      "author_updated": "2026-10-04"
     },
     "yjh051108/dsh-routing-suite": {
       "pushed_at": "2026-08-15T20:29:05Z",
@@ -1053,6 +1053,96 @@
       "original_url": "https://github.com/edenfunf/reelmimic",
       "version_tag": null,
       "author_updated": "2026-10-02"
+    },
+    "storytold/wordcraft": {
+      "pushed_at": "2026-10-11T00:36:07Z",
+      "local_path": "辦公室應用/wordcraft/README.md",
+      "name": "wordcraft",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/storytold/wordcraft",
+      "version_tag": "v0.5.0",
+      "author_updated": "2026-10-11"
+    },
+    "LosaLosSantos/aurelio-finance": {
+      "pushed_at": "2026-10-11T00:29:33Z",
+      "local_path": "辦公室應用/aurelio-finance/README.md",
+      "name": "aurelio-finance",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "version_tag": null,
+      "author_updated": "2026-10-11"
+    },
+    "storytold/cadcraft": {
+      "pushed_at": "2026-10-11T00:11:32Z",
+      "local_path": "辦公室應用/cadcraft/README.md",
+      "name": "cadcraft",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/storytold/cadcraft",
+      "version_tag": "v0.5.0",
+      "author_updated": "2026-10-11"
+    },
+    "storytold/gridcraft": {
+      "pushed_at": "2026-10-10T23:50:04Z",
+      "local_path": "辦公室應用/gridcraft/README.md",
+      "name": "gridcraft",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/storytold/gridcraft",
+      "version_tag": "v0.5.0",
+      "author_updated": "2026-10-10"
+    },
+    "nullmoth/nvidia-macos-driver": {
+      "pushed_at": "2026-10-11T00:20:14Z",
+      "local_path": "寫程式/nvidia-macos-driver/README.md",
+      "name": "nvidia-macos-driver",
+      "category": "寫程式",
+      "original_url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "version_tag": "v1.11.0",
+      "author_updated": "2026-10-11"
+    },
+    "noahdunnagan/fsearch": {
+      "pushed_at": "2026-10-10T18:41:06Z",
+      "local_path": "寫程式/fsearch/README.md",
+      "name": "fsearch",
+      "category": "寫程式",
+      "original_url": "https://github.com/noahdunnagan/fsearch",
+      "version_tag": null,
+      "author_updated": "2026-10-10"
+    },
+    "openai/math": {
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "local_path": "AI Skill/math/README.md",
+      "name": "math",
+      "category": "AI Skill",
+      "original_url": "https://github.com/openai/math",
+      "version_tag": null,
+      "author_updated": "2026-10-08"
+    },
+    "alchaincyf/huashu-art-motion": {
+      "pushed_at": "2026-10-10T10:03:21Z",
+      "local_path": "AI Skill/huashu-art-motion/README.md",
+      "name": "huashu-art-motion",
+      "category": "AI Skill",
+      "original_url": "https://github.com/alchaincyf/huashu-art-motion",
+      "version_tag": "v1.0.0",
+      "author_updated": "2026-10-06"
+    },
+    "mhtsec/ARTEX": {
+      "pushed_at": "2026-10-10T09:16:20Z",
+      "local_path": "AI Agent/ARTEX/README.md",
+      "name": "ARTEX",
+      "category": "AI Agent",
+      "original_url": "https://github.com/mhtsec/ARTEX",
+      "version_tag": "v0.3.15",
+      "author_updated": "2026-10-10"
+    },
+    "zhongerxin/iPhone-use": {
+      "pushed_at": "2026-10-10T13:58:28Z",
+      "local_path": "AI Agent/iPhone-use/README.md",
+      "name": "iPhone-use",
+      "category": "AI Agent",
+      "original_url": "https://github.com/zhongerxin/iPhone-use",
+      "version_tag": "v0.3.10",
+      "author_updated": "2026-10-10"
     }
   }
 }
