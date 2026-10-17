@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-17",
   "repos": {
     "nilbuild/developer-roadmap": {
-      "pushed_at": "2026-10-09T17:39:16Z",
+      "pushed_at": "2026-10-16T16:41:47Z",
       "local_path": "寫程式/developer-roadmap/README.md",
       "name": "developer-roadmap",
       "category": "寫程式",
@@ -11,43 +11,43 @@
       "author_updated": "2023-01-05"
     },
     "public-apis/public-apis": {
-      "pushed_at": "2026-10-10T19:45:58Z",
+      "pushed_at": "2026-10-17T17:36:01Z",
       "local_path": "寫程式/public-apis/README.md",
       "name": "public-apis",
       "category": "寫程式",
       "original_url": "https://github.com/public-apis/public-apis",
       "version_tag": null,
-      "author_updated": "2026-10-10"
+      "author_updated": "2026-10-17"
     },
     "freeCodeCamp/freeCodeCamp": {
-      "pushed_at": "2026-10-09T19:43:18Z",
+      "pushed_at": "2026-10-17T19:09:20Z",
       "local_path": "寫程式/freeCodeCamp/README.md",
       "name": "freeCodeCamp",
       "category": "寫程式",
       "original_url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "version_tag": null,
-      "author_updated": "2026-10-09"
+      "author_updated": "2026-10-17"
     },
     "EbookFoundation/free-programming-books": {
-      "pushed_at": "2026-10-09T22:57:13Z",
+      "pushed_at": "2026-10-16T01:18:57Z",
       "local_path": "寫程式/free-programming-books/README.md",
       "name": "free-programming-books",
       "category": "寫程式",
       "original_url": "https://github.com/EbookFoundation/free-programming-books",
       "version_tag": null,
-      "author_updated": "2026-10-09"
+      "author_updated": "2026-10-16"
     },
     "vinta/awesome-python": {
-      "pushed_at": "2026-10-10T11:10:01Z",
+      "pushed_at": "2026-10-17T08:58:57Z",
       "local_path": "寫程式/awesome-python/README.md",
       "name": "awesome-python",
       "category": "寫程式",
       "original_url": "https://github.com/vinta/awesome-python",
       "version_tag": null,
-      "author_updated": "2026-10-10"
+      "author_updated": "2026-10-17"
     },
     "awesome-selfhosted/awesome-selfhosted": {
-      "pushed_at": "2026-10-10T10:35:27Z",
+      "pushed_at": "2026-10-16T14:01:06Z",
       "local_path": "寫程式/awesome-selfhosted/README.md",
       "name": "awesome-selfhosted",
       "category": "寫程式",
@@ -56,13 +56,13 @@
       "author_updated": "2023-08-22"
     },
     "practical-tutorials/project-based-learning": {
-      "pushed_at": "2026-10-05T07:20:21Z",
+      "pushed_at": "2026-10-12T07:22:00Z",
       "local_path": "寫程式/project-based-learning/README.md",
       "name": "project-based-learning",
       "category": "寫程式",
       "original_url": "https://github.com/practical-tutorials/project-based-learning",
       "version_tag": null,
-      "author_updated": "2026-10-05"
+      "author_updated": "2026-10-12"
     },
     "react/react": {
       "pushed_at": "2026-08-28T11:10:40Z",
@@ -110,13 +110,13 @@
       "original_url": "https://github.com/antirez/h3.c"
     },
     "openclaw/openclaw": {
-      "pushed_at": "2026-10-11T00:42:45Z",
+      "pushed_at": "2026-10-17T23:48:59Z",
       "local_path": "AI Agent/openclaw/README.md",
       "name": "openclaw",
       "category": "AI Agent",
       "original_url": "https://github.com/openclaw/openclaw",
-      "version_tag": "v2026.10.1",
-      "author_updated": "2026-10-10"
+      "version_tag": "v2026.10.4",
+      "author_updated": "2026-10-16"
     },
     "obra/superpowers": {
       "pushed_at": "2026-10-10T03:03:30Z",
@@ -272,7 +272,7 @@
       "author_updated": "2026-08-15"
     },
     "mattpocock/skills": {
-      "pushed_at": "2026-10-09T10:57:08Z",
+      "pushed_at": "2026-10-13T08:46:40Z",
       "local_path": "AI Skill/skills/README.md",
       "name": "skills",
       "category": "AI Skill",
@@ -1143,6 +1143,105 @@
       "original_url": "https://github.com/zhongerxin/iPhone-use",
       "version_tag": "v0.3.10",
       "author_updated": "2026-10-10"
+    },
+    "jhaizhou-ops/d2r-mobile": {
+      "pushed_at": "2026-10-17T14:08:55Z",
+      "local_path": "寫程式/d2r-mobile/README.md",
+      "name": "d2r-mobile",
+      "category": "寫程式",
+      "original_url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "version_tag": "v1.0.18",
+      "author_updated": "2026-10-17"
+    },
+    "liseami/CCBaga": {
+      "pushed_at": "2026-10-15T14:13:44Z",
+      "local_path": "寫程式/CCBaga/README.md",
+      "name": "CCBaga",
+      "category": "寫程式",
+      "original_url": "https://github.com/liseami/CCBaga",
+      "version_tag": "v0.2.48",
+      "author_updated": "2026-10-15"
+    },
+    "HeyPuter/everything": {
+      "pushed_at": "2026-10-17T23:09:54Z",
+      "local_path": "寫程式/everything/README.md",
+      "name": "everything",
+      "category": "寫程式",
+      "original_url": "https://github.com/HeyPuter/everything",
+      "version_tag": null,
+      "author_updated": "2026-10-17"
+    },
+    "ahwootech/BRUTAL": {
+      "pushed_at": "2026-10-16T00:11:10Z",
+      "local_path": "寫程式/BRUTAL/README.md",
+      "name": "BRUTAL",
+      "category": "寫程式",
+      "original_url": "https://github.com/ahwootech/BRUTAL",
+      "version_tag": null,
+      "author_updated": "2026-10-16"
+    },
+    "deeplethe/solid-glass": {
+      "pushed_at": "2026-10-16T04:35:40Z",
+      "local_path": "寫程式/solid-glass/README.md",
+      "name": "solid-glass",
+      "category": "寫程式",
+      "original_url": "https://github.com/deeplethe/solid-glass",
+      "version_tag": null,
+      "author_updated": "2026-10-16"
+    },
+    "Supermedo/uncharted_pc": {
+      "pushed_at": "2026-10-17T23:37:21Z",
+      "local_path": "寫程式/uncharted_pc/README.md",
+      "name": "uncharted_pc",
+      "category": "寫程式",
+      "original_url": "https://github.com/Supermedo/uncharted_pc",
+      "version_tag": "v0.3.6",
+      "author_updated": "2026-10-17"
+    },
+    "Arekejoker/qwen21-nsfw-pose-skill": {
+      "pushed_at": "2026-10-17T04:54:54Z",
+      "local_path": "AI Skill/qwen21-nsfw-pose-skill/README.md",
+      "name": "qwen21-nsfw-pose-skill",
+      "category": "AI Skill",
+      "original_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "version_tag": "v1.0.0",
+      "author_updated": "2026-10-13"
+    },
+    "chenglou/handwired": {
+      "pushed_at": "2026-10-17T01:12:12Z",
+      "local_path": "AI Skill/handwired/README.md",
+      "name": "handwired",
+      "category": "AI Skill",
+      "original_url": "https://github.com/chenglou/handwired",
+      "version_tag": "json-regex-experiments-2026-10",
+      "author_updated": "2026-10-17"
+    },
+    "feder-cr/git-ai": {
+      "pushed_at": "2026-10-16T23:02:12Z",
+      "local_path": "AI Skill/git-ai/README.md",
+      "name": "git-ai",
+      "category": "AI Skill",
+      "original_url": "https://github.com/feder-cr/git-ai",
+      "version_tag": "v0.1.0",
+      "author_updated": "2026-10-15"
+    },
+    "morluto/rea": {
+      "pushed_at": "2026-10-17T23:42:58Z",
+      "local_path": "AI Agent/rea/README.md",
+      "name": "rea",
+      "category": "AI Agent",
+      "original_url": "https://github.com/morluto/rea",
+      "version_tag": "rea-agents-6.5.0",
+      "author_updated": "2026-10-14"
+    },
+    "onehumanbeing/esp32-iphone-agent": {
+      "pushed_at": "2026-10-17T12:35:10Z",
+      "local_path": "AI Agent/esp32-iphone-agent/README.md",
+      "name": "esp32-iphone-agent",
+      "category": "AI Agent",
+      "original_url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "version_tag": "v0.1.0",
+      "author_updated": "2026-10-14"
     }
   }
 }

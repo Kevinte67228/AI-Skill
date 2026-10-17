@@ -1,6 +1,6 @@
 # 📋 專案快速索引
 
-共收錄 127 個專案，最後更新於 2026-10-11
+共收錄 138 個專案，最後更新於 2026-10-17
 
 
 ## 辦公室應用（16）
@@ -24,26 +24,30 @@
 | workout-guide | v1.0.0 | 2026-08-24 | [辦公室應用/workout-guide](辦公室應用/workout-guide) |
 | youtube-music | v1.0.0 | 2026-08-11 | [辦公室應用/youtube-music](辦公室應用/youtube-music) |
 
-## 寫程式（40）
+## 寫程式（46）
 
 | 專案 | 版本 | 作者最後更新 | 快速連結 |
 |---|---|---|---|
 | anti-slop | - | 2026-08-14 | [寫程式/anti-slop](寫程式/anti-slop) |
 | awesome | - | 2026-09-02 | [寫程式/awesome](寫程式/awesome) |
-| awesome-python | - | 2026-10-10 | [寫程式/awesome-python](寫程式/awesome-python) |
+| awesome-python | - | 2026-10-17 | [寫程式/awesome-python](寫程式/awesome-python) |
 | awesome-selfhosted | 1.0.0 | 2023-08-22 | [寫程式/awesome-selfhosted](寫程式/awesome-selfhosted) |
 | bank-sampah | - | 2026-09-11 | [寫程式/bank-sampah](寫程式/bank-sampah) |
+| BRUTAL | - | 2026-10-16 | [寫程式/BRUTAL](寫程式/BRUTAL) |
+| CCBaga | v0.2.48 | 2026-10-15 | [寫程式/CCBaga](寫程式/CCBaga) |
 | cn | cn@0.2.5 | 2026-09-04 | [寫程式/cn](寫程式/cn) |
+| d2r-mobile | v1.0.18 | 2026-10-17 | [寫程式/d2r-mobile](寫程式/d2r-mobile) |
 | deploy-vercel | - | 2026-08-18 | [寫程式/deploy-vercel](寫程式/deploy-vercel) |
 | developer-roadmap | 4.0 | 2023-01-05 | [寫程式/developer-roadmap](寫程式/developer-roadmap) |
 | disktree | v0.10.1 | 2026-09-25 | [寫程式/disktree](寫程式/disktree) |
 | dlssg_for_sm86 | - | 2026-09-10 | [寫程式/dlssg_for_sm86](寫程式/dlssg_for_sm86) |
 | dsh-deep-whale | - | 2026-08-15 | [寫程式/dsh-deep-whale](寫程式/dsh-deep-whale) |
 | eve-software-factory-template | - | 2026-08-14 | [寫程式/eve-software-factory-template](寫程式/eve-software-factory-template) |
+| everything | - | 2026-10-17 | [寫程式/everything](寫程式/everything) |
 | fermats-last-theorem | - | 2026-09-04 | [寫程式/fermats-last-theorem](寫程式/fermats-last-theorem) |
 | floorplan-3d | - | 2026-10-02 | [寫程式/floorplan-3d](寫程式/floorplan-3d) |
-| free-programming-books | - | 2026-10-09 | [寫程式/free-programming-books](寫程式/free-programming-books) |
-| freeCodeCamp | - | 2026-10-09 | [寫程式/freeCodeCamp](寫程式/freeCodeCamp) |
+| free-programming-books | - | 2026-10-16 | [寫程式/free-programming-books](寫程式/free-programming-books) |
+| freeCodeCamp | - | 2026-10-17 | [寫程式/freeCodeCamp](寫程式/freeCodeCamp) |
 | fsearch | - | 2026-10-10 | [寫程式/fsearch](寫程式/fsearch) |
 | javascript-algorithms | - | 2026-07-26 | [寫程式/javascript-algorithms](寫程式/javascript-algorithms) |
 | kryvora-node | v0.2.0 | 2026-09-22 | [寫程式/kryvora-node](寫程式/kryvora-node) |
@@ -57,19 +61,21 @@
 | paper | v8 | 2026-08-13 | [寫程式/paper](寫程式/paper) |
 | PDoomVideo | - | 2026-09-25 | [寫程式/PDoomVideo](寫程式/PDoomVideo) |
 | polyledger | - | 2026-09-02 | [寫程式/polyledger](寫程式/polyledger) |
-| project-based-learning | - | 2026-10-05 | [寫程式/project-based-learning](寫程式/project-based-learning) |
-| public-apis | - | 2026-10-10 | [寫程式/public-apis](寫程式/public-apis) |
+| project-based-learning | - | 2026-10-12 | [寫程式/project-based-learning](寫程式/project-based-learning) |
+| public-apis | - | 2026-10-17 | [寫程式/public-apis](寫程式/public-apis) |
 | Python | - | 2026-08-03 | [寫程式/Python](寫程式/Python) |
 | react | v19.2.8 | 2026-07-21 | [寫程式/react](寫程式/react) |
 | REDox | v1.0.0 | 2026-10-01 | [寫程式/REDox](寫程式/REDox) |
 | skitter-creek-bath-salts | - | 2026-08-13 | [寫程式/skitter-creek-bath-salts](寫程式/skitter-creek-bath-salts) |
+| solid-glass | - | 2026-10-16 | [寫程式/solid-glass](寫程式/solid-glass) |
 | system-design-primer | pre-2026-refresh | 2026-09-15 | [寫程式/system-design-primer](寫程式/system-design-primer) |
 | threeui | - | 2026-08-22 | [寫程式/threeui](寫程式/threeui) |
 | try-omarchy | v0.2.0 | 2026-08-27 | [寫程式/try-omarchy](寫程式/try-omarchy) |
+| uncharted_pc | v0.3.6 | 2026-10-17 | [寫程式/uncharted_pc](寫程式/uncharted_pc) |
 | vanity-eth | - | 2026-08-21 | [寫程式/vanity-eth](寫程式/vanity-eth) |
 | walgit | - | 2026-08-27 | [寫程式/walgit](寫程式/walgit) |
 
-## AI Skill（32）
+## AI Skill（35）
 
 | 專案 | 版本 | 作者最後更新 | 快速連結 |
 |---|---|---|---|
@@ -83,7 +89,9 @@
 | DeepSeek-V4-J-Space-Capability-Realization-Report | v1.0 | 2026-08-18 | [AI Skill/DeepSeek-V4-J-Space-Capability-Realization-Report](AI%20Skill/DeepSeek-V4-J-Space-Capability-Realization-Report) |
 | DLSS-NR-on-AMD | v0.2.12 | 2026-09-05 | [AI Skill/DLSS-NR-on-AMD](AI%20Skill/DLSS-NR-on-AMD) |
 | Edge0 | - | 2026-09-11 | [AI Skill/Edge0](AI%20Skill/Edge0) |
+| git-ai | v0.1.0 | 2026-10-15 | [AI Skill/git-ai](AI%20Skill/git-ai) |
 | h3.c | - | 2026-08-11 | [AI Skill/h3.c](AI%20Skill/h3.c) |
+| handwired | json-regex-experiments-2026-10 | 2026-10-17 | [AI Skill/handwired](AI%20Skill/handwired) |
 | holo-card-studio | - | 2026-09-12 | [AI Skill/holo-card-studio](AI%20Skill/holo-card-studio) |
 | huashu-art-motion | v1.0.0 | 2026-10-06 | [AI Skill/huashu-art-motion](AI%20Skill/huashu-art-motion) |
 | ip-as-logo-skill | - | 2026-08-22 | [AI Skill/ip-as-logo-skill](AI%20Skill/ip-as-logo-skill) |
@@ -93,6 +101,7 @@
 | jianying-headless | - | 2026-09-19 | [AI Skill/jianying-headless](AI%20Skill/jianying-headless) |
 | math | - | 2026-10-08 | [AI Skill/math](AI%20Skill/math) |
 | open-higgsfield | - | 2026-08-26 | [AI Skill/open-higgsfield](AI%20Skill/open-higgsfield) |
+| qwen21-nsfw-pose-skill | v1.0.0 | 2026-10-13 | [AI Skill/qwen21-nsfw-pose-skill](AI%20Skill/qwen21-nsfw-pose-skill) |
 | reverify | v0.11.0 | 2026-09-04 | [AI Skill/reverify](AI%20Skill/reverify) |
 | screenwriting-skills | - | 2026-09-12 | [AI Skill/screenwriting-skills](AI%20Skill/screenwriting-skills) |
 | SemIf | - | 2026-09-19 | [AI Skill/SemIf](AI%20Skill/SemIf) |
@@ -106,7 +115,7 @@
 | WeMM-Embedding | - | 2026-08-28 | [AI Skill/WeMM-Embedding](AI%20Skill/WeMM-Embedding) |
 | yomiyasu | v1.0.5 | 2026-10-03 | [AI Skill/yomiyasu](AI%20Skill/yomiyasu) |
 
-## AI Agent（39）
+## AI Agent（41）
 
 | 專案 | 版本 | 作者最後更新 | 快速連結 |
 |---|---|---|---|
@@ -128,6 +137,7 @@
 | dsh-TUI | v0.6.1 | 2026-08-15 | [AI Agent/dsh-TUI](AI%20Agent/dsh-TUI) |
 | dsh-web-ui | v0.1.16 | 2026-08-15 | [AI Agent/dsh-web-ui](AI%20Agent/dsh-web-ui) |
 | ECC | v2.2.1 | 2026-09-08 | [AI Agent/ECC](AI%20Agent/ECC) |
+| esp32-iphone-agent | v0.1.0 | 2026-10-14 | [AI Agent/esp32-iphone-agent](AI%20Agent/esp32-iphone-agent) |
 | fast-jev-compaction | - | 2026-09-18 | [AI Agent/fast-jev-compaction](AI%20Agent/fast-jev-compaction) |
 | golive-skill | v0.1.0-alpha.4 | 2026-09-26 | [AI Agent/golive-skill](AI%20Agent/golive-skill) |
 | grok-bot-0.18-reconstructed | - | 2026-08-23 | [AI Agent/grok-bot-0.18-reconstructed](AI%20Agent/grok-bot-0.18-reconstructed) |
@@ -138,12 +148,13 @@
 | magpie | v0.1.156 | 2026-09-27 | [AI Agent/magpie](AI%20Agent/magpie) |
 | NanoJev | - | 2026-09-17 | [AI Agent/NanoJev](AI%20Agent/NanoJev) |
 | OpenBot | v0.0.4 | 2026-08-22 | [AI Agent/OpenBot](AI%20Agent/OpenBot) |
-| openclaw | v2026.10.1 | 2026-10-10 | [AI Agent/openclaw](AI%20Agent/openclaw) |
+| openclaw | v2026.10.4 | 2026-10-16 | [AI Agent/openclaw](AI%20Agent/openclaw) |
 | opencode | v1.18.18 | 2026-08-13 | [AI Agent/opencode](AI%20Agent/opencode) |
 | OpenDots | - | 2026-10-02 | [AI Agent/OpenDots](AI%20Agent/OpenDots) |
 | OpenMausBot | - | 2026-08-14 | [AI Agent/OpenMausBot](AI%20Agent/OpenMausBot) |
 | pi-from-scratch | - | 2026-08-12 | [AI Agent/pi-from-scratch](AI%20Agent/pi-from-scratch) |
 | PRAXIST | 0.5.0 | 2026-08-28 | [AI Agent/PRAXIST](AI%20Agent/PRAXIST) |
+| rea | rea-agents-6.5.0 | 2026-10-14 | [AI Agent/rea](AI%20Agent/rea) |
 | reelmimic | - | 2026-10-02 | [AI Agent/reelmimic](AI%20Agent/reelmimic) |
 | sprix-sage-router | v0.1.0 | 2026-08-21 | [AI Agent/sprix-sage-router](AI%20Agent/sprix-sage-router) |
 | superpowers | v7.0.0 | 2026-10-10 | [AI Agent/superpowers](AI%20Agent/superpowers) |
