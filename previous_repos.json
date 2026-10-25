@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-25",
   "repos": {
     "nilbuild/developer-roadmap": {
-      "pushed_at": "2026-10-16T16:41:47Z",
+      "pushed_at": "2026-10-23T12:39:16Z",
       "local_path": "寫程式/developer-roadmap/README.md",
       "name": "developer-roadmap",
       "category": "寫程式",
@@ -11,43 +11,43 @@
       "author_updated": "2023-01-05"
     },
     "public-apis/public-apis": {
-      "pushed_at": "2026-10-17T17:36:01Z",
+      "pushed_at": "2026-10-24T09:30:33Z",
       "local_path": "寫程式/public-apis/README.md",
       "name": "public-apis",
       "category": "寫程式",
       "original_url": "https://github.com/public-apis/public-apis",
       "version_tag": null,
-      "author_updated": "2026-10-17"
+      "author_updated": "2026-10-24"
     },
     "freeCodeCamp/freeCodeCamp": {
-      "pushed_at": "2026-10-17T19:09:20Z",
+      "pushed_at": "2026-10-24T08:25:15Z",
       "local_path": "寫程式/freeCodeCamp/README.md",
       "name": "freeCodeCamp",
       "category": "寫程式",
       "original_url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "version_tag": null,
-      "author_updated": "2026-10-17"
+      "author_updated": "2026-10-24"
     },
     "EbookFoundation/free-programming-books": {
-      "pushed_at": "2026-10-16T01:18:57Z",
+      "pushed_at": "2026-10-22T14:45:58Z",
       "local_path": "寫程式/free-programming-books/README.md",
       "name": "free-programming-books",
       "category": "寫程式",
       "original_url": "https://github.com/EbookFoundation/free-programming-books",
       "version_tag": null,
-      "author_updated": "2026-10-16"
+      "author_updated": "2026-10-22"
     },
     "vinta/awesome-python": {
-      "pushed_at": "2026-10-17T08:58:57Z",
+      "pushed_at": "2026-10-22T19:52:53Z",
       "local_path": "寫程式/awesome-python/README.md",
       "name": "awesome-python",
       "category": "寫程式",
       "original_url": "https://github.com/vinta/awesome-python",
       "version_tag": null,
-      "author_updated": "2026-10-17"
+      "author_updated": "2026-10-22"
     },
     "awesome-selfhosted/awesome-selfhosted": {
-      "pushed_at": "2026-10-16T14:01:06Z",
+      "pushed_at": "2026-10-22T14:44:35Z",
       "local_path": "寫程式/awesome-selfhosted/README.md",
       "name": "awesome-selfhosted",
       "category": "寫程式",
@@ -110,22 +110,22 @@
       "original_url": "https://github.com/antirez/h3.c"
     },
     "openclaw/openclaw": {
-      "pushed_at": "2026-10-17T23:48:59Z",
+      "pushed_at": "2026-10-25T00:02:32Z",
       "local_path": "AI Agent/openclaw/README.md",
       "name": "openclaw",
       "category": "AI Agent",
       "original_url": "https://github.com/openclaw/openclaw",
-      "version_tag": "v2026.10.4",
-      "author_updated": "2026-10-16"
+      "version_tag": "v2026.10.7",
+      "author_updated": "2026-10-24"
     },
     "obra/superpowers": {
-      "pushed_at": "2026-10-10T03:03:30Z",
+      "pushed_at": "2026-10-23T03:48:57Z",
       "local_path": "AI Agent/superpowers/README.md",
       "name": "superpowers",
       "category": "AI Agent",
       "original_url": "https://github.com/obra/superpowers",
-      "version_tag": "v7.0.0",
-      "author_updated": "2026-10-10"
+      "version_tag": "v7.0.1",
+      "author_updated": "2026-10-21"
     },
     "deepseek-ai/deepseek-harness": {
       "pushed_at": "2026-08-13T13:00:21Z",
@@ -272,10 +272,10 @@
       "author_updated": "2026-08-15"
     },
     "mattpocock/skills": {
-      "pushed_at": "2026-10-13T08:46:40Z",
-      "local_path": "AI Skill/skills/README.md",
+      "pushed_at": "2026-10-22T09:35:28Z",
+      "local_path": "AI Agent/skills/README.md",
       "name": "skills",
-      "category": "AI Skill",
+      "category": "AI Agent",
       "original_url": "https://github.com/mattpocock/skills",
       "version_tag": "v1.3.1",
       "author_updated": "2026-10-04"
@@ -1226,13 +1226,13 @@
       "author_updated": "2026-10-15"
     },
     "morluto/rea": {
-      "pushed_at": "2026-10-17T23:42:58Z",
+      "pushed_at": "2026-10-25T00:02:31Z",
       "local_path": "AI Agent/rea/README.md",
       "name": "rea",
       "category": "AI Agent",
       "original_url": "https://github.com/morluto/rea",
-      "version_tag": "rea-agents-6.5.0",
-      "author_updated": "2026-10-14"
+      "version_tag": "rea-agents-6.7.0",
+      "author_updated": "2026-10-18"
     },
     "onehumanbeing/esp32-iphone-agent": {
       "pushed_at": "2026-10-17T12:35:10Z",
@@ -1242,6 +1242,96 @@
       "original_url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "version_tag": "v0.1.0",
       "author_updated": "2026-10-14"
+    },
+    "pengchujin/aerial-tv": {
+      "pushed_at": "2026-10-24T16:37:02Z",
+      "local_path": "辦公室應用/aerial-tv/README.md",
+      "name": "aerial-tv",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/pengchujin/aerial-tv",
+      "version_tag": "v1.47",
+      "author_updated": "2026-10-24"
+    },
+    "simbasjungles/free-my-tv": {
+      "pushed_at": "2026-10-24T20:35:07Z",
+      "local_path": "辦公室應用/free-my-tv/README.md",
+      "name": "free-my-tv",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/simbasjungles/free-my-tv",
+      "version_tag": "v1.2.0",
+      "author_updated": "2026-10-24"
+    },
+    "EthanArbuckle/fairplay-decrypt": {
+      "pushed_at": "2026-10-24T21:59:52Z",
+      "local_path": "寫程式/fairplay-decrypt/README.md",
+      "name": "fairplay-decrypt",
+      "category": "寫程式",
+      "original_url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+      "version_tag": null,
+      "author_updated": "2026-10-24"
+    },
+    "ikow/php2shell-poc": {
+      "pushed_at": "2026-10-22T22:41:36Z",
+      "local_path": "寫程式/php2shell-poc/README.md",
+      "name": "php2shell-poc",
+      "category": "寫程式",
+      "original_url": "https://github.com/ikow/php2shell-poc",
+      "version_tag": null,
+      "author_updated": "2026-10-22"
+    },
+    "xevrion/hatchzip": {
+      "pushed_at": "2026-10-24T17:04:55Z",
+      "local_path": "寫程式/hatchzip/README.md",
+      "name": "hatchzip",
+      "category": "寫程式",
+      "original_url": "https://github.com/xevrion/hatchzip",
+      "version_tag": "v0.1.3",
+      "author_updated": "2026-10-24"
+    },
+    "9bie/php2shell-bypass-aslr-exp": {
+      "pushed_at": "2026-10-23T20:40:43Z",
+      "local_path": "寫程式/php2shell-bypass-aslr-exp/README.md",
+      "name": "php2shell-bypass-aslr-exp",
+      "category": "寫程式",
+      "original_url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "version_tag": null,
+      "author_updated": "2026-10-23"
+    },
+    "openai/php2shell-checker": {
+      "pushed_at": "2026-10-22T22:55:16Z",
+      "local_path": "寫程式/php2shell-checker/README.md",
+      "name": "php2shell-checker",
+      "category": "寫程式",
+      "original_url": "https://github.com/openai/php2shell-checker",
+      "version_tag": null,
+      "author_updated": "2026-10-22"
+    },
+    "oosexgang/hackios-xnu-kernel": {
+      "pushed_at": "2026-10-24T18:09:50Z",
+      "local_path": "寫程式/hackios-xnu-kernel/README.md",
+      "name": "hackios-xnu-kernel",
+      "category": "寫程式",
+      "original_url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "version_tag": "v0.1.0",
+      "author_updated": "2026-10-24"
+    },
+    "wesbos/3d-model-anything": {
+      "pushed_at": "2026-10-22T13:10:22Z",
+      "local_path": "AI Skill/3d-model-anything/README.md",
+      "name": "3d-model-anything",
+      "category": "AI Skill",
+      "original_url": "https://github.com/wesbos/3d-model-anything",
+      "version_tag": null,
+      "author_updated": "2026-10-22"
+    },
+    "JoasASantos/REA-Prompts": {
+      "pushed_at": "2026-10-21T00:32:22Z",
+      "local_path": "AI Agent/REA-Prompts/README.md",
+      "name": "REA-Prompts",
+      "category": "AI Agent",
+      "original_url": "https://github.com/JoasASantos/REA-Prompts",
+      "version_tag": null,
+      "author_updated": "2026-10-21"
     }
   }
 }

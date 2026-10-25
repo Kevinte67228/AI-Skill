@@ -1,16 +1,18 @@
 # 📋 專案快速索引
 
-共收錄 138 個專案，最後更新於 2026-10-17
+共收錄 148 個專案，最後更新於 2026-10-25
 
 
-## 辦公室應用（16）
+## 辦公室應用（18）
 
 | 專案 | 版本 | 作者最後更新 | 快速連結 |
 |---|---|---|---|
+| aerial-tv | v1.47 | 2026-10-24 | [辦公室應用/aerial-tv](辦公室應用/aerial-tv) |
 | ASu-skills | - | 2026-08-14 | [辦公室應用/ASu-skills](辦公室應用/ASu-skills) |
 | aurelio-finance | - | 2026-10-11 | [辦公室應用/aurelio-finance](辦公室應用/aurelio-finance) |
 | cadcraft | v0.5.0 | 2026-10-11 | [辦公室應用/cadcraft](辦公室應用/cadcraft) |
 | Compositor | v1.0.4 | 2026-09-18 | [辦公室應用/Compositor](辦公室應用/Compositor) |
+| free-my-tv | v1.2.0 | 2026-10-24 | [辦公室應用/free-my-tv](辦公室應用/free-my-tv) |
 | FreeDomain | - | 2026-08-12 | [辦公室應用/FreeDomain](辦公室應用/FreeDomain) |
 | gridcraft | v0.5.0 | 2026-10-10 | [辦公室應用/gridcraft](辦公室應用/gridcraft) |
 | human-atlas | - | 2026-09-05 | [辦公室應用/human-atlas](辦公室應用/human-atlas) |
@@ -24,13 +26,13 @@
 | workout-guide | v1.0.0 | 2026-08-24 | [辦公室應用/workout-guide](辦公室應用/workout-guide) |
 | youtube-music | v1.0.0 | 2026-08-11 | [辦公室應用/youtube-music](辦公室應用/youtube-music) |
 
-## 寫程式（46）
+## 寫程式（52）
 
 | 專案 | 版本 | 作者最後更新 | 快速連結 |
 |---|---|---|---|
 | anti-slop | - | 2026-08-14 | [寫程式/anti-slop](寫程式/anti-slop) |
 | awesome | - | 2026-09-02 | [寫程式/awesome](寫程式/awesome) |
-| awesome-python | - | 2026-10-17 | [寫程式/awesome-python](寫程式/awesome-python) |
+| awesome-python | - | 2026-10-22 | [寫程式/awesome-python](寫程式/awesome-python) |
 | awesome-selfhosted | 1.0.0 | 2023-08-22 | [寫程式/awesome-selfhosted](寫程式/awesome-selfhosted) |
 | bank-sampah | - | 2026-09-11 | [寫程式/bank-sampah](寫程式/bank-sampah) |
 | BRUTAL | - | 2026-10-16 | [寫程式/BRUTAL](寫程式/BRUTAL) |
@@ -44,11 +46,14 @@
 | dsh-deep-whale | - | 2026-08-15 | [寫程式/dsh-deep-whale](寫程式/dsh-deep-whale) |
 | eve-software-factory-template | - | 2026-08-14 | [寫程式/eve-software-factory-template](寫程式/eve-software-factory-template) |
 | everything | - | 2026-10-17 | [寫程式/everything](寫程式/everything) |
+| fairplay-decrypt | - | 2026-10-24 | [寫程式/fairplay-decrypt](寫程式/fairplay-decrypt) |
 | fermats-last-theorem | - | 2026-09-04 | [寫程式/fermats-last-theorem](寫程式/fermats-last-theorem) |
 | floorplan-3d | - | 2026-10-02 | [寫程式/floorplan-3d](寫程式/floorplan-3d) |
-| free-programming-books | - | 2026-10-16 | [寫程式/free-programming-books](寫程式/free-programming-books) |
-| freeCodeCamp | - | 2026-10-17 | [寫程式/freeCodeCamp](寫程式/freeCodeCamp) |
+| free-programming-books | - | 2026-10-22 | [寫程式/free-programming-books](寫程式/free-programming-books) |
+| freeCodeCamp | - | 2026-10-24 | [寫程式/freeCodeCamp](寫程式/freeCodeCamp) |
 | fsearch | - | 2026-10-10 | [寫程式/fsearch](寫程式/fsearch) |
+| hackios-xnu-kernel | v0.1.0 | 2026-10-24 | [寫程式/hackios-xnu-kernel](寫程式/hackios-xnu-kernel) |
+| hatchzip | v0.1.3 | 2026-10-24 | [寫程式/hatchzip](寫程式/hatchzip) |
 | javascript-algorithms | - | 2026-07-26 | [寫程式/javascript-algorithms](寫程式/javascript-algorithms) |
 | kryvora-node | v0.2.0 | 2026-09-22 | [寫程式/kryvora-node](寫程式/kryvora-node) |
 | laya | v0.3.3 | 2026-09-19 | [寫程式/laya](寫程式/laya) |
@@ -60,9 +65,12 @@
 | ohmyzsh | - | 2026-08-11 | [寫程式/ohmyzsh](寫程式/ohmyzsh) |
 | paper | v8 | 2026-08-13 | [寫程式/paper](寫程式/paper) |
 | PDoomVideo | - | 2026-09-25 | [寫程式/PDoomVideo](寫程式/PDoomVideo) |
+| php2shell-bypass-aslr-exp | - | 2026-10-23 | [寫程式/php2shell-bypass-aslr-exp](寫程式/php2shell-bypass-aslr-exp) |
+| php2shell-checker | - | 2026-10-22 | [寫程式/php2shell-checker](寫程式/php2shell-checker) |
+| php2shell-poc | - | 2026-10-22 | [寫程式/php2shell-poc](寫程式/php2shell-poc) |
 | polyledger | - | 2026-09-02 | [寫程式/polyledger](寫程式/polyledger) |
 | project-based-learning | - | 2026-10-12 | [寫程式/project-based-learning](寫程式/project-based-learning) |
-| public-apis | - | 2026-10-17 | [寫程式/public-apis](寫程式/public-apis) |
+| public-apis | - | 2026-10-24 | [寫程式/public-apis](寫程式/public-apis) |
 | Python | - | 2026-08-03 | [寫程式/Python](寫程式/Python) |
 | react | v19.2.8 | 2026-07-21 | [寫程式/react](寫程式/react) |
 | REDox | v1.0.0 | 2026-10-01 | [寫程式/REDox](寫程式/REDox) |
@@ -79,6 +87,7 @@
 
 | 專案 | 版本 | 作者最後更新 | 快速連結 |
 |---|---|---|---|
+| 3d-model-anything | - | 2026-10-22 | [AI Skill/3d-model-anything](AI%20Skill/3d-model-anything) |
 | anything2explainer | - | 2026-09-12 | [AI Skill/anything2explainer](AI%20Skill/anything2explainer) |
 | book-to-skill | - | 2026-08-14 | [AI Skill/book-to-skill](AI%20Skill/book-to-skill) |
 | chatbot-template | - | 2026-08-11 | [AI Skill/chatbot-template](AI%20Skill/chatbot-template) |
@@ -105,7 +114,6 @@
 | reverify | v0.11.0 | 2026-09-04 | [AI Skill/reverify](AI%20Skill/reverify) |
 | screenwriting-skills | - | 2026-09-12 | [AI Skill/screenwriting-skills](AI%20Skill/screenwriting-skills) |
 | SemIf | - | 2026-09-19 | [AI Skill/SemIf](AI%20Skill/SemIf) |
-| skills | v1.3.1 | 2026-10-04 | [AI Skill/skills](AI%20Skill/skills) |
 | tensorflow | v2.21.0 | 2026-03-06 | [AI Skill/tensorflow](AI%20Skill/tensorflow) |
 | undress-service | - | 2026-09-02 | [AI Skill/undress-service](AI%20Skill/undress-service) |
 | universal-modder | - | 2026-09-30 | [AI Skill/universal-modder](AI%20Skill/universal-modder) |
@@ -115,7 +123,7 @@
 | WeMM-Embedding | - | 2026-08-28 | [AI Skill/WeMM-Embedding](AI%20Skill/WeMM-Embedding) |
 | yomiyasu | v1.0.5 | 2026-10-03 | [AI Skill/yomiyasu](AI%20Skill/yomiyasu) |
 
-## AI Agent（41）
+## AI Agent（43）
 
 | 專案 | 版本 | 作者最後更新 | 快速連結 |
 |---|---|---|---|
@@ -148,15 +156,17 @@
 | magpie | v0.1.156 | 2026-09-27 | [AI Agent/magpie](AI%20Agent/magpie) |
 | NanoJev | - | 2026-09-17 | [AI Agent/NanoJev](AI%20Agent/NanoJev) |
 | OpenBot | v0.0.4 | 2026-08-22 | [AI Agent/OpenBot](AI%20Agent/OpenBot) |
-| openclaw | v2026.10.4 | 2026-10-16 | [AI Agent/openclaw](AI%20Agent/openclaw) |
+| openclaw | v2026.10.7 | 2026-10-24 | [AI Agent/openclaw](AI%20Agent/openclaw) |
 | opencode | v1.18.18 | 2026-08-13 | [AI Agent/opencode](AI%20Agent/opencode) |
 | OpenDots | - | 2026-10-02 | [AI Agent/OpenDots](AI%20Agent/OpenDots) |
 | OpenMausBot | - | 2026-08-14 | [AI Agent/OpenMausBot](AI%20Agent/OpenMausBot) |
 | pi-from-scratch | - | 2026-08-12 | [AI Agent/pi-from-scratch](AI%20Agent/pi-from-scratch) |
 | PRAXIST | 0.5.0 | 2026-08-28 | [AI Agent/PRAXIST](AI%20Agent/PRAXIST) |
-| rea | rea-agents-6.5.0 | 2026-10-14 | [AI Agent/rea](AI%20Agent/rea) |
+| rea | rea-agents-6.7.0 | 2026-10-18 | [AI Agent/rea](AI%20Agent/rea) |
+| REA-Prompts | - | 2026-10-21 | [AI Agent/REA-Prompts](AI%20Agent/REA-Prompts) |
 | reelmimic | - | 2026-10-02 | [AI Agent/reelmimic](AI%20Agent/reelmimic) |
+| skills | v1.3.1 | 2026-10-04 | [AI Agent/skills](AI%20Agent/skills) |
 | sprix-sage-router | v0.1.0 | 2026-08-21 | [AI Agent/sprix-sage-router](AI%20Agent/sprix-sage-router) |
-| superpowers | v7.0.0 | 2026-10-10 | [AI Agent/superpowers](AI%20Agent/superpowers) |
+| superpowers | v7.0.1 | 2026-10-21 | [AI Agent/superpowers](AI%20Agent/superpowers) |
 | unreal-agent | v0.2.0 | 2026-09-23 | [AI Agent/unreal-agent](AI%20Agent/unreal-agent) |
 | WeChat-AI | v0.12.0 | 2026-08-13 | [AI Agent/WeChat-AI](AI%20Agent/WeChat-AI) |
