@@ -1,53 +1,53 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-11-01",
   "repos": {
     "nilbuild/developer-roadmap": {
-      "pushed_at": "2026-10-23T12:39:16Z",
-      "local_path": "寫程式/developer-roadmap/README.md",
+      "pushed_at": "2026-10-31T16:08:41Z",
+      "local_path": "辦公室應用/developer-roadmap/README.md",
       "name": "developer-roadmap",
-      "category": "寫程式",
+      "category": "辦公室應用",
       "original_url": "https://github.com/nilbuild/developer-roadmap",
       "version_tag": "4.0",
       "author_updated": "2023-01-05"
     },
     "public-apis/public-apis": {
-      "pushed_at": "2026-10-24T09:30:33Z",
+      "pushed_at": "2026-10-30T16:40:39Z",
       "local_path": "寫程式/public-apis/README.md",
       "name": "public-apis",
       "category": "寫程式",
       "original_url": "https://github.com/public-apis/public-apis",
       "version_tag": null,
-      "author_updated": "2026-10-24"
+      "author_updated": "2026-10-30"
     },
     "freeCodeCamp/freeCodeCamp": {
-      "pushed_at": "2026-10-24T08:25:15Z",
+      "pushed_at": "2026-11-01T00:01:26Z",
       "local_path": "寫程式/freeCodeCamp/README.md",
       "name": "freeCodeCamp",
       "category": "寫程式",
       "original_url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "version_tag": null,
-      "author_updated": "2026-10-24"
+      "author_updated": "2026-11-01"
     },
     "EbookFoundation/free-programming-books": {
-      "pushed_at": "2026-10-22T14:45:58Z",
+      "pushed_at": "2026-11-01T00:32:30Z",
       "local_path": "寫程式/free-programming-books/README.md",
       "name": "free-programming-books",
       "category": "寫程式",
       "original_url": "https://github.com/EbookFoundation/free-programming-books",
       "version_tag": null,
-      "author_updated": "2026-10-22"
+      "author_updated": "2026-11-01"
     },
     "vinta/awesome-python": {
-      "pushed_at": "2026-10-22T19:52:53Z",
+      "pushed_at": "2026-10-31T14:31:14Z",
       "local_path": "寫程式/awesome-python/README.md",
       "name": "awesome-python",
       "category": "寫程式",
       "original_url": "https://github.com/vinta/awesome-python",
       "version_tag": null,
-      "author_updated": "2026-10-22"
+      "author_updated": "2026-10-31"
     },
     "awesome-selfhosted/awesome-selfhosted": {
-      "pushed_at": "2026-10-22T14:44:35Z",
+      "pushed_at": "2026-10-31T14:28:04Z",
       "local_path": "寫程式/awesome-selfhosted/README.md",
       "name": "awesome-selfhosted",
       "category": "寫程式",
@@ -110,16 +110,16 @@
       "original_url": "https://github.com/antirez/h3.c"
     },
     "openclaw/openclaw": {
-      "pushed_at": "2026-10-25T00:02:32Z",
+      "pushed_at": "2026-11-01T00:44:32Z",
       "local_path": "AI Agent/openclaw/README.md",
       "name": "openclaw",
       "category": "AI Agent",
       "original_url": "https://github.com/openclaw/openclaw",
-      "version_tag": "v2026.10.7",
-      "author_updated": "2026-10-24"
+      "version_tag": "v2026.10.9",
+      "author_updated": "2026-10-29"
     },
     "obra/superpowers": {
-      "pushed_at": "2026-10-23T03:48:57Z",
+      "pushed_at": "2026-10-29T23:35:34Z",
       "local_path": "AI Agent/superpowers/README.md",
       "name": "superpowers",
       "category": "AI Agent",
@@ -272,13 +272,13 @@
       "author_updated": "2026-08-15"
     },
     "mattpocock/skills": {
-      "pushed_at": "2026-10-22T09:35:28Z",
+      "pushed_at": "2026-10-31T14:23:44Z",
       "local_path": "AI Agent/skills/README.md",
       "name": "skills",
       "category": "AI Agent",
       "original_url": "https://github.com/mattpocock/skills",
-      "version_tag": "v1.3.1",
-      "author_updated": "2026-10-04"
+      "version_tag": "v1.3.2",
+      "author_updated": "2026-10-29"
     },
     "yjh051108/dsh-routing-suite": {
       "pushed_at": "2026-08-15T20:29:05Z",
@@ -1226,13 +1226,13 @@
       "author_updated": "2026-10-15"
     },
     "morluto/rea": {
-      "pushed_at": "2026-10-25T00:02:31Z",
+      "pushed_at": "2026-11-01T00:10:07Z",
       "local_path": "AI Agent/rea/README.md",
       "name": "rea",
       "category": "AI Agent",
       "original_url": "https://github.com/morluto/rea",
-      "version_tag": "rea-agents-6.7.0",
-      "author_updated": "2026-10-18"
+      "version_tag": "rea-agents-6.8.0",
+      "author_updated": "2026-10-25"
     },
     "onehumanbeing/esp32-iphone-agent": {
       "pushed_at": "2026-10-17T12:35:10Z",
@@ -1332,6 +1332,96 @@
       "original_url": "https://github.com/JoasASantos/REA-Prompts",
       "version_tag": null,
       "author_updated": "2026-10-21"
+    },
+    "lexifina/global-law": {
+      "pushed_at": "2026-11-01T00:42:25Z",
+      "local_path": "辦公室應用/global-law/README.md",
+      "name": "global-law",
+      "category": "辦公室應用",
+      "original_url": "https://github.com/lexifina/global-law",
+      "version_tag": "zambia/national/acts/law/act-2025-13",
+      "author_updated": "2026-11-01"
+    },
+    "valentderah/totk-pc-recomp": {
+      "pushed_at": "2026-10-31T18:30:12Z",
+      "local_path": "寫程式/totk-pc-recomp/README.md",
+      "name": "totk-pc-recomp",
+      "category": "寫程式",
+      "original_url": "https://github.com/valentderah/totk-pc-recomp",
+      "version_tag": "v0.2.8",
+      "author_updated": "2026-10-31"
+    },
+    "aschmelyun/print-my-profile-pic": {
+      "pushed_at": "2026-10-29T03:34:22Z",
+      "local_path": "寫程式/print-my-profile-pic/README.md",
+      "name": "print-my-profile-pic",
+      "category": "寫程式",
+      "original_url": "https://github.com/aschmelyun/print-my-profile-pic",
+      "version_tag": null,
+      "author_updated": "2026-10-29"
+    },
+    "anhao/ai-pose-gallery-zh": {
+      "pushed_at": "2026-10-31T17:53:51Z",
+      "local_path": "AI Skill/ai-pose-gallery-zh/README.md",
+      "name": "ai-pose-gallery-zh",
+      "category": "AI Skill",
+      "original_url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "version_tag": null,
+      "author_updated": "2026-10-31"
+    },
+    "heydamir/unslop": {
+      "pushed_at": "2026-11-01T00:06:01Z",
+      "local_path": "AI Skill/unslop/README.md",
+      "name": "unslop",
+      "category": "AI Skill",
+      "original_url": "https://github.com/heydamir/unslop",
+      "version_tag": null,
+      "author_updated": "2026-11-01"
+    },
+    "paipiange/nvzhuang": {
+      "pushed_at": "2026-10-31T17:01:39Z",
+      "local_path": "AI Skill/nvzhuang/README.md",
+      "name": "nvzhuang",
+      "category": "AI Skill",
+      "original_url": "https://github.com/paipiange/nvzhuang",
+      "version_tag": null,
+      "author_updated": "2026-10-31"
+    },
+    "andyhuo520/digital-human-koubo": {
+      "pushed_at": "2026-10-31T12:05:46Z",
+      "local_path": "AI Skill/digital-human-koubo/README.md",
+      "name": "digital-human-koubo",
+      "category": "AI Skill",
+      "original_url": "https://github.com/andyhuo520/digital-human-koubo",
+      "version_tag": "v1.0.0",
+      "author_updated": "2026-10-26"
+    },
+    "patch-gg/pixelfx": {
+      "pushed_at": "2026-10-31T08:44:14Z",
+      "local_path": "AI Skill/pixelfx/README.md",
+      "name": "pixelfx",
+      "category": "AI Skill",
+      "original_url": "https://github.com/patch-gg/pixelfx",
+      "version_tag": null,
+      "author_updated": "2026-10-31"
+    },
+    "wangzan101/Mika": {
+      "pushed_at": "2026-10-31T21:22:13Z",
+      "local_path": "AI Agent/Mika/README.md",
+      "name": "Mika",
+      "category": "AI Agent",
+      "original_url": "https://github.com/wangzan101/Mika",
+      "version_tag": "v0.1.27",
+      "author_updated": "2026-10-31"
+    },
+    "deepseek-ai/dsh-superagent-prototype": {
+      "pushed_at": "2026-10-31T12:05:51Z",
+      "local_path": "AI Agent/dsh-superagent-prototype/README.md",
+      "name": "dsh-superagent-prototype",
+      "category": "AI Agent",
+      "original_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "version_tag": null,
+      "author_updated": "2026-10-31"
     }
   }
 }

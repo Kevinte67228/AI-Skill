@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-11-01",
   "top_star": [
     {
       "name": "public-apis",
       "full_name": "public-apis/public-apis",
       "html_url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
-      "stars": 491881,
+      "stars": 493828,
       "language": "Python",
       "created_at": "2016-03-20T23:49:42Z",
-      "updated_at": "2026-10-24T23:59:01Z",
-      "pushed_at": "2026-10-24T09:30:33Z",
+      "updated_at": "2026-11-01T00:37:58Z",
+      "pushed_at": "2026-10-30T16:40:39Z",
       "is_update": true,
       "previous_local_path": "寫程式/public-apis/README.md",
       "version": {
@@ -24,11 +24,11 @@
       "full_name": "freeCodeCamp/freeCodeCamp",
       "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "stars": 457858,
+      "stars": 458324,
       "language": "TypeScript",
       "created_at": "2014-12-24T17:49:19Z",
-      "updated_at": "2026-10-24T23:31:07Z",
-      "pushed_at": "2026-10-24T08:25:15Z",
+      "updated_at": "2026-11-01T00:03:26Z",
+      "pushed_at": "2026-11-01T00:01:26Z",
       "is_update": true,
       "previous_local_path": "寫程式/freeCodeCamp/README.md",
       "version": {
@@ -38,15 +38,33 @@
       }
     },
     {
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "html_url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 415537,
+      "language": "TypeScript",
+      "created_at": "2026-04-14T00:51:32Z",
+      "updated_at": "2026-11-01T00:44:48Z",
+      "pushed_at": "2026-11-01T00:10:07Z",
+      "is_update": true,
+      "previous_local_path": "AI Agent/rea/README.md",
+      "version": {
+        "tag": "rea-agents-6.8.0",
+        "published_at": "2026-10-25T08:36:02Z",
+        "source": "release"
+      }
+    },
+    {
       "name": "free-programming-books",
       "full_name": "EbookFoundation/free-programming-books",
       "html_url": "https://github.com/EbookFoundation/free-programming-books",
       "description": ":books: Freely available programming books",
-      "stars": 400016,
+      "stars": 400619,
       "language": "Python",
       "created_at": "2013-10-11T06:50:37Z",
-      "updated_at": "2026-10-24T23:58:36Z",
-      "pushed_at": "2026-10-22T14:45:58Z",
+      "updated_at": "2026-11-01T00:32:40Z",
+      "pushed_at": "2026-11-01T00:32:30Z",
       "is_update": true,
       "previous_local_path": "寫程式/free-programming-books/README.md",
       "version": {
@@ -60,34 +78,16 @@
       "full_name": "openclaw/openclaw",
       "html_url": "https://github.com/openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 392957,
+      "stars": 393558,
       "language": "TypeScript",
       "created_at": "2025-11-24T10:16:47Z",
-      "updated_at": "2026-10-25T00:02:41Z",
-      "pushed_at": "2026-10-25T00:02:32Z",
+      "updated_at": "2026-11-01T00:42:56Z",
+      "pushed_at": "2026-11-01T00:44:32Z",
       "is_update": true,
       "previous_local_path": "AI Agent/openclaw/README.md",
       "version": {
-        "tag": "v2026.10.7",
-        "published_at": "2026-10-24T09:53:46Z",
-        "source": "release"
-      }
-    },
-    {
-      "name": "rea",
-      "full_name": "morluto/rea",
-      "html_url": "https://github.com/morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 378661,
-      "language": "TypeScript",
-      "created_at": "2026-04-14T00:51:32Z",
-      "updated_at": "2026-10-25T00:02:43Z",
-      "pushed_at": "2026-10-25T00:02:31Z",
-      "is_update": true,
-      "previous_local_path": "AI Agent/rea/README.md",
-      "version": {
-        "tag": "rea-agents-6.7.0",
-        "published_at": "2026-10-18T07:45:18Z",
+        "tag": "v2026.10.9",
+        "published_at": "2026-10-29T15:54:35Z",
         "source": "release"
       }
     },
@@ -96,11 +96,11 @@
       "full_name": "nilbuild/developer-roadmap",
       "html_url": "https://github.com/nilbuild/developer-roadmap",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-      "stars": 370329,
+      "stars": 370894,
       "language": "TypeScript",
       "created_at": "2017-03-15T13:45:52Z",
-      "updated_at": "2026-10-24T23:39:38Z",
-      "pushed_at": "2026-10-23T12:39:16Z",
+      "updated_at": "2026-11-01T00:34:19Z",
+      "pushed_at": "2026-10-31T16:08:41Z",
       "is_update": true,
       "previous_local_path": "寫程式/developer-roadmap/README.md",
       "version": {
@@ -114,11 +114,11 @@
       "full_name": "awesome-selfhosted/awesome-selfhosted",
       "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-      "stars": 330025,
+      "stars": 332444,
       "language": "Unknown",
       "created_at": "2015-06-01T02:33:17Z",
-      "updated_at": "2026-10-25T00:02:30Z",
-      "pushed_at": "2026-10-22T14:44:35Z",
+      "updated_at": "2026-11-01T00:30:58Z",
+      "pushed_at": "2026-10-31T14:28:04Z",
       "is_update": true,
       "previous_local_path": "寫程式/awesome-selfhosted/README.md",
       "version": {
@@ -132,11 +132,11 @@
       "full_name": "vinta/awesome-python",
       "html_url": "https://github.com/vinta/awesome-python",
       "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-      "stars": 330015,
+      "stars": 331613,
       "language": "Python",
       "created_at": "2014-06-27T21:00:06Z",
-      "updated_at": "2026-10-25T00:00:49Z",
-      "pushed_at": "2026-10-22T19:52:53Z",
+      "updated_at": "2026-11-01T00:31:03Z",
+      "pushed_at": "2026-10-31T14:31:14Z",
       "is_update": true,
       "previous_local_path": "寫程式/awesome-python/README.md",
       "version": {
@@ -150,11 +150,11 @@
       "full_name": "obra/superpowers",
       "html_url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 304637,
+      "stars": 310062,
       "language": "Shell",
       "created_at": "2025-10-09T19:45:18Z",
-      "updated_at": "2026-10-25T00:01:34Z",
-      "pushed_at": "2026-10-23T03:48:57Z",
+      "updated_at": "2026-11-01T00:39:18Z",
+      "pushed_at": "2026-10-29T23:35:34Z",
       "is_update": true,
       "previous_local_path": "AI Agent/superpowers/README.md",
       "version": {
@@ -168,67 +168,31 @@
       "full_name": "mattpocock/skills",
       "html_url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 302515,
+      "stars": 308386,
       "language": "Shell",
       "created_at": "2026-02-03T11:15:53Z",
-      "updated_at": "2026-10-25T00:01:53Z",
-      "pushed_at": "2026-10-22T09:35:28Z",
+      "updated_at": "2026-11-01T00:44:43Z",
+      "pushed_at": "2026-10-31T14:23:44Z",
       "is_update": true,
-      "previous_local_path": "AI Skill/skills/README.md",
+      "previous_local_path": "AI Agent/skills/README.md",
       "version": {
-        "tag": "v1.3.1",
-        "published_at": "2026-10-04T12:48:18Z",
+        "tag": "v1.3.2",
+        "published_at": "2026-10-29T10:27:41Z",
         "source": "release"
       }
     }
   ],
   "fast_rising": [
     {
-      "name": "aerial-tv",
-      "full_name": "pengchujin/aerial-tv",
-      "html_url": "https://github.com/pengchujin/aerial-tv",
-      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-      "stars": 4362,
-      "language": "Kotlin",
-      "created_at": "2026-10-20T09:13:06Z",
-      "updated_at": "2026-10-25T00:02:33Z",
-      "pushed_at": "2026-10-24T16:37:02Z",
-      "is_update": false,
-      "previous_local_path": null,
-      "version": {
-        "tag": "v1.47",
-        "published_at": "2026-10-24T16:37:07Z",
-        "source": "release"
-      }
-    },
-    {
-      "name": "free-my-tv",
-      "full_name": "simbasjungles/free-my-tv",
-      "html_url": "https://github.com/simbasjungles/free-my-tv",
-      "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-      "stars": 4288,
-      "language": "Java",
-      "created_at": "2026-10-19T19:29:01Z",
-      "updated_at": "2026-10-25T00:01:59Z",
-      "pushed_at": "2026-10-24T20:35:07Z",
-      "is_update": false,
-      "previous_local_path": null,
-      "version": {
-        "tag": "v1.2.0",
-        "published_at": "2026-10-24T20:30:49Z",
-        "source": "release"
-      }
-    },
-    {
-      "name": "REA-Prompts",
-      "full_name": "JoasASantos/REA-Prompts",
-      "html_url": "https://github.com/JoasASantos/REA-Prompts",
-      "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
-      "stars": 2077,
-      "language": "Unknown",
-      "created_at": "2026-10-19T22:20:47Z",
-      "updated_at": "2026-10-24T23:57:38Z",
-      "pushed_at": "2026-10-21T00:32:22Z",
+      "name": "ai-pose-gallery-zh",
+      "full_name": "anhao/ai-pose-gallery-zh",
+      "html_url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "stars": 4676,
+      "language": "TypeScript",
+      "created_at": "2026-10-27T12:24:37Z",
+      "updated_at": "2026-11-01T00:42:15Z",
+      "pushed_at": "2026-10-31T17:53:51Z",
       "is_update": false,
       "previous_local_path": null,
       "version": {
@@ -238,105 +202,15 @@
       }
     },
     {
-      "name": "fairplay-decrypt",
-      "full_name": "EthanArbuckle/fairplay-decrypt",
-      "html_url": "https://github.com/EthanArbuckle/fairplay-decrypt",
-      "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
-      "stars": 1952,
-      "language": "C",
-      "created_at": "2026-10-19T10:07:58Z",
-      "updated_at": "2026-10-24T23:50:29Z",
-      "pushed_at": "2026-10-24T21:59:52Z",
-      "is_update": false,
-      "previous_local_path": null,
-      "version": {
-        "tag": null,
-        "published_at": null,
-        "source": null
-      }
-    },
-    {
-      "name": "php2shell-poc",
-      "full_name": "ikow/php2shell-poc",
-      "html_url": "https://github.com/ikow/php2shell-poc",
-      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "stars": 1754,
-      "language": "Python",
-      "created_at": "2026-10-21T07:55:16Z",
-      "updated_at": "2026-10-24T23:37:56Z",
-      "pushed_at": "2026-10-22T22:41:36Z",
-      "is_update": false,
-      "previous_local_path": null,
-      "version": {
-        "tag": null,
-        "published_at": null,
-        "source": null
-      }
-    },
-    {
-      "name": "hatchzip",
-      "full_name": "xevrion/hatchzip",
-      "html_url": "https://github.com/xevrion/hatchzip",
-      "description": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
-      "stars": 1695,
-      "language": "Rust",
-      "created_at": "2026-10-21T17:29:28Z",
-      "updated_at": "2026-10-24T23:33:32Z",
-      "pushed_at": "2026-10-24T17:04:55Z",
-      "is_update": false,
-      "previous_local_path": null,
-      "version": {
-        "tag": "v0.1.3",
-        "published_at": "2026-10-24T16:51:43Z",
-        "source": "release"
-      }
-    },
-    {
-      "name": "3d-model-anything",
-      "full_name": "wesbos/3d-model-anything",
-      "html_url": "https://github.com/wesbos/3d-model-anything",
-      "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
-      "stars": 1641,
-      "language": "Swift",
-      "created_at": "2026-10-21T19:38:50Z",
-      "updated_at": "2026-10-25T00:02:14Z",
-      "pushed_at": "2026-10-22T13:10:22Z",
-      "is_update": false,
-      "previous_local_path": null,
-      "version": {
-        "tag": null,
-        "published_at": null,
-        "source": null
-      }
-    },
-    {
-      "name": "php2shell-bypass-aslr-exp",
-      "full_name": "9bie/php2shell-bypass-aslr-exp",
-      "html_url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-      "stars": 1400,
-      "language": "Python",
-      "created_at": "2026-10-21T11:11:57Z",
-      "updated_at": "2026-10-24T21:49:27Z",
-      "pushed_at": "2026-10-23T20:40:43Z",
-      "is_update": false,
-      "previous_local_path": null,
-      "version": {
-        "tag": null,
-        "published_at": null,
-        "source": null
-      }
-    },
-    {
-      "name": "php2shell-checker",
-      "full_name": "openai/php2shell-checker",
-      "html_url": "https://github.com/openai/php2shell-checker",
-      "description": "",
-      "stars": 1381,
+      "name": "unslop",
+      "full_name": "heydamir/unslop",
+      "html_url": "https://github.com/heydamir/unslop",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "stars": 3486,
       "language": "JavaScript",
-      "created_at": "2026-10-21T00:29:12Z",
-      "updated_at": "2026-10-24T23:20:56Z",
-      "pushed_at": "2026-10-22T22:55:16Z",
+      "created_at": "2026-10-29T15:41:21Z",
+      "updated_at": "2026-11-01T00:44:19Z",
+      "pushed_at": "2026-11-01T00:06:01Z",
       "is_update": false,
       "previous_local_path": null,
       "version": {
@@ -346,19 +220,145 @@
       }
     },
     {
-      "name": "hackios-xnu-kernel",
-      "full_name": "oosexgang/hackios-xnu-kernel",
-      "html_url": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "description": "",
-      "stars": 1283,
-      "language": "C",
-      "created_at": "2026-10-22T06:20:11Z",
-      "updated_at": "2026-10-24T23:33:43Z",
-      "pushed_at": "2026-10-24T18:09:50Z",
+      "name": "Mika",
+      "full_name": "wangzan101/Mika",
+      "html_url": "https://github.com/wangzan101/Mika",
+      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "stars": 2732,
+      "language": "Kotlin",
+      "created_at": "2026-10-29T14:34:07Z",
+      "updated_at": "2026-11-01T00:43:16Z",
+      "pushed_at": "2026-10-31T21:22:13Z",
       "is_update": false,
       "previous_local_path": null,
       "version": {
-        "tag": "v0.1.0",
+        "tag": "v0.1.27",
+        "published_at": "2026-10-31T21:22:13Z",
+        "source": "release"
+      }
+    },
+    {
+      "name": "totk-pc-recomp",
+      "full_name": "valentderah/totk-pc-recomp",
+      "html_url": "https://github.com/valentderah/totk-pc-recomp",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "stars": 2604,
+      "language": "C",
+      "created_at": "2026-10-29T12:32:46Z",
+      "updated_at": "2026-11-01T00:42:46Z",
+      "pushed_at": "2026-10-31T18:30:12Z",
+      "is_update": false,
+      "previous_local_path": null,
+      "version": {
+        "tag": "v0.2.8",
+        "published_at": "2026-10-31T18:42:00Z",
+        "source": "release"
+      }
+    },
+    {
+      "name": "dsh-superagent-prototype",
+      "full_name": "deepseek-ai/dsh-superagent-prototype",
+      "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "stars": 2388,
+      "language": "TypeScript",
+      "created_at": "2026-10-31T09:32:46Z",
+      "updated_at": "2026-11-01T00:44:47Z",
+      "pushed_at": "2026-10-31T12:05:51Z",
+      "is_update": false,
+      "previous_local_path": null,
+      "version": {
+        "tag": null,
+        "published_at": null,
+        "source": null
+      }
+    },
+    {
+      "name": "nvzhuang",
+      "full_name": "paipiange/nvzhuang",
+      "html_url": "https://github.com/paipiange/nvzhuang",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "stars": 1718,
+      "language": "Go",
+      "created_at": "2026-10-29T06:08:00Z",
+      "updated_at": "2026-11-01T00:44:13Z",
+      "pushed_at": "2026-10-31T17:01:39Z",
+      "is_update": false,
+      "previous_local_path": null,
+      "version": {
+        "tag": null,
+        "published_at": null,
+        "source": null
+      }
+    },
+    {
+      "name": "print-my-profile-pic",
+      "full_name": "aschmelyun/print-my-profile-pic",
+      "html_url": "https://github.com/aschmelyun/print-my-profile-pic",
+      "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+      "stars": 1638,
+      "language": "Unknown",
+      "created_at": "2026-10-27T20:40:05Z",
+      "updated_at": "2026-11-01T00:44:23Z",
+      "pushed_at": "2026-10-29T03:34:22Z",
+      "is_update": false,
+      "previous_local_path": null,
+      "version": {
+        "tag": null,
+        "published_at": null,
+        "source": null
+      }
+    },
+    {
+      "name": "digital-human-koubo",
+      "full_name": "andyhuo520/digital-human-koubo",
+      "html_url": "https://github.com/andyhuo520/digital-human-koubo",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "stars": 1587,
+      "language": "TypeScript",
+      "created_at": "2026-10-26T04:34:09Z",
+      "updated_at": "2026-11-01T00:35:14Z",
+      "pushed_at": "2026-10-31T12:05:46Z",
+      "is_update": false,
+      "previous_local_path": null,
+      "version": {
+        "tag": "v1.0.0",
+        "published_at": "2026-10-26T11:52:14Z",
+        "source": "release"
+      }
+    },
+    {
+      "name": "pixelfx",
+      "full_name": "patch-gg/pixelfx",
+      "html_url": "https://github.com/patch-gg/pixelfx",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "stars": 1410,
+      "language": "JavaScript",
+      "created_at": "2026-10-30T06:43:25Z",
+      "updated_at": "2026-11-01T00:44:12Z",
+      "pushed_at": "2026-10-31T08:44:14Z",
+      "is_update": false,
+      "previous_local_path": null,
+      "version": {
+        "tag": null,
+        "published_at": null,
+        "source": null
+      }
+    },
+    {
+      "name": "global-law",
+      "full_name": "lexifina/global-law",
+      "html_url": "https://github.com/lexifina/global-law",
+      "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+      "stars": 1407,
+      "language": "HTML",
+      "created_at": "2026-10-28T13:34:16Z",
+      "updated_at": "2026-11-01T00:42:29Z",
+      "pushed_at": "2026-11-01T00:42:25Z",
+      "is_update": false,
+      "previous_local_path": null,
+      "version": {
+        "tag": "zambia/national/acts/law/act-2025-13",
         "published_at": null,
         "source": "tag"
       }
