@@ -1,53 +1,53 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-08",
   "repos": {
     "nilbuild/developer-roadmap": {
-      "pushed_at": "2026-10-31T16:08:41Z",
-      "local_path": "辦公室應用/developer-roadmap/README.md",
+      "pushed_at": "2026-11-06T11:53:17Z",
+      "local_path": "寫程式/developer-roadmap/README.md",
       "name": "developer-roadmap",
-      "category": "辦公室應用",
+      "category": "寫程式",
       "original_url": "https://github.com/nilbuild/developer-roadmap",
       "version_tag": "4.0",
       "author_updated": "2023-01-05"
     },
     "public-apis/public-apis": {
-      "pushed_at": "2026-10-30T16:40:39Z",
+      "pushed_at": "2026-11-07T19:45:54Z",
       "local_path": "寫程式/public-apis/README.md",
       "name": "public-apis",
       "category": "寫程式",
       "original_url": "https://github.com/public-apis/public-apis",
       "version_tag": null,
-      "author_updated": "2026-10-30"
+      "author_updated": "2026-11-07"
     },
     "freeCodeCamp/freeCodeCamp": {
-      "pushed_at": "2026-11-01T00:01:26Z",
+      "pushed_at": "2026-11-06T18:01:25Z",
       "local_path": "寫程式/freeCodeCamp/README.md",
       "name": "freeCodeCamp",
       "category": "寫程式",
       "original_url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "version_tag": null,
-      "author_updated": "2026-11-01"
+      "author_updated": "2026-11-06"
     },
     "EbookFoundation/free-programming-books": {
-      "pushed_at": "2026-11-01T00:32:30Z",
+      "pushed_at": "2026-11-07T19:10:09Z",
       "local_path": "寫程式/free-programming-books/README.md",
       "name": "free-programming-books",
       "category": "寫程式",
       "original_url": "https://github.com/EbookFoundation/free-programming-books",
       "version_tag": null,
-      "author_updated": "2026-11-01"
+      "author_updated": "2026-11-07"
     },
     "vinta/awesome-python": {
-      "pushed_at": "2026-10-31T14:31:14Z",
+      "pushed_at": "2026-11-06T17:47:24Z",
       "local_path": "寫程式/awesome-python/README.md",
       "name": "awesome-python",
       "category": "寫程式",
       "original_url": "https://github.com/vinta/awesome-python",
       "version_tag": null,
-      "author_updated": "2026-10-31"
+      "author_updated": "2026-11-06"
     },
     "awesome-selfhosted/awesome-selfhosted": {
-      "pushed_at": "2026-10-31T14:28:04Z",
+      "pushed_at": "2026-11-07T11:49:42Z",
       "local_path": "寫程式/awesome-selfhosted/README.md",
       "name": "awesome-selfhosted",
       "category": "寫程式",
@@ -110,13 +110,13 @@
       "original_url": "https://github.com/antirez/h3.c"
     },
     "openclaw/openclaw": {
-      "pushed_at": "2026-11-01T00:44:32Z",
+      "pushed_at": "2026-11-08T01:06:31Z",
       "local_path": "AI Agent/openclaw/README.md",
       "name": "openclaw",
       "category": "AI Agent",
       "original_url": "https://github.com/openclaw/openclaw",
-      "version_tag": "v2026.10.9",
-      "author_updated": "2026-10-29"
+      "version_tag": "v2026.11.1",
+      "author_updated": "2026-11-05"
     },
     "obra/superpowers": {
       "pushed_at": "2026-10-29T23:35:34Z",
@@ -272,7 +272,7 @@
       "author_updated": "2026-08-15"
     },
     "mattpocock/skills": {
-      "pushed_at": "2026-10-31T14:23:44Z",
+      "pushed_at": "2026-11-05T10:40:01Z",
       "local_path": "AI Agent/skills/README.md",
       "name": "skills",
       "category": "AI Agent",
@@ -1226,7 +1226,7 @@
       "author_updated": "2026-10-15"
     },
     "morluto/rea": {
-      "pushed_at": "2026-11-01T00:10:07Z",
+      "pushed_at": "2026-11-08T01:02:56Z",
       "local_path": "AI Agent/rea/README.md",
       "name": "rea",
       "category": "AI Agent",
@@ -1422,6 +1422,105 @@
       "original_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "version_tag": null,
       "author_updated": "2026-10-31"
+    },
+    "jwasham/coding-interview-university": {
+      "pushed_at": "2026-11-07T16:03:02Z",
+      "local_path": "寫程式/coding-interview-university/README.md",
+      "name": "coding-interview-university",
+      "category": "寫程式",
+      "original_url": "https://github.com/jwasham/coding-interview-university",
+      "version_tag": null,
+      "author_updated": "2026-11-07"
+    },
+    "Minireel/HGhub": {
+      "pushed_at": "2026-11-05T08:41:19Z",
+      "local_path": "寫程式/HGhub/README.md",
+      "name": "HGhub",
+      "category": "寫程式",
+      "original_url": "https://github.com/Minireel/HGhub",
+      "version_tag": "v1.1.0",
+      "author_updated": "2026-11-05"
+    },
+    "govijr/terminal-mac": {
+      "pushed_at": "2026-11-07T05:58:26Z",
+      "local_path": "寫程式/terminal-mac/README.md",
+      "name": "terminal-mac",
+      "category": "寫程式",
+      "original_url": "https://github.com/govijr/terminal-mac",
+      "version_tag": "v0.2.0-6",
+      "author_updated": "2026-11-03"
+    },
+    "NotRexed/Hookshot": {
+      "pushed_at": "2026-11-08T01:01:27Z",
+      "local_path": "寫程式/Hookshot/README.md",
+      "name": "Hookshot",
+      "category": "寫程式",
+      "original_url": "https://github.com/NotRexed/Hookshot",
+      "version_tag": "no-visual-studio",
+      "author_updated": "2026-11-08"
+    },
+    "JenkinWoo/sheeridVerify": {
+      "pushed_at": "2026-11-06T09:54:37Z",
+      "local_path": "寫程式/sheeridVerify/README.md",
+      "name": "sheeridVerify",
+      "category": "寫程式",
+      "original_url": "https://github.com/JenkinWoo/sheeridVerify",
+      "version_tag": null,
+      "author_updated": "2026-11-06"
+    },
+    "livliv-dev/player": {
+      "pushed_at": "2026-11-07T09:56:32Z",
+      "local_path": "寫程式/player/README.md",
+      "name": "player",
+      "category": "寫程式",
+      "original_url": "https://github.com/livliv-dev/player",
+      "version_tag": "v0.3.0",
+      "author_updated": "2026-11-06"
+    },
+    "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto": {
+      "pushed_at": "2026-11-06T03:52:06Z",
+      "local_path": "AI Skill/Google_AI_Pro_2Year_ZeroCost_Auto/README.md",
+      "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "category": "AI Skill",
+      "original_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "version_tag": null,
+      "author_updated": "2026-11-06"
+    },
+    "mmdoctor/google-pro-helper": {
+      "pushed_at": "2026-11-05T09:41:40Z",
+      "local_path": "AI Skill/google-pro-helper/README.md",
+      "name": "google-pro-helper",
+      "category": "AI Skill",
+      "original_url": "https://github.com/mmdoctor/google-pro-helper",
+      "version_tag": null,
+      "author_updated": "2026-11-05"
+    },
+    "Sandflow-ai/sand3d": {
+      "pushed_at": "2026-11-06T11:03:55Z",
+      "local_path": "AI Skill/sand3d/README.md",
+      "name": "sand3d",
+      "category": "AI Skill",
+      "original_url": "https://github.com/Sandflow-ai/sand3d",
+      "version_tag": "v1.6.3",
+      "author_updated": "2026-11-06"
+    },
+    "KKKKhazix/agent-autoloop": {
+      "pushed_at": "2026-11-08T01:03:42Z",
+      "local_path": "AI Agent/agent-autoloop/README.md",
+      "name": "agent-autoloop",
+      "category": "AI Agent",
+      "original_url": "https://github.com/KKKKhazix/agent-autoloop",
+      "version_tag": "v1.6.3",
+      "author_updated": "2026-11-07"
+    },
+    "voyager-so/vork": {
+      "pushed_at": "2026-11-07T20:54:07Z",
+      "local_path": "AI Agent/vork/README.md",
+      "name": "vork",
+      "category": "AI Agent",
+      "original_url": "https://github.com/voyager-so/vork",
+      "version_tag": "v0.2.0",
+      "author_updated": "2026-11-07"
     }
   }
 }
